@@ -1,0 +1,316 @@
+food_name,food_category,shelf_life_unopened_days,shelf_life_opened_days,ideal_storage_temp,temp_coefficient,preservatives_level,packaging_type,ph_level
+Kopi Instan,Beverage,693.0,27,25.2,0.031,3,Plastik,4.71
+  Yoghurt Plain  ,Dairy,19.0,3,4.2,0.144,2,,3.78
+Kecap Manis,Sauce,345.0,64 hari,24.5,0.095,4,Botol Kaca,4.62
+Selai Kacang,sauce ,394.0,93,24.8,0.081,4,Botol Kaca,5.9
+Yoghurt Plain,Dairy,19.0,3,4.2,0.154,2,Plastik,3.74
+Selai Coklat,Sauce,381.0,64,25.1,0.072,4,Botol Kaca,6.13
+Minuman Energi,Beverage,352.0,0,25.4,0.078,4,Kaleng,
+Kornet Sapi,Caned,1036.0,2,24.8,0.053,5,Kaleng,5.92
+Yoghurt Plain,Dairy,22.0,3,4.1,0.143,2,Plastik,4.26
+Jus Jeruk,Beverage,191.0,5,4.2,0.114,2,Karton,3.62
+Mayones,Sauce,265.0,14,9.7,0.109,4,Plastik,4.28
+Kecap Manis,Sauce,345.0,51,25.4,0.091,4,Botol Kaca,4.75
+Sarden Tomat,Canned,778.0,2,24.7,0.051,5,Kaleng,5.83
+Susu UHT Full Cream,Dairy,291.0,7,4.3,0.122,3,Karton,6.59
+Minuman Energi,,401.0,1,24.8,0.061,4,Kaleng,3.65
+Selai Kacang,sauce ,358.0,79,25.0,0.078,4,Botol Kaca,6.47
+Yoghurt Plain,Dairy,20.0,4,4.0,0.147,2,,4.3
+Kornet Sapi,CANNED,1105.0,3,25.0,0.042,5,Kaleng,5.87
+Kecap Asin,Sauce,360.0,90,24.7,0.087,4,,4.67
+  Tomat Kaleng  ,,-10.0,5,25.0,0.058,4,Kaleng,4.57
+Mentega Unsalted,Dairy,87.0,26,3.6,0.087,3,Karton,6.96
+Biskuit Coklat,Snaks,190.0,7,25.3,0.078,3,Plastik,6.25
+Mayones,Sauce,273.0,13,9.6,0.113,4,Plastik,3.72
+Kecap Asin,Sauce,387.0,86,25.2,,4,Botol Kaca,5.09
+Minuman Energi,Beverage,386.0,1,24.6,0.072,4,Tin,3.69
+Keju Cheddar,Dairy,169.0,13,3.8,,4,Plastik,5.53
+Biskuit Coklat,Snack,193.0,7,24.8,0.06,3,,
+  Biskuit Coklat  ,Snack ,,6,,0.067,3,Plastik,6.68
+Saus Sambal,Sauce,,28,24.8,0.098,4,Botol Kaca,3.64
+  Mie Instan  ,,377.0,2,24.8,0.064,4,Plastik,5.87
+Tomat Kaleng,,763.0,4,25.1,0.06,7,Kaleng,4.23
+Yoghurt Strawberry,Dairy,31.0,3,4.3,0.144,2,Plastik,4.23
+Teh Celup,Beverage,789.0,66,24.6,0.038,2,Karton ,
+Mentega Unsalted,Daory,90.0,27,4.5,0.077,3,KARTON,6.62
+Ikan Tuna Kaleng,Canned,1051.0,,24.9,0.056,5,KALENG,6.07
+Teh Celup,Beverage,744.0,58 hari,25.2,0.037,2,Karton,5.23
+Minuman Isotonik,Beverage,388.0,0,25.5,0.063,3,Plastic,
+Yoghurt Plain,Dairy,21.0,3,4.1,0.156,2,Plastik,3.7
+Yoghurt Strawberry,,27.0,3,,0.158,10,Plastik,4.42
+Teh Botol,Beverag,372.0,0,25.5,0.086,3,Botol Kaca,5.41
+Kornet Sapi,Canned,1147.0,3,25.1,0.052,5,Kaleng,6.04
+Kecap Asin,Sauce,401.0,85,25.2,,4,Botol Kaca,4.89
+Susu Kedelai,Beverage,265.0,3,3.7,0.124,2,Karton,6.8
+Mayones,Sauce,258.0,12,,0.119,4,plastik,
+Saus Sambal,Sauce,334.0,27,25.1,0.104,4,Botol Kaca,3.54
+Saus Tomat,Sauce,371.0,30,25.4,0.093,4,Botol Kaca,
+Mayones,Sauce,254.0,16,10.0,0.102,4,Plastik,3.73
+Susu UHT Full Cream,Dairy,296.0,6,4.5,0.123,3,Karton,6.66
+Yoghurt Plain,Dairy,20.0,4,4.1,0.154,2,Plastik,4.13
+Air Mineral,Beverage,751.0,1,25.3,0.021,1,Plastik,6.8
+Susu Kedelai,Beverage,284.0,3,4.3,0.121,2,Karton ,6.5
+Kecap Manis,sauce ,370.0,55,25.2,0.08,4,,4.76
+Susu Kedelai,Beverage,254.0,2,4.4,0.117,2,Karton,6.59
+Selai Kacang,Sauce,388.0,102,24.6,0.071,4,Botol Kaca,6.09
+Susu UHT Full Cream,Dairy,291.0,7,4.0,5.0,3,Karton,6.65
+Kopi Instan,Beverage,696.0,33,25.3,0.032,3,Plastik,5.23
+Selai Coklat,Sauce,377.0,68,24.9,0.084,4,Botol Kaca,6.15
+Sarden Tomat,Canned,737.0,2,25.1,0.057,5,Kaleng,5.95
+Jus Jeruk,Beverage,174.0,5,4.4,0.117,2,Karton,3.57
+Keju Cheddar,Dairy,185.0,15,4.1,0.108,4,Plastik,5.89
+Biskuit Coklat,Snack,175.0,7,25.5,0.069,3,Plastik,6.37
+  Minuman Isotonik  ,Beverage,386.0,0,24.9,0.053,3,Plastik,
+Kopi Instan,beverage,736.0,28,24.6,0.043,3,Plastik,4.88
+Jagung Manis Kaleng,Canned,783.0,3,25.5,,5,Tin,6.11
+  Tomat Kaleng  ,Canned,739.0,4,25.5,0.052,4,Kaleng ,4.46
+Mentega Unsalted,Dairy,82.0,34,4.4,0.079,3,Karton,6.67
+  Keju Cheddar  ,DAIRY,176.0,14,3.9,0.094,4,Plastik,5.75
+Mentega Unsalted,Dairy,89.0,32,4.3,0.079,3,Karton,7.15
+Saus Tomat,Sauce,333.0,31,24.8,0.096,4,Botol Kaca,4.11
+Teh Celup,Beverage,749.0,59,24.6,0.037,2,Karton,
+Minuman Isotonik,Beverage,331.0,0,25.1,0.05,3,Plastik,3.98
+Jus Jeruk,Beverage,168.0,4,4.4,0.12,2,Karton,3.64
+Mie Instan,,382.0,2,25.2,0.06,4,Plastik,6.17
+Susu Kedelai,Beverage,281.0,2,4.2,0.129,2,Karton,6.66
+Minuman Isotonik,Beverage,334.0,0,24.9,0.056,3,Plastik,3.95
+Susu UHT Low Fat,Dairy,218.0,4,3.9,0.124,3,Karton,6.69
+Jus Jeruk,Beverage,177.0,4,4.2,0.12,2,Karton,3.9
+Teh Botol,Beverage,366.0,1,24.9,0.077,3,Botol Kaca,5.42
+Biskuit Coklat,Snack,181.0,6 hari,24.5,0.062,3,PLASTIK,6.73
+Selai Coklat,Sauce,377.0,68,24.9,0.084,4,Botol Kaca,6.15
+Krim Kental Manis,,774.0,5,25.0,0.079,5,Kaleng,6.43
+Mie Instan,Snaks,392.0,1,25.5,,4,Plastik,6.29
+Susu UHT Full Cream,dairy,296.0,7 hari,3.9,0.12,3,Karton,6.57
+Jus Jeruk,Beverage,193.0,4,4.0,0.114,2,Karton,4.05
+  Teh Celup  ,Beverage,691.0,58,24.8,0.045,2,Karton,5.47
+Kopi Instan,Beverage,761.0,27,,0.035,3,Plastik,4.99
+Saus Tomat,Sauce,358.0,28,25.1,0.106,4,Botol Kaca,3.99
+Selai Coklat,Sauce,330.0,57,24.9,0.089,4,BOTOL KACA,6.61
+Kornet Sapi,Canned,1167.0,2,25.4,0.057,-1,Kaleng,6.07
+Yoghurt Strawberry,Dairy,29.0,3,3.8,0.156,2,Plastik,4.26
+Kecap Manis,Sauce,380.0,60,24.7,0.085,4,Botol Kaca,4.46
+Susu Kedelai,Beverage,295.0,2,4.0,0.128,2,Karton,
+Susu Kedelai,Beverage,247.0,3,4.3,0.122,2,karton,7.07
+Kopi Instan,Beverage,694.0,27,24.5,0.046,3,Plastik,5.24
+Jagung Manis Kaleng,Canned,750.0,,25.0,,5,kaleng,6.13
+Saus Sambal,sauce ,333.0,26,25.2,,4,Botol Kaca,3.83
+Krim Kental Manis,Dairy,775.0,4,25.3,0.062,5,Kaleng,6.72
+Krim Kental Manis,Dairy,799.0,5,24.8,0.062,5,Kaleng,6.32
+Selai Kacang,Sauce,336.0,93,25.3,0.078,4,Botol Kaca,5.94
+Biskuit Coklat,Snack,175.0,6,24.7,0.071,3,Plastik,6.54
+Mentega Unsalted,Dairi,94.0,27,3.7,0.08,3,Karton,7.03
+Selai Coklat,Sauce,356.0,68,25.0,0.089,4,Botol Kaca,6.62
+Keju Cheddar,Dairy,183.0,12,3.7,0.101,4,Plastik,5.83
+Yoghurt Strawberry,Dairy,27.0,2,3.8,0.146,2,Plastik,4.22
+Selai Coklat,Sauced,349.0,58,25.1,0.083,4,Botol Kaca,0.0
+Saus Tomat,Sauce,330.0,33,25.3,0.095,4,Botol Kaca,3.71
+Air Mineral,Beverage,775.0,1,25.3,0.035,1,Plastik,7.11
+Tomat Kaleng,,763.0,4,25.1,0.06,4,Kaleng,4.23
+Krim Kental Manis,Daory,712.0,4,24.9,0.075,5,Kaleng,6.71
+Saus Tomat,Sauce,,33,25.0,0.095,4,Glass Bottle,3.75
+Ikan Tuna Kaleng,,1066.0,1,24.8,,5,Kaleng,6.19
+Minuman Energi,Beverage,373.0,0,25.4,0.063,4,Kaleng,3.48
+Keju Cheddar,Dairy,171.0,12,,0.092,4,Plastik,5.82
+Sarden Tomat,Canned,796.0,1,25.2,0.051,5,Kaleng,5.96
+Sarden Cabai,Canned,773.0,1,24.5,0.044,5,Kaleng,5.6
+Krim Kental Manis,Dairy,,5,25.1,0.077,5,Kaleng,6.58
+Sarden Tomat,Canned,706.0,2,24.7,0.044,5,Kaleng,5.87
+Saus Sambal,Sauce,369.0,27,25.1,,4,Botol Kaca,3.64
+Minuman Energi,Beverage,336.0,0,25.1,0.065,4,Kaleng,3.56
+Kecap Manis,Sauce,390.0,57,25.3,0.091,4,BOTOL KACA,4.68
+Kecap Asin,Sauce,366.0,90,25.5,0.091,4,Botol Kaca,4.73
+Sarden Tomat,Canned,782.0,1,25.3,0.049,5,Kaleng,5.78
+Mie Instan,Snack,390.0,1,24.7,0.066,4,Plastik,5.9
+Jus Jeruk,Beverage,193.0,4,,0.128,2,Karton,
+  Kornet Sapi  ,Canned,1174.0,3,,0.053,5,Kaleng,5.94
+Susu UHT Low Fat,Dairy,226.0,4,4.1,0.115,3,Karton,6.53
+Minuman Isotonik,Beverage,346.0,0,25.1,0.051,3,Plastik,4.26
+Saus Tomat,Sauce,364.0,25,25.0,0.102,4,Botol Kaca,4.12
+Sarden Tomat,Canned,679.0,1,24.9,0.046,5,Kaleng,5.76
+Mentega Unsalted,Dairi,94.0,27,3.7,0.08,3,Karton,7.03
+Teh Celup,Beverage,755.0,53 hari,24.9,0.037,2,karton,5.55
+Kopi Instan,Beverage,672.0,,24.7,0.049,3,Plastik,5.01
+Minuman Energi,Beverage,338.0,0,24.7,0.077,4,,3.66
+Mayones,Sauce,283.0,15,9.9,0.115,4,Plastik,3.79
+Kopi Instan,Minuman,775.0,26,24.9,0.038,-1,Plastik,5.11
+Mayones,Sauce,267.0,14,9.8,0.105,4,Plastik,4.12
+Saus Sambal,Sauce,379.0,28 hari,24.8,0.09,4,,3.92
+Selai Coklat,Sauce,374.0,62,25.4,0.079,4,,6.43
+Jus Jeruk,Beverage,185.0,5,4.1,0.11,2,,3.97
+Kopi Instan,Beverage,725.0,31,25.4,0.034,3,Plastik,5.05
+Keju Cheddar,,183.0,15,4.2,0.094,4,Plastic,5.96
+Kornet Sapi,canned,1093.0,3 hari,25.1,0.049,5,Kaleng,5.96
+Sarden Cabai,Canned,718.0,1,24.7,0.058,5,Kaleng,5.67
+Biskuit Coklat,Snack,193.0,7,24.8,0.06,3,,
+Krim Kental Manis,Dairy,700.0,5,,0.063,5,kaleng,6.52
+Minuman Isotonik,Beverage,346.0,0,25.1,0.051,3,Plastik,4.26
+Jus Jeruk,Beverage,177.0,4,4.0,0.117,2,Karton,4.01
+Mentega Unsalted,Dairy,86.0,29,4.1,0.085,3,Karton,6.65
+Teh Celup,Beverage,692.0,59,25.1,0.038,2,Karton,5.22
+Teh Botol,,400.0,1,24.8,0.085,3,Botol Kaca,5.31
+Saus Tomat,,362.0,31,25.5,0.095,4,Botol Kaca,3.61
+Susu UHT Low Fat,Dairy,243.0,5,4.2,0.111,3,Karton,6.76
+Kecap Asin,Sauce,344.0,78,25.3,,4,Botol Kaca,4.68
+Saus Sambal,sauce,,33,24.6,0.099,4,Botol Kaca,3.8
+Yoghurt Strawberry,Dairy,,3,3.5,0.144,2,,4.29
+Minuman Energi,Beverage,387.0,1,25.0,0.069,4,Kaleng,3.64
+Sarden Cabai,Canned,791.0,2,,0.057,5,Kaleng,5.57
+Saus Tomat,Sauce,358.0,26,25.4,0.096,4,Botol Kaca,3.9
+Susu UHT Full Cream,Dairy,247.0,7,4.0,0.125,3,Karton,6.91
+Teh Botol,Beverage,363.0,0,24.8,0.085,3,Botol Kaca,5.27
+Yoghurt Strawberry,Dairy,27.0,3,4.4,99.9,2,Plastik,4.36
+Sarden Tomat,Canned,690.0,1,24.5,0.051,5,Kaleng,5.76
+Kecap Asin,Sauce,367.0,95,25.2,0.093,4,Botol Kaca,
+Biskuit Coklat,,169.0,7,25.2,0.064,3,Plastik,6.39
+Minuman Isotonik,,330.0,0,25.0,0.067,3,,3.84
+Air Mineral,Beverage,775.0,1,25.3,0.035,1,Plastik,7.11
+Mayones,Sauce,284.0,12,,0.115,4,Plastik,3.77
+Selai Kacang,,353.0,95,25.1,0.087,4,Botol Kaca,6.41
+Selai Kacang,Sauce,338.0,85,25.5,0.084,4,botol,6.14
+Kecap Manis,Sauce,372.0,65,24.7,0.09,6,Botol Kaca,4.47
+Biskuit Coklat,Snack,180.0,6,25.0,0.079,3,Plastik,6.23
+Teh Celup,,659.0,67,25.4,0.042,2,Karton,5.54
+Air Mineral,,663.0,0,24.5,0.039,1,Plastik,
+Mentega Unsalted,Dairy,94.0,28,4.4,0.086,3,Karton ,7.12
+Sarden Cabai,Caned,791.0,,25.3,,5,Kaleng,5.46
+Minuman Energi,Beverage,346.0,1,24.5,0.075,4,Kaleng,3.66
+Susu Kedelai,Beverage,254.0,2,3.8,0.117,2,Karton,6.5
+Kornet Sapi,Canned,1158.0,2,25.4,0.05,5,Kaleng,6.19
+Tomat Kaleng,canned,801.0,5,,0.064,4,Kaleng,4.51
+Mentega Unsalted,Dairi,84.0,26,,0.078,3,Karton,6.88
+Mie Instan,Snack,363.0,2,24.8,,4,Plastik,5.95
+Air Mineral,Beverage,784.0,,,0.033,1,Plastik,7.25
+Jus Jeruk,Beverage,186.0,5,4.4,0.12,2,Karton,3.8
+Susu UHT Full Cream,Dairy,285.0,7,4.0,0.119,3,Karton ,7.08
+Jagung Manis Kaleng,CANNED,715.0,2,25.1,0.051,5,Kaleng,5.99
+Kecap Manis,Sauce,358.0,62,24.6,0.099,4,,4.24
+Teh Botol,Beverage,401.0,0,24.7,0.075,3,botol kaca,5.76
+Mentega Unsalted,Dairy,97.0,30,4.2,0.087,3,Karton,7.06
+Selai Kacang,Sauce,382.0,82,,0.077,4,Botol Kaca,6.12
+Mie Instan,Snack ,375.0,1,24.8,0.067,4,PLASTIK,5.82
+Yoghurt Strawberry,Dairy,27.0,3,4.4,0.147,2,Plastik,4.34
+Jagung Manis Kaleng,Canned,688.0,2,24.6,0.058,5,Kaleng,6.49
+  Biskuit Coklat  ,SNACK,184.0,7,25.0,0.077,3,Plastik,6.53
+Mie Instan,Snack,380.0,1,24.6,0.05,4,Plastik,5.89
+Saus Sambal,Sauce,376.0,26,24.7,0.092,4,BOTOL KACA,3.4
+Kopi Instan,Beverage,701.0,26,25.4,0.049,3,Plastik,4.75
+Minuman Energi,,401.0,1,24.8,0.061,4,Kaleng,3.65
+Teh Botol,Beverage,350.0,1,25.1,0.076,3,Botol Kaca,5.27
+Ikan Tuna Kaleng,Canned,1057.0,1,24.9,0.053,5,Kaleng,6.25
+Susu UHT Full Cream,Dairy,277.0,6,,0.114,10,Karton,6.94
+Tomat Kaleng,Canned,692.0,4,24.9,,4,Kaleng,4.14
+  Saus Sambal  ,Sauce,386.0,28,25.2,0.103,4,Botol Kaca,3.86
+Ikan Tuna Kaleng,,1121.0,1,24.9,0.051,5,,5.82
+Tomat Kaleng,Canned,755.0,5,25.3,0.069,4,Kaleng,4.07
+Selai Kacang,Sauce,341.0,97,25.0,0.084,4,Botol Kaca,6.28
+Kecap Manis,Sauce,389.0,55,24.6,0.08,4,Botol Kaca,4.52
+  Teh Botol  ,,401.0,1,24.9,0.072,3,Botol Kaca,5.58
+Sarden Cabai,,689.0,1,24.9,0.041,5,Kaleng,5.6
+  Krim Kental Manis  ,Daory,763.0,5,25.5,0.062,5,Kaleng,
+Susu UHT Low Fat,Dairy,222.0,4,4.4,0.126,3,Karton,6.92
+Susu UHT Full Cream,Dairy,260.0,7,3.9,0.12,3,Karton,7.09
+Mayones,Sauce,249.0,15,,0.112,4,,4.07
+Tomat Kaleng,Canned,741.0,4,25.2,0.054,4,,4.06
+Susu UHT Low Fat,Dairy,222.0,4,4.1,0.127,3,Karton,6.73
+Jagung Manis Kaleng,Canned,745.0,2,25.2,0.053,5,Kaleng,6.13
+Kecap Asin,Sauce,360.0,99,25.5,0.086,4,Botol Kaca,4.87
+Air Mineral,Beverage,671.0,1,25.0,0.04,1,Plastik,
+Jagung Manis Kaleng,Canned,673.0,3,25.1,0.05,5,Kaleng,6.21
+Teh Celup,Beverage,727.0,52,25.3,0.045,2,Karton,5.28
+Susu UHT Full Cream,Dairy,288.0,6,4.1,,3,Karton,6.74
+Keju Cheddar,Dairi,191.0,14,3.8,0.093,4,Plastik,6.07
+Yoghurt Strawberry,Dairy,31.0,2,4.1,,2,PLASTIK,4.22
+Yoghurt Strawberry,,27.0,3,,0.158,10,Plastik,4.42
+Kecap Asin,Sauce,390.0,102,25.3,0.092,4,Botol Kaca,-2.0
+Tomat Kaleng,Canned,723.0,4,24.7,0.064,4,Kaleng,4.34
+  Air Mineral  ,Beverage,679.0,1,25.2,0.025,1,Plastik,7.1
+Mie Instan,Snack,367.0,1,200.0,0.059,4,Plastik,
+Selai Kacang,Sauce,379.0,88,25.2,0.088,4,Botol Kaca,
+Yoghurt Strawberry,Dairy,32.0,2,3.7,0.142,2,Plastik,4.37
+Mentega Unsalted,Dairy,96.0,31,,0.084,3,Karton,6.73
+Saus Tomat,Sauce,373.0,32,25.4,0.094,4,Botol Kaca,3.73
+Sarden Cabai,,799.0,2 hari,25.2,0.043,5,Kaleng,5.92
+Sarden Tomat,Canned,778.0,2,24.7,0.051,5,Kaleng,5.83
+Sarden Cabai,Canned,759.0,1,24.7,0.046,5,Tin,5.45
+Ikan Tuna Kaleng,Canned,1200.0,2,25.4,0.042,5,Kaleng,6.38
+Sarden Tomat,Canned,698.0,2,25.2,0.043,5,Kaleng,6.02
+Keju Cheddar,Dairy,193.0,16,4.3,0.108,4,,5.51
+Kecap Asin,Sauce,399.0,92,25.0,0.095,4,Botol Kaca,4.53
+Kecap Asin,Sauce,343.0,101,25.4,0.086,4,Botol Kaca,4.89
+Krim Kental Manis,Dairy,778.0,4,,0.07,5,Kaleng,-2.0
+  Ikan Tuna Kaleng  ,Canned,1197.0,2,25.3,,5,Kaleng,6.09
+Ikan Tuna Kaleng,Canned,1096.0,1,25.1,,5,Kaleng,6.34
+Yoghurt Plain,Dairy,20.0,4,3.8,0.154,2,Plastik,3.86
+Selai Coklat,Sauce,387.0,52,25.3,0.079,4,Botol Kaca,6.28
+Krim Kental Manis,dairy,722.0,4,24.8,0.069,5,,6.45
+Yoghurt Plain,Dairy,22.0,3,4.2,0.142,2,Plastik,4.28
+Minuman Isotonik,Beverage,392.0,0,25.1,0.062,3,Plastik,3.89
+Sarden Cabai,Canned,722.0,1,24.6,,5,Kaleng,5.9
+Air Mineral,beverage,757.0,1,24.6,0.035,1,plastik,7.21
+Teh Botol,Beverage,340.0,0,25.0,0.083,3,Botol Kaca,5.4
+Kopi Instan,BEVERAGE,778.0,32 hari,24.6,0.047,3,Plastik,4.73
+Teh Celup,Minuman,772.0,55,24.8,0.033,2,Karton,5.23
+Yoghurt Strawberry,Dairy,32.0,2,3.6,0.152,2,Plastik,3.94
+Kornet Sapi,Canned,1174.0,3,24.6,0.06,5,Kaleng,6.2
+Mayones,Sauce,282.0,13,9.5,-0.5,4,Plastik,
+Sarden Cabai,Canned,-5.0,2 hari,24.8,0.049,5,Kaleng,5.43
+Jagung Manis Kaleng,Canned,722.0,3,25.2,0.056,5,Kaleng,6.19
+Susu Kedelai,Beverage,265.0,3,3.7,0.124,2,Karton,6.8
+Teh Botol,Beverage,357.0,0,24.6,0.087,3,Botol Kaca,5.47
+Jagung Manis Kaleng,Canned,678.0,3,24.8,0.061,5,Kaleng,6.23
+Kecap Manis,Sauce,401.0,61,25.2,0.083,4,Botol Kaca,4.38
+Sarden Tomat,Canned,670.0,1,25.2,0.047,5,Kaleng,5.69
+Ikan Tuna Kaleng,Canned,1144.0,2,25.5,0.056,5,Kaleng,6.02
+Selai Coklat,Sauce,371.0,67,24.8,,4,Botol Kaca,
+Saus Tomat,Sauce,383.0,34,24.7,0.09,4,Botol Kaca,3.69
+Minuman Isotonik,Beverage,379.0,1,25.5,0.063,3,Plastik,3.8
+Susu UHT Low Fat,Dairy,248.0,5,3.6,0.118,3,,
+Selai Coklat,Sauce,380.0,55,24.9,0.083,4,Botol Kaca,6.28
+Air Mineral,Beverage,721.0,0,25.0,0.038,1,Plastik,7.18
+Minuman Energi,,394.0,0,25.4,0.063,4,Kaleng,3.28
+Keju Cheddar,Dairy,195.0,14,,0.106,4,Plastik,5.98
+Minuman Isotonik,Beverage,338.0,0,,0.052,3,Plastik,4.26
+Susu UHT Low Fat,Dairy,246.0,5,4.0,0.123,3,Karton,6.56
+Jus Jeruk,Beverage,193.0,5,3.9,0.113,2,Karton,4.0
+Susu Kedelai,BEVERAGE,288.0,3,3.5,0.117,2,Karton,6.96
+  Susu UHT Low Fat  ,Dairy,230.0,4,3.8,0.113,3,Karton,6.71
+  Kecap Manis  ,Sauce,,,24.5,0.086,4,BOTOL KACA,4.36
+Mie Instan,Snack,377.0,2,25.1,0.069,4,,6.23
+  Yoghurt Plain  ,Dairy,20.0,4,3.6,0.149,2,Plastik,4.27
+Saus Sambal,Sauce,392.0,29,25.0,0.099,4,Botol Kaca,3.83
+Susu UHT Low Fat,Dairy,248.0,5 hari,3.6,0.118,3,,
+Kecap Asin,Sauce,360.0,99,25.5,0.086,4,Botol Kaca,4.87
+Kopi Instan,Beverage,693.0,27,25.2,0.031,3,Plastik,4.71
+Yoghurt Plain,Dairy,,4,3.7,0.143,2,Plastik,3.82
+Susu Kedelai,Beverage,287.0,2,4.2,0.129,2,Karton,6.58
+Air Mineral,Beverage,703.0,1,24.6,0.029,1,Plastik,7.3
+Susu Kedelai,Beverage,273.0,3,3.7,0.112,2,Karton,7.02
+Kornet Sapi,Canned,1010.0,3,24.6,0.059,5,Kaleng,6.22
+Minuman Energi,Beverage,338.0,0,24.7,0.077,4,,3.66
+  Sarden Tomat  ,Canned,798.0,2,25.4,0.057,5,Kaleng,5.75
+Selai Coklat,Sauce,391.0,,24.8,0.084,4,Botol Kaca,6.56
+Mie Instan,,328.0,2,25.1,0.055,4,,6.14
+Selai Kacang,SAUCE,359.0,92,25.0,0.089,4,Botol Kaca,6.02
+Minuman Energi,Beverage,383.0,0,24.9,0.074,4,,0.0
+Tomat Kaleng,Kaleng,,4,24.6,0.068,4,Tin,4.21
+Teh Botol,Beverage,375.0,0,24.9,0.079,3,Botol Kaca,5.77
+Ikan Tuna Kaleng,Canned,1047.0,1 hari,25.1,0.06,5,Kaleng,6.09
+Krim Kental Manis,Dairy,792.0,5,25.1,0.076,5,Kaleng,6.28
+Jagung Manis Kaleng,Canned,772.0,2,25.0,0.059,5,Kaleng,6.3
+Minuman Isotonik,Beverage,355.0,1,25.2,0.068,3,PLASTIK,4.03
+Mayones,sauce,278.0,15,,0.107,4,Plastik,4.05
+Biskuit Coklat,Snack,196.0,7,25.1,0.069,3,,
+Ikan Tuna Kaleng,Canned,1025.0,1,25.4,0.05,5,Kaleng,
+Susu UHT Low Fat,Daory,247.0,5,3.9,0.114,0,Karton,6.62
+Kornet Sapi,Canned,1134.0,2,24.7,0.049,5,Kaleng,5.78
+Teh Celup,Beverage,664.0,55,25.3,0.039,2,Karton,5.68
+  Keju Cheddar  ,Dairy,181.0,13,,0.092,4,Plastik,5.92
+Susu UHT Low Fat,Dairy,247.0,,4.3,0.112,3,Karton,6.53
+Kornet Sapi,Canned,1134.0,2,24.7,0.049,5,Kaleng,5.78
+Air Mineral,Beverage,658.0,1,25.2,0.031,1,Plastik,6.86
+Sarden Cabai,Canned,777.0,1,25.3,0.055,5,Kaleng,5.6
+Jagung Manis Kaleng,Canned,683.0,3,,0.052,5,Kaleng,6.16
+Saus Sambal,Sauce,337.0,31,25.1,0.094,4,Botol Kaca,3.82
+Susu UHT Full Cream,Dairy,263.0,7,4.5,0.126,3,Karton,6.98
+Tomat Kaleng,CANNED,687.0,4,25.3,0.058,4,,4.45

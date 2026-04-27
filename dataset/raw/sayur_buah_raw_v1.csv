@@ -1,0 +1,316 @@
+item_name,item_type,freshness_score_visual,standard_shelf_life_fridge,standard_shelf_life_room,water_content_pct,ethylene_producer,respiration_rate,sensitivity_to_chilling
+Stroberi,Berry,0.58,5.0,1.0,89.5,False,HIGH,False
+Sawi Hijau,Leafy Vegetable,0.82,5.0,0.0,,False,High,False
+Lemon,,0.86,20.0,6.0,89.4,False,Low,
+Pisang,Tropical Fruit,0.64,4.0,2.0,,True,High,True
+Sawi Hijau,Leafy Vegetable,0.81,5.0,1.0,91.2,False,High,
+Pepaya,Tropical Fruit,0.69,4.0,2.0,88.0,True,high,True
+Anggur,Temperate Fruit,0.73,6.0,3.0,82.1,True,High,False
+Bawang Putih,Root Veg,0.89,92.0,44.0,63.5,False,Low,False
+Sawi Hijau,Leafy Vegetable,0.81,4.0,1.0,92.8,False,High,False
+Melon,Tropical Fruit,0.74,7.0,2.0,90.2,True,Medium,True
+Mangga,Tropical Fruit,0.7,6.0,3.0,82.7,True,High,true
+Lemon,citrus,Segar,19.0,6.0,88.9,False,Low,False
+ Kentang ,Root Vegetable,0.89,29.0,14.0,79.6,False,Low,False
+Bayam,Leafy Vegetable,0.89,4.0,1.0,92.1,False,High,
+Anggur,Temperate Fruit,0.73,7.0,2.0,81.1,True,,False
+Pisang,Tropical Fruit,0.65,4.0,1.0,,True,High,True
+Sawi Hijau,Leafy Vegetable,0.82,4.0,1.0,90.7,False,High,False
+Bawang Putih,,2.0,87.0,44.0,63.3,False,Rendah,False
+Jeruk Nipis,Citric Fruit,0.91,15.0,,86.4,False,Low,False
+Jeruk,Citric Fruit,0.9,19.0,6.0,85.8,False,Low,False
+Kol,Leafy Vegetable,99.0,13.0,5.0,90.6,,Medium,False
+Cabai Hijau,Chili,0.74,14.0,4.0,88.4,False,,True
+Mangga,Tropical Fruit,0.76,7.0,4.0,81.4,True,HIGH,True
+Jeruk Nipis,Citric Fruit,0.87,13.0,4.0,87.6,False,Low,False
+Anggur,Temperate Fruit,0.74,6.0,3.0,80.0,True,High,False
+Brokoli,Leafy Vegetable,0.8,10.0,2.0,90.8,True,High,False
+Cabai Hijau,Chili,0.81,13.0,4.0,90.4,False,,True
+Cabai Hijau,Chili,0.72,12.0,5.0,88.3,False,Low,True
+Alpukat,Tropical Fruit,0.74,7.0,2.0,71.5,True,High,True
+Cabai Merah,Chili,Segar,14.0,4.0,89.7,False,Low,
+Mangga,Tropical Fruit,0.69,6.0,4.0,84.8,True,high,True
+Selada,Leafy Vegetable,Segar,7.0,1.0,97.0,False,Medium,False
+ Blueberry ,,Segar,6.0,3.0,85.7,False,Medium,
+Kol,Leafy Vegetable,0.88,14.0,5.0,90.7,True,Medium,False
+Jahe,Root Vegetable,0.91,85.0,26.0,82.3,False,Low,False
+Blueberry,Berry,0.61,7.0,3.0,84.1,False,Medium,False
+Apel,,0.87,19.0,7.0,87.7,True,Low,False
+Sawi Hijau,Leafy Vegetable,0.86,5.0,0.0,91.5,,High,False
+Brokoli,LEAFY VEGETABLE,0.77,10.0,3.0,89.6,True,High,False
+Semangka,Tropical Fruit,0.78,10.0,3.0,92.7,False,Low,0
+ Bawang Putih ,Root Vegetable,0.92,90.0,51.0,61.4,False,low,False
+Jeruk Nipis,citrus,,13.0,5.0,88.7,,Low,False
+Pear,Temperate Fruit,0.85,12.0,4.0,84.3,True,Low,False
+Mangga,Tropical Fruit,Segar,6.0,4.0,81.9,TRUE,high ,True
+Alpukat,Tropical Fruit,0.71,6.0,2.0,73.2,True,High,True
+Tomat,Tropical Fruit,0.78,14.0,5.0,94.8,True,Medium,False
+Mangga,Tropical Fruit,0.69,7.0,3.0,82.3,True,Hi,True
+Bayam,Leafy Vegetable,0.84,4.0,1.0,91.0,,High,False
+Sawi Hijau,Sayur Daun,0.86,5.0,1.0,92.2,False,High,False
+Nanas,Tropical Fruit,0.81,6.0,2.0,87.3,False,Sedang,True
+Pear,Temperate Fruit,0.84,13.0,5.0,82.8,True,Low,False
+Lemon,CITRIC,0.94,22.0,6.0,89.9,False,Low,False
+Pear,Temperate Fruit,0.86,14.0,5.0,,True,Low,False
+Pisang,Tropical Fruit,0.68,5.0,2.0,74.7,True,High,True
+Bayam,Leafy Vegetable,0.89,4.0,0.0,93.1,False,High,False
+Stroberi,Beri,Layu,5.0,2.0,91.2,False,High,False
+Pepaya,Buah Tropis,0.64,4.0,2.0,87.8,True,High,True
+Kentang,Root Vegetable,0.86,31.0,12.0,77.2,False,Low,
+Melon,Tropical Fruit,0.81,6.0,2.0,89.6,True,Medium,True
+Brokoli,LEAFY VEGETABLE,Segar,10.0,3.0,89.6,True,High,False
+Cabai Hijau,Chili,0.73,14.0,5.0,89.6,False,Low,True
+Apel,temperate fruit,0.88,22.0,6.0,85.3,True,Low,False
+Stroberi,berrys,0.6,4.0,2.0,91.8,False,High,False
+ Lobak ,Root Vegetable,0.84,20.0,10.0,93.8,False,Low,False
+Jeruk,Citric Fruit,0.9,22.0,6.0,88.4,False,Low,False
+Kol,leafy vegetable,0.93,13.0,5.0,90.1,true,MEDIUM,Tidak
+Brokoli,Leafy Vegetable,0.8,9.0,2.0,89.1,TRUE,High,FALSE
+Kol,Leafy Vegetable,0.86,14.0,4.0,92.6,True,,False
+Tomat,Tropical Fruit,0.71,13.0,4.0,94.0,True,Medium,False
+Blueberry,Berry,2.0,6.0,2.0,85.7,False,Medium,
+Apel,TEMPERATE,0.9,20.0,7.0,85.5%,True,Low,False
+Melon,Tropical Fruit,0.83,7.0,3.0,88.5,1,Medium,TRUE
+Cabai Merah,Chili,,13.0,4.0,87.5,False,Low,True
+Pear,Temperate Fruit,0.88,12.0,5.0,82.8,True,Low,False
+Apel,Temperate Fruit,0.89,21.0,6.0,84.0,True,Low,False
+Kangkung,Leafy Vegetable,0.78,3.0,,89.4,False,,False
+Melon,Tropical Fruit,0.78,7.0,3.0,88.4,True,Medium,True
+Semangka,Tropical Fruit,0.76,9.0,3.0,91.1,False,,False
+Cabai Hijau,Chili,0.73,15.0,4.0,90.6,False,Low,True
+Pepaya,Tropical Fruit,0.68,4.0,1.0,87.6,True,High,True
+Wortel,,0.92,21.0,7.0,89.4,False,Low,False
+Cabai Merah,Chili,0.8,13.0,5.0,86.3,False,Low,True
+Bayam,Leafy Vegetable,0.85,4.0,1.0,92.1,False,High,False
+Melon,Tropical Fruit,0.8,6.0,3.0,91.4,True,Medium,True
+Blueberry,BERRY,0.64,7.0,2.0,84.1,False,Medium,Tidak
+Stroberi,Berry,0.56,4.0,2.0,89.4,False,High,False
+Tomat,Tropical Fruit,0.78,14.0,4.0,95.9,,Medium,False
+Pepaya,Buah Tropis,0.64,4.0,2.0,87.8,True,High,True
+Bawang Putih,Root Vegetable,0.86,87.0,48.0,61.4,False,,False
+Selada,Leafy Vegetable,0.8,6.0,1.0,95.0,False,Medium,False
+ Lemon ,citric fruit,0.93,21.0,6.0,88.6,False,Low,False
+Pear,,0.9,12.0,5.0,85.4,TRUE,Low,False
+Pear,Temperate Fruit,0.82,13.0,4.0,85.1,1,L,False
+Stroberi,Berry,0.63,4.0,1.0,,False,Tinggi,False
+Lobak,Akar-akaran,0.86,21.0,8.0,95.0,False,L,False
+Alpukat,Tropical Fruit,0.68,6.0,2.0,71.3,True,High,
+Wortel,Root Vegetable,0.9,20.0,7.0,89.4,False,LOW,False
+Wortel,Root Vegetable,0.87,20.0,,,False,Low,False
+Pisang,Tropical Fruit,0.69,4.0,2.0,74.0,True,High,True
+Cabai Hijau,CHILI,0.74,14.0,5.0,91.2,False,Low,True
+Kol,Leafy Vegetable,,,4.0,92.2,True,Medium,False
+Pepaya,Buah Tropis,0.65,4.0,1.0,,True,High,True
+Brokoli,Leafy Vegetable,0.77,10.0,2.0,,True,High,False
+Selada,Leafy Vegetable,0.8,6.0,2.0,96.6,False,Medium,False
+Pepaya,,0.64,5.0,1.0,,True,High,True
+Tomat,Tropical Fruit,0.71,13.0,4.0,94.2,True,,False
+ Wortel ,Root Vegetable,0.87,20.0,,,False,Low,False
+Jeruk,Citric Fruit,0.86,19.0,6.0,85.9,False,Low,no
+Wortel,Root Vegetable,0.85,20.0,7.0,88.2,False,Low,False
+Tomat,Tropical Fruit,0.73,13.0,4.0,93.0,True,,False
+Jahe,Root Vegetable,0.9,98.0,29.0,83.2,False,Low,False
+Anggur,Temperate Fruit,0.72,7.0,2.0,80.5,True,High,False
+Brokoli,Leafy Vegetable,0.77,10.0,2.0,,True,High,False
+Kentang,Root Vegetable,0.85,31.0,12.0,78.4,False,Low,False
+Bawang Merah,Root Vegetable,0.88,57.0,27.0,87.9,False,Low,false
+Wortel,Root Vegetable,0.92,18.0,6.0,86.5,False,Low,0
+Kentang,,0.86,31.0,14.0,77.7,False,Low,False
+Alpukat,Tropical Fruit,0.66,6.0,2.0,73.5,True,High,TRUE
+Anggur,temperate fruit,0.69,-20.0,3.0,81.6,True,High,False
+Lemon,Buah Citrus,0.92,20.0,7.0,89.5,False,LOW,False
+Jeruk Nipis,Citrus Fruit,0.93,14.0,4.0,87.3,False,Low,False
+Kentang,ROOT VEG,0.85,28.0,12.0,77.6,False,low,False
+Cabai Merah,Chili,0.73,15.0,5.0,86.5,False,Low,True
+Melon,Tropical Fruit,0.81,7.0,3.0,88.5,True,Medium,True
+Bawang Putih,Root Vegetable,0.93,91.0,48.0,61.7,False,Low,
+Kangkung,,0.78,0.0,0.0,,False,High,
+Apel,Temperate Fruit,0.88,22.0,7.0,86.6,True,Low,False
+Tomat,Tropical Fruit,0.71,15.0,5.0,,True,Medium,FALSE
+Kentang,Root Vegetable,0.82,31.0,11.0,79.8,False,Low,False
+Kol,Leafy Vegetable,0.86,15.0,5.0,91.7,True,Medium,False
+Blueberry,,0.66,7.0,3.0,84.2,False,Medium,False
+Stroberi,Berry,0.6,4.0,1.0,90.8,,High,False
+Anggur,Temperate Fruit,0.68,6.0,2.0,,True,High,False
+Mangga,Tropical Fruit,0.69,6.0,4.0,84.8,True,high,True
+Stroberi,Berry,0.63,5.0,2.0,91.0,False,High,False
+Mangga,Tropical Fruit,0.67,7.0,4.0,84.2%,True,High,True
+Alpukat,Tropical Fruit,0.68,7.0,2.0,72.1,True,HIGH,True
+Pepaya,Tropical Fruit,0.62,5.0,2.0,88.1,True,High,True
+Melon,Tropical Fruit,0.82,6.0,2.0,89.8,True,MEDIUM,True
+Stroberi,Berry,0.55,4.0,2.0,92.6,False,High,False
+Brokoli,Leafy Vegetable,0.77,10.0,2.0,88.6,True,High,False
+Bawang Putih,Root Vegetable,0.87,95.0,40.0,63.9,,Low,False
+Bawang Merah,Root Vegetable,Segar,61.0,33.0,85.6,False,Low,False
+Pepaya,Buah Tropis,0.65,4.0,1.0,,True,High,True
+Wortel,Root Vegetable,0.91,19.0,8.0,88.7,,Low,False
+Lobak,Root Vegetable,0.81,19.0,,95.8,False,Low,False
+Melon,,Segar,7.0,,88.5,True,Medium,True
+Kol,Leafy Vegetable,0.84,14.0,5.0,91.4,True,Medium,
+Blueberry,Berry,0.65,0.0,2.0,85.8,False,Medium,False
+Semangka,Tropical Fruit,0.8,10.0,2.0,92.6,False,Low,
+Tomat,Tropical Fruit,0.74,14.0,4.0,,True,Medium,False
+Kangkung,Leafy Vegetable,0.82,4.0,1.0,,no,High,False
+Jeruk Nipis,Citric Fruit,-0.5,14.0,4.0,87.2,False,,False
+Alpukat,Tropical Fruit,99.0,6.0,3.0,72.0,True,High,
+Selada,Leafy Vegetable,,7.0,1.0,96.8,False,Medium,False
+Anggur,Temperate Fruit,0.7,7.0,3.0,82.5,True,High,False
+Bawang Merah,Root Vegetable,0.84,61.0,32.0,,,Low,False
+Tomat,Tropical Fruit,0.78,12.0,5.0,94.6,True,Medium,False
+Bayam,Leafy Vegetable,0.82,5.0,1.0,93.1,False,High,
+Semangka,Tropical Fruit,0.8,10.0,2.0,90.7,False,Low,False
+Selada,Leafy Vegetable,0.71,6.0,1.0,95.4,,Medium,False
+Kentang,Root Vegetable,0.85,30.0,,78.0,False,L,False
+Jeruk Nipis,Citric Fruit,Segar,14.0,5.0,86.2%,False,Low,False
+Cabai Hijau,Chili,0.76,12.0,4.0,89.3,False,Low,True
+Apel,Temperate Fruit,0.9,21.0,6.0,85.3%,True,Low,False
+ Nanas ,Tropical Fruit,0.78,7.0,3.0,87.0,False,Med,
+Mangga,Tropical Fruit,0.76,7.0,4.0,82.7,True,High,Ya
+Pisang,Tropical Fruit,,4.0,1.0,,True,High,True
+Pisang,Tropical Fruit,0.7,5.0,2.0,73.2,True,high ,True
+ Lemon ,Citric Fruit,0.88,21.0,5.0,89.0,False,Low,False
+Cabai Hijau,Chile,0.73,14.0,5.0,90.6,False,Low,True
+Blueberry,Berry,0.64,6.0,2.0,85.3,False,Medium,False
+Nanas,Tropical Fruit,0.8,7.0,2.0,87.4,False,Medium,True
+Kol,Leafy Vegetable,0.84,15.0,4.0,94.0,True,Medium,False
+Bawang Merah,,0.91,58.0,32.0,85.2,False,Low,False
+Anggur,Temperate Fruit,0.68,7.0,3.0,80.8,True,High,False
+Pear,Temperate Fruit,0.9,13.0,4.0,85.1,True,Low,
+Bawang Putih,Root Vegetable,0.86,83.0,47.0,63.5,False,Low,0
+Jeruk,Citric Fruit,0.87,20.0,6.0,87.4,False,Low,
+Kol,Leafy Vegetable,0.91,14.0,5.0,90.1,True,Medium,False
+Cabai Merah,Chili,0.82,14.0,4.0,,False,Low,True
+Nanas,Tropical Fruit,,6.0,3.0,86.3,False,MEDIUM,True
+Melon,Tropical Fruit,0.8,7.0,3.0,88.4,True,Medium,True
+ Bayam ,,0.9,5.0,0.0,90.6,False,High,False
+ Lobak ,Root Vegetable,0.81,19.0,,95.8,False,Low,False
+Lemon,Citric Fruit,0.88,22.0,7.0,89.2,False,Low,False
+Semangka,tropical fruit,0.85,10.0,2.0,90.2,False,Rendah,False
+Kol,,0.88,14.0,4.0,90.0,,Medium,False
+Pisang,Tropical Fruit,0.73,5.0,2.0,76.0,True,high ,True
+Cabai Merah,,0.83,13.0,5.0,87.8,False,Low,true
+Selada,Leafy Vegetable,0.77,6.0,2.0,93.6,False,Medium,False
+ Lobak ,Root Vegetable,,22.0,11.0,95.5,False,Low,False
+Cabai Hijau,Chili,Segar,15.0,5.0,88.3,False,L,True
+Cabai Merah,Chili,0.76,14.0,5.0,87.9,False,Low,
+Alpukat,Tropical Fruit,0.65,7.0,2.0,74.9,True,High,1
+Stroberi,Berry,0.58,5.0,2.0,89.5,False,Tinggi,False
+Stroberi,Beri,0.57,5.0,2.0,91.2,False,High,False
+Semangka,Tropical Fruit,0.85,9.0,3.0,92.4,,L,False
+Jahe,Root Vegetable,0.95,94.0,28.0,,False,Low,False
+Bayam,Leafy Vegetable,0.82,5.0,0.0,93.6,0,High,0
+Jeruk,Citric Fruit,0.92,19.0,6.0,86.5%,0,Low,0
+Alpukat,Tropical Fruit,0.69,7.0,3.0,71.7,true,High,True
+Jahe,Root Vegetable,0.87,84.0,26.0,80.1,False,Low,False
+Jeruk,Citric Fruit,0.84,22.0,6.0,86.2,False,Low,False
+ Pisang ,Tropical Fruit,Segar,4.0,2.0,73.3,,High,True
+ Lemon ,Citric Fruit,0.87,21.0,6.0,90.3,False,Low,False
+Semangka,Tropis,0.81,10.0,2.0,90.3,False,Low,False
+Bawang Merah,Root Vegetable,0.86,65.0,32.0,85.5,False,Low,False
+Wortel,Root Vegetable,Segar,22.0,7.0,,,Low,False
+Kangkung,leafy vegetable,0.82,4.0,1.0,88.7%,False,High,0
+Bayam,Leafy Vegetable,0.87,4.0,0.0,90.6%,0,High,False
+Mangga,Tropical Fruit,0.69,7.0,3.0,,True,High,True
+Jeruk,Citric Fruit,0.93,22.0,6.0,88.2,False,Low,False
+Kangkung,Leafy Vegetable,0.82,4.0,1.0,88.2,False,High,False
+Lobak,Root Vegetable,0.87,20.0,8.0,92.2,False,low,False
+Pisang,TROPICAL,0.65,5.0,1.0,73.4,True,High,True
+Nanas,Tropical Fruit,0.83,6.0,3.0,85.8,False,,True
+Lobak,,0.87,19.0,10.0,92.2,False,,no
+ Blueberry ,Berry,0.7,6.0,3.0,,False,Medium,False
+Bayam,Leafy Vegetable,0.88,4.0,0.0,93.4,False,High,False
+Brokoli,Leafy Vegetable,0.79,9.0,2.0,89.1,True,HIGH,0
+Selada,Leafy Vegetable,0.75,6.0,1.0,96.9,False,Medium,False
+Selada,,0.77,6.0,1.0,96.3,False,,False
+Jeruk Nipis,Citric Fruit,0.86,12.0,4.0,,,Low,False
+Jeruk,CITRIC,,20.0,7.0,86.6,,Low,False
+Nanas,Tropical Fruit,0.84,7.0,3.0,87.7,False,Medium,True
+Cabai Merah,Chili,0.79,13.0,4.0,88.0,False,Low,
+Pisang,Tropical Fruit,0.72,4.0,1.0,72.6,True,High,True
+Selada,Leafy Vegetable,0.79,6.0,2.0,,false,Sedang,False
+ Kol ,Leafy Vegetable,,,4.0,92.2,True,Medium,False
+Tomat,Tropical Fruit,0.75,13.0,4.0,94.2,True,Sedang,False
+Bawang Merah,ROOT VEG,0.91,65.0,31.0,87.0,False,Low,False
+Pepaya,Tropical Fruit,0.65,5.0,,88.2,True,High,
+Bawang Merah,Root Vegetable,0.89,60.0,31.0,88.1%,False,Low,0
+Jahe,Root Vegetable,0.96,97.0,32.0,82.1,False,Low,False
+Kentang,Root Vegetable,0.88,27.0,15.0,78.1,False,Low,False
+Brokoli,,0.82,10.0,2.0,89.3,True,High,False
+Jeruk Nipis,Citric Fruit,0.86,15.0,4.0,87.4,False,Low,False
+Jeruk Nipis,Citric Fruit,0.94,12.0,4.0,,False,Low,False
+Wortel,Root Vegetable,0.88,23.0,6.0,87.4,,,False
+Jahe,,0.87,86.0,26.0,82.8,FALSE,Low,False
+Jahe,Sayur Akar,Segar,96.0,,83.1,False,Low,0
+ Sawi Hijau ,Leafy Vegetable,0.82,5.0,1.0,90.5,False,High,False
+Pepaya,Buah Tropis,0.66,4.0,1.0,89.3,True,High,True
+Wortel,ROOT VEG,0.87,20.0,,89.1,False,,0
+Sawi Hijau,Leafy Vegetable,0.84,5.0,1.0,89.2,False,High,False
+Apel,,0.89,22.0,7.0,87.1,True,LOW,False
+Bawang Merah,Root Vegetable,Segar,62.0,30.0,,False,L,False
+Nanas,tropical fruit,0.81,7.0,2.0,88.4,,Medium,yes
+Semangka,Tropical Fruit,0.84,9.0,2.0,91.8,False,Low,False
+Stroberi,Berry,0.59,4.0,2.0,89.9,False,High,False
+Blueberry,Berry,0.61,,2.0,84.8,no,Medium,0
+Selada,Leafy Vegetable,0.7,6.0,2.0,96.9,False,Medium,False
+Bawang Putih,Root Vegetable,0.92,81.0,51.0,61.4%,False,LOW,False
+Mangga,Tropical Fruit,0.75,7.0,4.0,81.3,True,High,True
+Bawang Merah,root vegetable,0.91,65.0,29.0,85.5,False,Low,False
+Lobak,Sayur Akar,0.88,19.0,11.0,92.6,False,low,False
+Pisang,Tropical Fruit,0.72,4.0,1.0,72.6,True,High,True
+Semangka,Tropical Fruit,0.83,10.0,2.0,89.4,False,Low,False
+Lobak,Root Veg,1.5,20.0,9.0,92.5,False,Low,False
+ Lemon ,Citric Fruit,0.89,,,88.3,False,Low,False
+Kentang,Root Vegetable,Segar,27.0,12.0,80.1,False,Low,False
+Jahe,Root Vegetable,0.95,91.0,30.0,81.4,False,,False
+Pepaya,Tropical Fruit,0.65,5.0,,88.2,True,High,
+Tomat,Tropical Fruit,0.73,13.0,4.0,94.6,True,Medium,False
+Apel,Temperate Fruit,0.9,19.0,,87.7,True,Low,False
+Kangkung,Leafy Vegetable,0.76,3.0,0.0,88.7,false,High,False
+Pepaya,Tropical Fruit,0.69,5.0,1.0,87.5,true,High,True
+Nanas,Tropical Fruit,0.84,6.0,2.0,88.0,False,,True
+Anggur,Buah Sedang,Segar,7.0,3.0,81.8,True,High,0
+Brokoli,Leafy Vegetable,0.77,10.0,3.0,89.3,True,High,False
+Apel,TEMPERATE,0.94,21.0,6.0,86.7,True,Low,
+Kangkung,Leafy Vegetable,0.83,4.0,1.0,89.7,False,Tinggi,False
+Melon,Tropical Fruit,0.8,6.0,2.0,89.0%,,Medium,True
+Pear,Temperate,0.88,15.0,5.0,82.1,True,Low,False
+Kangkung,Leafy Vegetable,0.79,3.0,1.0,88.8,False,High,False
+Lemon,Citric Fruit,0.89,21.0,7.0,90.4,False,Low,False
+Cabai Merah,Cabai,0.8,14.0,4.0,87.4,False,Low,True
+Sawi Hijau,Leafy Vegetable,0.8,5.0,1.0,89.5,Tidak,High,False
+Alpukat,Tropical Fruit,0.71,6.0,2.0,71.6,1,High,True
+Tomat,Tropical Fruit,0.74,14.0,4.0,,True,Medium,False
+Jeruk Nipis,Citrus Fruit,0.88,,5.0,88.5,False,Low,false
+Bawang Putih,Root Vegetable,0.86,83.0,47.0,63.5,False,Low,0
+Sawi Hijau,,0.86,4.0,1.0,90.0,False,High,False
+Pear,Temperate Fruit,0.87,12.0,5.0,84.3,True,Low,False
+ Nanas ,Buah Tropis,0.84,6.0,3.0,88.3,False,Medium,True
+Pear,Temperate Fruit,0.9,15.0,4.0,84.8,True,Rendah,False
+Bawang Putih,Root Vegetable,0.91,91.0,44.0,62.6,False,Low,False
+Jeruk Nipis,Citric Fruit,0.86,15.0,4.0,87.4,False,Low,False
+Kentang,Root Vegetable,0.84,31.0,15.0,78.7%,False,Low,False
+Pepaya,Buah Tropis,0.62,5.0,2.0,87.8,True,High,True
+Cabai Merah,,0.77,15.0,5.0,87.9,False,Low,TRUE
+Pisang,TROPICAL,0.65,5.0,1.0,73.4,True,High,True
+Anggur,Temperate Fruit,0.74,7.0,2.0,81.7,True,High,False
+Jeruk,Citric Fruit,,18.0,7.0,86.8,False,Low,False
+Semangka,tropical fruit,99.0,9.0,2.0,92.5,False,Low,False
+ Jahe ,,0.94,86.0,26.0,80.0,False,Low,False
+Wortel,Root Vegetable,0.86,22.0,6.0,89.5,,Low,False
+Lobak,Root Vegetable,0.8,19.0,9.0,95.8,False,Low,0
+Apel,Temperate Fruit,0.87,20.0,7.0,87.5,True,Low,Tidak
+Mangga,Tropical Fruit,0.73,7.0,4.0,84.1,True,High,True
+Cabai Hijau,Chili,Segar,15.0,5.0,91.0,,Low,True
+Jahe,Root Vegetable,0.92,97.0,30.0,82.6,False,Low,False
+Kangkung,,0.77,4.0,0.0,91.6,False,High,False
+Bawang Putih,Root Vegetable,0.93,88.0,48.0,64.5,False,Low,False
+Blueberry,Berries,0.68,7.0,2.0,85.3,no,Medium,False
+Brokoli,Leafy Vegetable,0.81,9.0,2.0,87.1,Ya,,False
+ Kangkung ,Leafy Vegetable,0.79,4.0,0.0,89.0,False,High,False
+Jeruk,Citric Fruit,0.93,22.0,6.0,88.2,False,Low,False
+Nanas,Tropical Fruit,0.86,7.0,3.0,85.9,,,1
+Bawang Merah,Root Vegetable,0.83,57.0,30.0,87.1,0,Low,False
+Lobak,Root Vegetable,Segar,21.0,9.0,92.6,Tidak,Low,False
+Alpukat,Tropical Fruit,0.67,6.0,2.0,74.8,True,High,True
+Bayam,Leafy Vegetable,0.86,5.0,1.0,90.3,False,high ,no
+Jeruk,Citric Fruit,0.87,19.0,6.0,88.5,False,Low,False
