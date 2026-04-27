@@ -1,7 +1,3 @@
-Berikut adalah draf `README.md` yang profesional dan terstruktur untuk repositori **wastefy-data-science**. File ini telah disesuaikan khusus untuk kebutuhan tim Data Science dengan mengikuti aturan workflow yang Anda berikan.
-
----
-
 # Wastefy - Data Science ♻️📊
 
 Selamat datang di repositori Data Science untuk proyek **Wastefy**. Repositori ini difokuskan pada pengolahan data, analisis, eksperimen model machine learning, hingga pembuatan dashboard visualisasi untuk mendukung sistem manajemen inventaris makanan berbasis AI.
