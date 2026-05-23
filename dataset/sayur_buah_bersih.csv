@@ -1,0 +1,3724 @@
+nama_item,jenis_item,lokasi_penyimpanan,hari_sejak_pembelian,sisa_hari,label
+Mangga,Buah,Pembeku,0,33,Matang
+Timun,Sayur,Suhu Ruang,2,1,Busuk
+Tomat,Sayur,Pendingin,0,2,Busuk
+Apel,Buah,Suhu Ruang,4,16,Mentah
+Tomat,Sayur,Suhu Ruang,1,0,Busuk
+Mangga,Buah,Pendingin,0,3,Terlalu Matang
+Anggur,Buah,Pembeku,2,37,Mentah
+Cabe,Sayur,Pembeku,1,7,Busuk
+Mangga,Buah,Pembeku,3,14,Terlalu Matang
+Pisang,Buah,Suhu Ruang,0,0,Busuk
+Kentang,Sayur,Pendingin,1,2,Busuk
+Kentang,Sayur,Pendingin,2,3,Busuk
+Wortel,Sayur,Pendingin,2,30,Segar
+Jeruk,Buah,Suhu Ruang,1,0,Busuk
+Wortel,Sayur,Suhu Ruang,0,2,Busuk
+Timun,Sayur,Suhu Ruang,4,12,Segar
+Mangga,Buah,Pendingin,2,15,Matang
+Apel,Buah,Suhu Ruang,0,3,Terlalu Matang
+Jeruk,Buah,Pendingin,1,10,Terlalu Matang
+Pisang,Buah,Pembeku,0,2,Busuk
+Pisang,Buah,Pembeku,1,1,Busuk
+Anggur,Buah,Suhu Ruang,4,8,Mentah
+Jeruk,Buah,Suhu Ruang,1,14,Mentah
+Wortel,Sayur,Pembeku,2,8,Busuk
+Jeruk,Buah,Pembeku,1,14,Terlalu Matang
+Cabe,Sayur,Suhu Ruang,6,11,Segar
+Wortel,Sayur,Pendingin,1,1,Busuk
+Jeruk,Buah,Pembeku,4,31,Matang
+Tomat,Sayur,Pendingin,6,11,Segar
+Tomat,Sayur,Pendingin,0,1,Busuk
+Wortel,Sayur,Pembeku,0,4,Busuk
+Jeruk,Buah,Pembeku,2,13,Terlalu Matang
+Apel,Buah,Pendingin,0,0,Busuk
+Jeruk,Buah,Pembeku,0,17,Terlalu Matang
+Cabe,Sayur,Pembeku,2,7,Busuk
+Pisang,Buah,Pendingin,0,16,Mentah
+Kentang,Sayur,Suhu Ruang,3,8,Segar
+Cabe,Sayur,Suhu Ruang,2,5,Segar
+Apel,Buah,Suhu Ruang,1,16,Mentah
+Timun,Sayur,Pendingin,4,9,Segar
+Cabe,Sayur,Suhu Ruang,0,11,Segar
+Anggur,Buah,Pendingin,0,1,Busuk
+Apel,Buah,Suhu Ruang,0,11,Matang
+Wortel,Sayur,Suhu Ruang,1,1,Busuk
+Jeruk,Buah,Pendingin,4,19,Matang
+Tomat,Sayur,Pembeku,0,4,Busuk
+Timun,Sayur,Suhu Ruang,1,1,Busuk
+Timun,Sayur,Pendingin,2,2,Busuk
+Cabe,Sayur,Pembeku,1,0,Busuk
+Jeruk,Buah,Pembeku,1,29,Matang
+Timun,Sayur,Pembeku,2,34,Segar
+Apel,Buah,Suhu Ruang,2,11,Mentah
+Apel,Buah,Pembeku,3,15,Terlalu Matang
+Jeruk,Buah,Pendingin,0,1,Busuk
+Wortel,Sayur,Suhu Ruang,0,19,Segar
+Timun,Sayur,Suhu Ruang,5,9,Segar
+Wortel,Sayur,Pembeku,4,38,Segar
+Timun,Sayur,Pembeku,0,0,Busuk
+Timun,Sayur,Suhu Ruang,1,1,Busuk
+Jeruk,Buah,Pendingin,0,2,Busuk
+Apel,Buah,Suhu Ruang,1,0,Busuk
+Jeruk,Buah,Pembeku,1,16,Terlalu Matang
+Cabe,Sayur,Pembeku,6,24,Segar
+Anggur,Buah,Suhu Ruang,0,2,Terlalu Matang
+Cabe,Sayur,Suhu Ruang,1,13,Segar
+Tomat,Sayur,Suhu Ruang,6,4,Segar
+Anggur,Buah,Suhu Ruang,2,3,Terlalu Matang
+Anggur,Buah,Pembeku,3,14,Terlalu Matang
+Apel,Buah,Pendingin,5,17,Mentah
+Tomat,Sayur,Suhu Ruang,2,1,Busuk
+Wortel,Sayur,Pembeku,2,0,Busuk
+Anggur,Buah,Suhu Ruang,3,3,Terlalu Matang
+Anggur,Buah,Suhu Ruang,1,0,Busuk
+Jeruk,Buah,Pendingin,1,1,Busuk
+Tomat,Sayur,Pendingin,2,15,Segar
+Anggur,Buah,Suhu Ruang,1,0,Busuk
+Apel,Buah,Pembeku,3,12,Terlalu Matang
+Jeruk,Buah,Pembeku,0,3,Busuk
+Apel,Buah,Pendingin,5,20,Mentah
+Kentang,Sayur,Suhu Ruang,1,8,Segar
+Wortel,Sayur,Pendingin,1,0,Busuk
+Wortel,Sayur,Pendingin,1,4,Busuk
+Timun,Sayur,Pendingin,0,2,Busuk
+Cabe,Sayur,Pendingin,4,22,Segar
+Anggur,Buah,Pendingin,2,10,Matang
+Anggur,Buah,Pendingin,1,14,Matang
+Kentang,Sayur,Suhu Ruang,1,1,Busuk
+Kentang,Sayur,Pembeku,2,2,Busuk
+Wortel,Sayur,Pembeku,2,35,Segar
+Timun,Sayur,Suhu Ruang,1,7,Segar
+Tomat,Sayur,Suhu Ruang,0,1,Busuk
+Anggur,Buah,Suhu Ruang,0,0,Busuk
+Timun,Sayur,Pendingin,5,12,Segar
+Mangga,Buah,Pendingin,3,5,Terlalu Matang
+Kentang,Sayur,Pendingin,0,0,Busuk
+Cabe,Sayur,Pembeku,1,30,Segar
+Pisang,Buah,Pendingin,2,14,Matang
+Timun,Sayur,Pembeku,6,26,Segar
+Apel,Buah,Suhu Ruang,3,3,Terlalu Matang
+Apel,Buah,Pembeku,3,36,Matang
+Apel,Buah,Pendingin,4,20,Matang
+Mangga,Buah,Pendingin,3,18,Matang
+Apel,Buah,Suhu Ruang,3,6,Matang
+Anggur,Buah,Pembeku,0,1,Busuk
+Mangga,Buah,Pembeku,1,25,Matang
+Tomat,Sayur,Suhu Ruang,5,5,Segar
+Pisang,Buah,Pembeku,1,2,Busuk
+Tomat,Sayur,Suhu Ruang,6,10,Segar
+Mangga,Buah,Pendingin,1,0,Busuk
+Anggur,Buah,Suhu Ruang,0,0,Busuk
+Tomat,Sayur,Pembeku,1,0,Busuk
+Apel,Buah,Pembeku,3,13,Terlalu Matang
+Pisang,Buah,Pendingin,3,12,Matang
+Apel,Buah,Pendingin,0,1,Busuk
+Tomat,Sayur,Suhu Ruang,0,6,Segar
+Timun,Sayur,Pembeku,2,3,Busuk
+Kentang,Sayur,Suhu Ruang,0,1,Busuk
+Cabe,Sayur,Suhu Ruang,3,7,Segar
+Pisang,Buah,Pembeku,1,29,Mentah
+Tomat,Sayur,Pembeku,1,3,Busuk
+Jeruk,Buah,Pembeku,1,0,Busuk
+Jeruk,Buah,Pembeku,0,3,Busuk
+Anggur,Buah,Pendingin,3,15,Matang
+Apel,Buah,Suhu Ruang,5,8,Matang
+Tomat,Sayur,Pendingin,1,1,Busuk
+Jeruk,Buah,Pendingin,0,10,Terlalu Matang
+Mangga,Buah,Pendingin,5,22,Mentah
+Kentang,Sayur,Pendingin,4,30,Segar
+Cabe,Sayur,Suhu Ruang,1,5,Segar
+Apel,Buah,Suhu Ruang,3,3,Terlalu Matang
+Mangga,Buah,Suhu Ruang,5,11,Mentah
+Timun,Sayur,Pembeku,4,27,Segar
+Pisang,Buah,Pendingin,1,4,Terlalu Matang
+Anggur,Buah,Pendingin,1,1,Busuk
+Tomat,Sayur,Pembeku,2,2,Busuk
+Anggur,Buah,Suhu Ruang,1,0,Busuk
+Tomat,Sayur,Suhu Ruang,2,1,Busuk
+Wortel,Sayur,Pendingin,1,3,Busuk
+Jeruk,Buah,Pendingin,4,22,Mentah
+Jeruk,Buah,Pendingin,0,10,Terlalu Matang
+Apel,Buah,Suhu Ruang,2,9,Matang
+Anggur,Buah,Pendingin,0,7,Terlalu Matang
+Mangga,Buah,Suhu Ruang,2,3,Terlalu Matang
+Kentang,Sayur,Pembeku,2,8,Busuk
+Pisang,Buah,Pendingin,1,1,Busuk
+Jeruk,Buah,Pembeku,1,16,Terlalu Matang
+Apel,Buah,Suhu Ruang,1,11,Matang
+Kentang,Sayur,Pendingin,0,3,Busuk
+Pisang,Buah,Pendingin,0,0,Busuk
+Tomat,Sayur,Suhu Ruang,6,6,Segar
+Timun,Sayur,Suhu Ruang,0,0,Busuk
+Kentang,Sayur,Suhu Ruang,2,2,Busuk
+Apel,Buah,Pendingin,0,0,Busuk
+Timun,Sayur,Pendingin,5,25,Segar
+Cabe,Sayur,Pendingin,1,0,Busuk
+Kentang,Sayur,Suhu Ruang,0,0,Busuk
+Mangga,Buah,Pembeku,0,14,Terlalu Matang
+Apel,Buah,Suhu Ruang,1,4,Terlalu Matang
+Mangga,Buah,Pembeku,0,2,Busuk
+Pisang,Buah,Pendingin,1,0,Busuk
+Anggur,Buah,Suhu Ruang,0,7,Matang
+Tomat,Sayur,Pembeku,2,6,Busuk
+Cabe,Sayur,Suhu Ruang,1,7,Segar
+Timun,Sayur,Suhu Ruang,2,0,Busuk
+Jeruk,Buah,Pendingin,3,21,Matang
+Timun,Sayur,Pendingin,1,1,Busuk
+Kentang,Sayur,Pendingin,3,28,Segar
+Jeruk,Buah,Pembeku,1,3,Busuk
+Apel,Buah,Suhu Ruang,1,3,Terlalu Matang
+Pisang,Buah,Pendingin,0,5,Terlalu Matang
+Apel,Buah,Pembeku,1,40,Mentah
+Pisang,Buah,Suhu Ruang,1,0,Busuk
+Mangga,Buah,Suhu Ruang,0,2,Terlalu Matang
+Pisang,Buah,Pembeku,0,7,Terlalu Matang
+Mangga,Buah,Pendingin,2,5,Terlalu Matang
+Jeruk,Buah,Pendingin,3,7,Terlalu Matang
+Kentang,Sayur,Suhu Ruang,2,2,Busuk
+Wortel,Sayur,Suhu Ruang,2,8,Segar
+Jeruk,Buah,Pendingin,0,0,Busuk
+Jeruk,Buah,Pembeku,2,19,Terlalu Matang
+Tomat,Sayur,Pembeku,1,30,Segar
+Mangga,Buah,Pendingin,0,14,Matang
+Mangga,Buah,Suhu Ruang,5,11,Mentah
+Anggur,Buah,Pendingin,2,17,Mentah
+Cabe,Sayur,Suhu Ruang,1,0,Busuk
+Timun,Sayur,Pendingin,2,2,Busuk
+Wortel,Sayur,Pendingin,0,2,Busuk
+Tomat,Sayur,Suhu Ruang,6,10,Segar
+Wortel,Sayur,Pembeku,2,1,Busuk
+Anggur,Buah,Suhu Ruang,1,0,Busuk
+Tomat,Sayur,Pendingin,3,21,Segar
+Jeruk,Buah,Pembeku,0,1,Busuk
+Tomat,Sayur,Pembeku,0,1,Busuk
+Tomat,Sayur,Suhu Ruang,2,5,Segar
+Kentang,Sayur,Pendingin,0,20,Segar
+Tomat,Sayur,Pendingin,1,0,Busuk
+Mangga,Buah,Pendingin,0,23,Mentah
+Jeruk,Buah,Suhu Ruang,1,13,Mentah
+Timun,Sayur,Pembeku,1,1,Busuk
+Kentang,Sayur,Pendingin,1,2,Busuk
+Wortel,Sayur,Pendingin,0,31,Segar
+Mangga,Buah,Pembeku,1,3,Busuk
+Cabe,Sayur,Pendingin,3,12,Segar
+Mangga,Buah,Pembeku,5,26,Matang
+Wortel,Sayur,Pendingin,2,1,Busuk
+Timun,Sayur,Pembeku,2,27,Segar
+Apel,Buah,Pembeku,2,12,Terlalu Matang
+Kentang,Sayur,Suhu Ruang,2,18,Segar
+Kentang,Sayur,Pembeku,0,4,Busuk
+Pisang,Buah,Pendingin,2,5,Terlalu Matang
+Wortel,Sayur,Pembeku,0,4,Busuk
+Cabe,Sayur,Suhu Ruang,1,1,Busuk
+Anggur,Buah,Suhu Ruang,2,2,Terlalu Matang
+Anggur,Buah,Pendingin,1,5,Terlalu Matang
+Timun,Sayur,Suhu Ruang,0,0,Busuk
+Jeruk,Buah,Pendingin,6,30,Mentah
+Jeruk,Buah,Pembeku,0,2,Busuk
+Apel,Buah,Pembeku,0,10,Terlalu Matang
+Anggur,Buah,Pembeku,0,27,Matang
+Pisang,Buah,Pembeku,5,26,Matang
+Wortel,Sayur,Pembeku,1,10,Busuk
+Tomat,Sayur,Pendingin,3,10,Segar
+Apel,Buah,Suhu Ruang,2,10,Mentah
+Cabe,Sayur,Pendingin,0,1,Busuk
+Kentang,Sayur,Suhu Ruang,0,0,Busuk
+Pisang,Buah,Pendingin,0,0,Busuk
+Kentang,Sayur,Suhu Ruang,2,1,Busuk
+Wortel,Sayur,Suhu Ruang,2,0,Busuk
+Mangga,Buah,Pendingin,3,3,Terlalu Matang
+Mangga,Buah,Suhu Ruang,2,7,Mentah
+Wortel,Sayur,Suhu Ruang,2,2,Busuk
+Wortel,Sayur,Pendingin,1,1,Busuk
+Anggur,Buah,Suhu Ruang,4,11,Mentah
+Anggur,Buah,Pendingin,1,22,Mentah
+Timun,Sayur,Pembeku,4,38,Segar
+Mangga,Buah,Pendingin,3,17,Matang
+Apel,Buah,Pendingin,2,7,Terlalu Matang
+Kentang,Sayur,Pembeku,0,8,Busuk
+Anggur,Buah,Suhu Ruang,0,3,Terlalu Matang
+Anggur,Buah,Pembeku,2,8,Terlalu Matang
+Anggur,Buah,Pendingin,6,18,Mentah
+Cabe,Sayur,Pendingin,0,29,Segar
+Jeruk,Buah,Pendingin,0,1,Busuk
+Tomat,Sayur,Pendingin,1,3,Busuk
+Mangga,Buah,Suhu Ruang,1,0,Busuk
+Jeruk,Buah,Pembeku,1,1,Busuk
+Jeruk,Buah,Pembeku,0,4,Busuk
+Kentang,Sayur,Pendingin,1,0,Busuk
+Jeruk,Buah,Pendingin,3,24,Matang
+Jeruk,Buah,Suhu Ruang,0,0,Busuk
+Kentang,Sayur,Pendingin,1,5,Busuk
+Wortel,Sayur,Pembeku,0,5,Busuk
+Jeruk,Buah,Pendingin,1,2,Busuk
+Pisang,Buah,Pendingin,3,4,Terlalu Matang
+Pisang,Buah,Pembeku,2,12,Terlalu Matang
+Anggur,Buah,Pendingin,1,1,Busuk
+Kentang,Sayur,Suhu Ruang,3,10,Segar
+Cabe,Sayur,Pendingin,4,20,Segar
+Apel,Buah,Pembeku,1,0,Busuk
+Anggur,Buah,Pendingin,0,15,Matang
+Apel,Buah,Suhu Ruang,4,8,Matang
+Pisang,Buah,Pembeku,1,38,Mentah
+Kentang,Sayur,Pembeku,1,9,Busuk
+Apel,Buah,Pembeku,4,39,Matang
+Jeruk,Buah,Pendingin,3,8,Terlalu Matang
+Timun,Sayur,Suhu Ruang,4,11,Segar
+Jeruk,Buah,Pendingin,2,9,Terlalu Matang
+Apel,Buah,Pembeku,3,29,Matang
+Pisang,Buah,Pembeku,0,10,Terlalu Matang
+Timun,Sayur,Pendingin,0,1,Busuk
+Tomat,Sayur,Suhu Ruang,0,1,Busuk
+Mangga,Buah,Pendingin,2,13,Mentah
+Tomat,Sayur,Pendingin,0,2,Busuk
+Apel,Buah,Pendingin,0,7,Terlalu Matang
+Mangga,Buah,Pembeku,1,0,Busuk
+Pisang,Buah,Pembeku,2,8,Terlalu Matang
+Timun,Sayur,Pembeku,1,5,Busuk
+Wortel,Sayur,Pendingin,2,4,Busuk
+Apel,Buah,Pendingin,0,9,Terlalu Matang
+Jeruk,Buah,Pendingin,1,10,Terlalu Matang
+Apel,Buah,Suhu Ruang,0,0,Busuk
+Pisang,Buah,Suhu Ruang,4,7,Matang
+Pisang,Buah,Pembeku,0,1,Busuk
+Apel,Buah,Pendingin,1,19,Mentah
+Jeruk,Buah,Pembeku,4,37,Matang
+Tomat,Sayur,Pendingin,3,9,Segar
+Pisang,Buah,Pendingin,2,14,Mentah
+Apel,Buah,Pendingin,0,1,Busuk
+Apel,Buah,Pendingin,0,19,Mentah
+Tomat,Sayur,Pembeku,4,29,Segar
+Apel,Buah,Suhu Ruang,1,9,Mentah
+Jeruk,Buah,Suhu Ruang,4,11,Matang
+Anggur,Buah,Pendingin,0,0,Busuk
+Pisang,Buah,Pembeku,0,7,Terlalu Matang
+Cabe,Sayur,Pembeku,0,2,Busuk
+Apel,Buah,Suhu Ruang,1,10,Matang
+Pisang,Buah,Pendingin,1,13,Mentah
+Jeruk,Buah,Suhu Ruang,0,16,Mentah
+Tomat,Sayur,Pendingin,2,17,Segar
+Timun,Sayur,Suhu Ruang,1,8,Segar
+Apel,Buah,Suhu Ruang,2,10,Matang
+Kentang,Sayur,Suhu Ruang,1,10,Segar
+Timun,Sayur,Pembeku,1,6,Busuk
+Apel,Buah,Suhu Ruang,0,0,Busuk
+Kentang,Sayur,Pendingin,1,5,Busuk
+Mangga,Buah,Pembeku,0,0,Busuk
+Anggur,Buah,Pendingin,0,6,Terlalu Matang
+Anggur,Buah,Suhu Ruang,5,7,Mentah
+Tomat,Sayur,Pembeku,1,34,Segar
+Apel,Buah,Suhu Ruang,1,1,Busuk
+Kentang,Sayur,Pendingin,6,25,Segar
+Wortel,Sayur,Suhu Ruang,0,1,Busuk
+Wortel,Sayur,Pendingin,2,20,Segar
+Mangga,Buah,Pembeku,0,1,Busuk
+Kentang,Sayur,Pendingin,3,39,Segar
+Pisang,Buah,Pendingin,0,0,Busuk
+Wortel,Sayur,Pembeku,6,31,Segar
+Mangga,Buah,Pendingin,4,13,Matang
+Kentang,Sayur,Suhu Ruang,1,1,Busuk
+Mangga,Buah,Suhu Ruang,0,0,Busuk
+Kentang,Sayur,Pendingin,2,5,Busuk
+Tomat,Sayur,Pendingin,2,1,Busuk
+Apel,Buah,Pendingin,2,19,Matang
+Anggur,Buah,Pembeku,1,0,Busuk
+Apel,Buah,Suhu Ruang,2,8,Matang
+Kentang,Sayur,Pendingin,0,0,Busuk
+Jeruk,Buah,Suhu Ruang,0,4,Terlalu Matang
+Kentang,Sayur,Suhu Ruang,5,14,Segar
+Timun,Sayur,Pembeku,5,22,Segar
+Cabe,Sayur,Pendingin,2,2,Busuk
+Pisang,Buah,Suhu Ruang,1,7,Matang
+Cabe,Sayur,Pembeku,0,0,Busuk
+Pisang,Buah,Suhu Ruang,3,4,Matang
+Mangga,Buah,Pendingin,0,6,Terlalu Matang
+Timun,Sayur,Suhu Ruang,4,5,Segar
+Wortel,Sayur,Pendingin,0,36,Segar
+Jeruk,Buah,Pendingin,4,28,Mentah
+Wortel,Sayur,Pendingin,1,1,Busuk
+Tomat,Sayur,Suhu Ruang,2,6,Segar
+Cabe,Sayur,Suhu Ruang,1,1,Busuk
+Jeruk,Buah,Pendingin,1,22,Matang
+Tomat,Sayur,Suhu Ruang,2,0,Busuk
+Wortel,Sayur,Suhu Ruang,0,0,Busuk
+Cabe,Sayur,Pendingin,0,1,Busuk
+Apel,Buah,Suhu Ruang,3,4,Terlalu Matang
+Apel,Buah,Pembeku,4,41,Matang
+Wortel,Sayur,Suhu Ruang,3,14,Segar
+Anggur,Buah,Suhu Ruang,0,3,Terlalu Matang
+Jeruk,Buah,Pendingin,0,0,Busuk
+Timun,Sayur,Pendingin,2,3,Busuk
+Cabe,Sayur,Pendingin,2,0,Busuk
+Timun,Sayur,Pembeku,3,31,Segar
+Cabe,Sayur,Pendingin,2,10,Segar
+Wortel,Sayur,Pendingin,2,4,Busuk
+Pisang,Buah,Pembeku,3,6,Terlalu Matang
+Wortel,Sayur,Pendingin,5,13,Segar
+Apel,Buah,Pembeku,5,35,Matang
+Kentang,Sayur,Suhu Ruang,6,18,Segar
+Pisang,Buah,Pendingin,2,13,Mentah
+Cabe,Sayur,Pendingin,0,3,Busuk
+Cabe,Sayur,Suhu Ruang,0,0,Busuk
+Anggur,Buah,Pendingin,4,12,Matang
+Wortel,Sayur,Pembeku,0,0,Busuk
+Tomat,Sayur,Pembeku,3,30,Segar
+Mangga,Buah,Pembeku,2,24,Matang
+Mangga,Buah,Pembeku,4,21,Matang
+Tomat,Sayur,Pembeku,0,2,Busuk
+Wortel,Sayur,Suhu Ruang,0,1,Busuk
+Apel,Buah,Pembeku,1,15,Terlalu Matang
+Tomat,Sayur,Pendingin,0,10,Segar
+Cabe,Sayur,Pembeku,3,24,Segar
+Pisang,Buah,Suhu Ruang,3,5,Matang
+Kentang,Sayur,Suhu Ruang,2,15,Segar
+Apel,Buah,Pendingin,3,16,Matang
+Timun,Sayur,Pembeku,1,2,Busuk
+Kentang,Sayur,Suhu Ruang,0,1,Busuk
+Tomat,Sayur,Pembeku,1,2,Busuk
+Wortel,Sayur,Pendingin,6,25,Segar
+Apel,Buah,Pembeku,0,18,Terlalu Matang
+Timun,Sayur,Suhu Ruang,1,6,Segar
+Jeruk,Buah,Suhu Ruang,0,1,Busuk
+Cabe,Sayur,Suhu Ruang,0,14,Segar
+Mangga,Buah,Pembeku,2,28,Matang
+Wortel,Sayur,Pembeku,2,10,Busuk
+Cabe,Sayur,Suhu Ruang,1,1,Busuk
+Pisang,Buah,Suhu Ruang,2,8,Mentah
+Wortel,Sayur,Suhu Ruang,4,8,Segar
+Jeruk,Buah,Suhu Ruang,5,8,Matang
+Kentang,Sayur,Pendingin,6,33,Segar
+Apel,Buah,Pendingin,3,8,Terlalu Matang
+Jeruk,Buah,Pendingin,1,0,Busuk
+Tomat,Sayur,Pendingin,6,14,Segar
+Timun,Sayur,Pendingin,2,13,Segar
+Timun,Sayur,Pembeku,6,35,Segar
+Apel,Buah,Pembeku,2,12,Terlalu Matang
+Timun,Sayur,Suhu Ruang,2,1,Busuk
+Tomat,Sayur,Pendingin,1,1,Busuk
+Kentang,Sayur,Pendingin,0,4,Busuk
+Kentang,Sayur,Pendingin,1,27,Segar
+Anggur,Buah,Pembeku,2,30,Matang
+Wortel,Sayur,Pendingin,5,16,Segar
+Tomat,Sayur,Pendingin,2,2,Busuk
+Mangga,Buah,Suhu Ruang,3,3,Terlalu Matang
+Mangga,Buah,Suhu Ruang,0,7,Matang
+Kentang,Sayur,Suhu Ruang,0,0,Busuk
+Kentang,Sayur,Suhu Ruang,2,1,Busuk
+Kentang,Sayur,Pendingin,3,35,Segar
+Cabe,Sayur,Pendingin,1,27,Segar
+Anggur,Buah,Pendingin,1,17,Mentah
+Cabe,Sayur,Pendingin,5,18,Segar
+Cabe,Sayur,Suhu Ruang,2,0,Busuk
+Anggur,Buah,Pembeku,0,3,Busuk
+Tomat,Sayur,Pembeku,0,1,Busuk
+Mangga,Buah,Pendingin,2,14,Matang
+Mangga,Buah,Suhu Ruang,1,0,Busuk
+Apel,Buah,Suhu Ruang,3,16,Mentah
+Wortel,Sayur,Suhu Ruang,1,13,Segar
+Timun,Sayur,Pembeku,2,39,Segar
+Timun,Sayur,Suhu Ruang,0,10,Segar
+Cabe,Sayur,Pembeku,6,21,Segar
+Mangga,Buah,Pendingin,1,0,Busuk
+Tomat,Sayur,Pembeku,2,4,Busuk
+Tomat,Sayur,Pendingin,0,0,Busuk
+Tomat,Sayur,Pendingin,0,1,Busuk
+Anggur,Buah,Pendingin,3,12,Matang
+Anggur,Buah,Suhu Ruang,0,7,Matang
+Tomat,Sayur,Pembeku,2,4,Busuk
+Jeruk,Buah,Pendingin,1,0,Busuk
+Timun,Sayur,Pembeku,0,2,Busuk
+Pisang,Buah,Pembeku,1,1,Busuk
+Wortel,Sayur,Pembeku,0,0,Busuk
+Mangga,Buah,Pendingin,0,1,Busuk
+Kentang,Sayur,Suhu Ruang,5,7,Segar
+Wortel,Sayur,Pembeku,6,35,Segar
+Anggur,Buah,Pendingin,1,6,Terlalu Matang
+Timun,Sayur,Pendingin,3,13,Segar
+Timun,Sayur,Pembeku,0,3,Busuk
+Tomat,Sayur,Pendingin,1,1,Busuk
+Kentang,Sayur,Suhu Ruang,1,19,Segar
+Pisang,Buah,Pendingin,3,4,Terlalu Matang
+Anggur,Buah,Pendingin,3,13,Matang
+Cabe,Sayur,Suhu Ruang,2,0,Busuk
+Apel,Buah,Suhu Ruang,2,3,Terlalu Matang
+Cabe,Sayur,Suhu Ruang,6,5,Segar
+Anggur,Buah,Pendingin,0,7,Terlalu Matang
+Apel,Buah,Pendingin,1,0,Busuk
+Pisang,Buah,Pembeku,1,28,Matang
+Anggur,Buah,Pendingin,1,18,Matang
+Pisang,Buah,Pembeku,1,8,Terlalu Matang
+Anggur,Buah,Pendingin,5,11,Matang
+Jeruk,Buah,Pendingin,3,19,Matang
+Cabe,Sayur,Pendingin,1,18,Segar
+Timun,Sayur,Suhu Ruang,1,0,Busuk
+Apel,Buah,Pembeku,3,16,Terlalu Matang
+Apel,Buah,Suhu Ruang,1,4,Terlalu Matang
+Anggur,Buah,Pembeku,1,28,Matang
+Anggur,Buah,Suhu Ruang,5,6,Matang
+Apel,Buah,Pendingin,3,17,Mentah
+Mangga,Buah,Suhu Ruang,0,0,Busuk
+Anggur,Buah,Pembeku,1,2,Busuk
+Timun,Sayur,Pendingin,1,22,Segar
+Kentang,Sayur,Pendingin,2,35,Segar
+Tomat,Sayur,Suhu Ruang,2,0,Busuk
+Apel,Buah,Suhu Ruang,3,3,Terlalu Matang
+Apel,Buah,Suhu Ruang,4,14,Mentah
+Mangga,Buah,Pembeku,3,14,Terlalu Matang
+Timun,Sayur,Suhu Ruang,2,0,Busuk
+Kentang,Sayur,Pendingin,0,1,Busuk
+Timun,Sayur,Pembeku,3,35,Segar
+Mangga,Buah,Pembeku,3,27,Matang
+Apel,Buah,Suhu Ruang,0,1,Busuk
+Anggur,Buah,Pembeku,2,35,Matang
+Pisang,Buah,Pembeku,0,29,Matang
+Timun,Sayur,Pendingin,4,16,Segar
+Cabe,Sayur,Pendingin,0,20,Segar
+Cabe,Sayur,Pendingin,2,24,Segar
+Anggur,Buah,Pendingin,2,13,Matang
+Apel,Buah,Pembeku,1,12,Terlalu Matang
+Apel,Buah,Suhu Ruang,1,14,Mentah
+Anggur,Buah,Suhu Ruang,0,2,Terlalu Matang
+Pisang,Buah,Pendingin,0,1,Busuk
+Timun,Sayur,Suhu Ruang,0,12,Segar
+Apel,Buah,Suhu Ruang,4,12,Mentah
+Tomat,Sayur,Pembeku,0,1,Busuk
+Cabe,Sayur,Pendingin,2,0,Busuk
+Timun,Sayur,Pembeku,2,36,Segar
+Kentang,Sayur,Pendingin,5,40,Segar
+Apel,Buah,Pembeku,0,2,Busuk
+Wortel,Sayur,Pendingin,0,2,Busuk
+Cabe,Sayur,Suhu Ruang,2,1,Busuk
+Anggur,Buah,Pendingin,3,7,Terlalu Matang
+Pisang,Buah,Pembeku,1,16,Matang
+Anggur,Buah,Pendingin,4,17,Matang
+Mangga,Buah,Pembeku,0,2,Busuk
+Apel,Buah,Pembeku,0,11,Terlalu Matang
+Tomat,Sayur,Suhu Ruang,1,1,Busuk
+Mangga,Buah,Pembeku,1,0,Busuk
+Kentang,Sayur,Suhu Ruang,1,20,Segar
+Jeruk,Buah,Pembeku,0,2,Busuk
+Cabe,Sayur,Pembeku,2,5,Busuk
+Anggur,Buah,Pendingin,4,27,Mentah
+Wortel,Sayur,Pembeku,0,4,Busuk
+Pisang,Buah,Pendingin,2,11,Matang
+Pisang,Buah,Pendingin,0,6,Terlalu Matang
+Jeruk,Buah,Suhu Ruang,0,0,Busuk
+Apel,Buah,Pendingin,3,21,Mentah
+Timun,Sayur,Pembeku,2,25,Segar
+Mangga,Buah,Pendingin,0,1,Busuk
+Apel,Buah,Pembeku,5,36,Matang
+Cabe,Sayur,Pembeku,2,0,Busuk
+Jeruk,Buah,Pembeku,2,20,Terlalu Matang
+Mangga,Buah,Pembeku,4,37,Mentah
+Anggur,Buah,Pendingin,1,0,Busuk
+Apel,Buah,Pembeku,0,1,Busuk
+Kentang,Sayur,Suhu Ruang,1,0,Busuk
+Anggur,Buah,Pembeku,0,15,Terlalu Matang
+Timun,Sayur,Pendingin,2,2,Busuk
+Cabe,Sayur,Pendingin,1,27,Segar
+Jeruk,Buah,Suhu Ruang,1,0,Busuk
+Timun,Sayur,Pendingin,0,10,Segar
+Jeruk,Buah,Pembeku,1,11,Terlalu Matang
+Timun,Sayur,Suhu Ruang,2,0,Busuk
+Mangga,Buah,Suhu Ruang,0,3,Terlalu Matang
+Anggur,Buah,Pembeku,3,39,Mentah
+Tomat,Sayur,Pendingin,0,0,Busuk
+Tomat,Sayur,Pendingin,0,19,Segar
+Jeruk,Buah,Pendingin,1,26,Mentah
+Cabe,Sayur,Suhu Ruang,0,1,Busuk
+Timun,Sayur,Pendingin,2,2,Busuk
+Wortel,Sayur,Pendingin,6,36,Segar
+Anggur,Buah,Suhu Ruang,0,6,Matang
+Cabe,Sayur,Pembeku,2,2,Busuk
+Anggur,Buah,Suhu Ruang,6,10,Mentah
+Anggur,Buah,Suhu Ruang,3,2,Terlalu Matang
+Anggur,Buah,Pembeku,0,1,Busuk
+Mangga,Buah,Pembeku,3,22,Matang
+Apel,Buah,Pendingin,4,21,Matang
+Tomat,Sayur,Pendingin,1,0,Busuk
+Anggur,Buah,Suhu Ruang,2,5,Matang
+Anggur,Buah,Pendingin,2,7,Terlalu Matang
+Cabe,Sayur,Suhu Ruang,4,8,Segar
+Anggur,Buah,Pembeku,1,2,Busuk
+Anggur,Buah,Pembeku,3,9,Terlalu Matang
+Tomat,Sayur,Suhu Ruang,1,0,Busuk
+Anggur,Buah,Suhu Ruang,0,0,Busuk
+Tomat,Sayur,Suhu Ruang,6,6,Segar
+Wortel,Sayur,Pendingin,2,0,Busuk
+Anggur,Buah,Suhu Ruang,3,8,Matang
+Apel,Buah,Suhu Ruang,6,9,Mentah
+Cabe,Sayur,Suhu Ruang,1,7,Segar
+Pisang,Buah,Suhu Ruang,5,7,Mentah
+Apel,Buah,Pembeku,1,2,Busuk
+Wortel,Sayur,Pembeku,0,0,Busuk
+Kentang,Sayur,Pembeku,2,11,Busuk
+Anggur,Buah,Suhu Ruang,3,2,Terlalu Matang
+Mangga,Buah,Pembeku,0,28,Matang
+Tomat,Sayur,Pembeku,5,28,Segar
+Mangga,Buah,Suhu Ruang,0,0,Busuk
+Pisang,Buah,Pembeku,0,10,Terlalu Matang
+Pisang,Buah,Suhu Ruang,1,3,Terlalu Matang
+Timun,Sayur,Suhu Ruang,1,1,Busuk
+Cabe,Sayur,Pendingin,2,3,Busuk
+Kentang,Sayur,Pendingin,5,31,Segar
+Wortel,Sayur,Pendingin,5,17,Segar
+Timun,Sayur,Pendingin,5,10,Segar
+Mangga,Buah,Pembeku,0,7,Terlalu Matang
+Cabe,Sayur,Suhu Ruang,2,0,Busuk
+Mangga,Buah,Pembeku,1,26,Matang
+Tomat,Sayur,Suhu Ruang,0,0,Busuk
+Kentang,Sayur,Pembeku,1,0,Busuk
+Kentang,Sayur,Suhu Ruang,1,8,Segar
+Tomat,Sayur,Suhu Ruang,2,10,Segar
+Wortel,Sayur,Pendingin,1,38,Segar
+Anggur,Buah,Pembeku,5,25,Matang
+Mangga,Buah,Pembeku,2,38,Mentah
+Mangga,Buah,Pendingin,4,11,Matang
+Cabe,Sayur,Suhu Ruang,1,12,Segar
+Mangga,Buah,Pembeku,1,1,Busuk
+Apel,Buah,Suhu Ruang,5,16,Mentah
+Pisang,Buah,Pembeku,0,1,Busuk
+Tomat,Sayur,Pendingin,0,17,Segar
+Cabe,Sayur,Pembeku,2,2,Busuk
+Timun,Sayur,Suhu Ruang,2,0,Busuk
+Timun,Sayur,Pembeku,2,5,Busuk
+Jeruk,Buah,Suhu Ruang,6,14,Mentah
+Cabe,Sayur,Pembeku,0,5,Busuk
+Apel,Buah,Pendingin,3,7,Terlalu Matang
+Wortel,Sayur,Suhu Ruang,1,16,Segar
+Timun,Sayur,Pembeku,1,0,Busuk
+Pisang,Buah,Pembeku,1,2,Busuk
+Cabe,Sayur,Pembeku,4,36,Segar
+Cabe,Sayur,Pendingin,1,11,Segar
+Pisang,Buah,Suhu Ruang,2,7,Matang
+Jeruk,Buah,Pembeku,1,3,Busuk
+Wortel,Sayur,Suhu Ruang,0,1,Busuk
+Timun,Sayur,Pembeku,2,6,Busuk
+Mangga,Buah,Pembeku,0,1,Busuk
+Cabe,Sayur,Suhu Ruang,2,1,Busuk
+Cabe,Sayur,Pembeku,0,7,Busuk
+Pisang,Buah,Pembeku,0,2,Busuk
+Mangga,Buah,Pembeku,0,2,Busuk
+Mangga,Buah,Suhu Ruang,0,0,Busuk
+Timun,Sayur,Pendingin,0,0,Busuk
+Mangga,Buah,Pendingin,1,14,Matang
+Jeruk,Buah,Suhu Ruang,4,9,Matang
+Cabe,Sayur,Pendingin,5,11,Segar
+Cabe,Sayur,Pendingin,5,29,Segar
+Tomat,Sayur,Pembeku,0,4,Busuk
+Timun,Sayur,Pendingin,0,1,Busuk
+Cabe,Sayur,Suhu Ruang,2,1,Busuk
+Timun,Sayur,Pendingin,1,1,Busuk
+Kentang,Sayur,Pendingin,2,0,Busuk
+Kentang,Sayur,Pendingin,0,41,Segar
+Kentang,Sayur,Pembeku,0,11,Busuk
+Pisang,Buah,Suhu Ruang,2,2,Terlalu Matang
+Anggur,Buah,Pembeku,0,13,Terlalu Matang
+Pisang,Buah,Suhu Ruang,1,2,Terlalu Matang
+Anggur,Buah,Pembeku,0,2,Busuk
+Kentang,Sayur,Pembeku,0,8,Busuk
+Pisang,Buah,Pembeku,0,0,Busuk
+Tomat,Sayur,Pembeku,5,37,Segar
+Tomat,Sayur,Pendingin,2,1,Busuk
+Kentang,Sayur,Pendingin,0,4,Busuk
+Apel,Buah,Pembeku,1,41,Matang
+Timun,Sayur,Pendingin,3,18,Segar
+Wortel,Sayur,Pembeku,0,3,Busuk
+Anggur,Buah,Suhu Ruang,2,5,Matang
+Kentang,Sayur,Suhu Ruang,1,0,Busuk
+Apel,Buah,Suhu Ruang,0,0,Busuk
+Anggur,Buah,Pembeku,3,35,Mentah
+Jeruk,Buah,Pendingin,1,5,Terlalu Matang
+Apel,Buah,Suhu Ruang,1,3,Terlalu Matang
+Jeruk,Buah,Suhu Ruang,1,3,Terlalu Matang
+Apel,Buah,Suhu Ruang,1,1,Busuk
+Timun,Sayur,Pembeku,2,1,Busuk
+Apel,Buah,Pendingin,1,1,Busuk
+Timun,Sayur,Pembeku,1,5,Busuk
+Apel,Buah,Pendingin,4,30,Mentah
+Tomat,Sayur,Pembeku,4,25,Segar
+Kentang,Sayur,Pembeku,6,39,Segar
+Timun,Sayur,Pendingin,0,0,Busuk
+Jeruk,Buah,Pembeku,2,18,Terlalu Matang
+Jeruk,Buah,Pendingin,1,19,Mentah
+Pisang,Buah,Pendingin,5,22,Mentah
+Kentang,Sayur,Pendingin,4,34,Segar
+Tomat,Sayur,Suhu Ruang,3,8,Segar
+Wortel,Sayur,Pendingin,0,4,Busuk
+Anggur,Buah,Pembeku,3,10,Terlalu Matang
+Cabe,Sayur,Pembeku,2,5,Busuk
+Wortel,Sayur,Pembeku,2,3,Busuk
+Anggur,Buah,Pendingin,5,13,Matang
+Cabe,Sayur,Suhu Ruang,2,0,Busuk
+Tomat,Sayur,Pembeku,5,27,Segar
+Mangga,Buah,Suhu Ruang,3,4,Matang
+Wortel,Sayur,Suhu Ruang,1,2,Busuk
+Wortel,Sayur,Suhu Ruang,0,6,Segar
+Jeruk,Buah,Pendingin,1,28,Mentah
+Pisang,Buah,Suhu Ruang,3,2,Terlalu Matang
+Mangga,Buah,Pendingin,5,10,Matang
+Kentang,Sayur,Suhu Ruang,3,15,Segar
+Jeruk,Buah,Suhu Ruang,6,10,Mentah
+Cabe,Sayur,Pendingin,2,2,Busuk
+Timun,Sayur,Pendingin,2,0,Busuk
+Cabe,Sayur,Suhu Ruang,0,0,Busuk
+Pisang,Buah,Suhu Ruang,0,8,Mentah
+Apel,Buah,Suhu Ruang,1,9,Matang
+Cabe,Sayur,Pendingin,1,22,Segar
+Jeruk,Buah,Pembeku,0,2,Busuk
+Apel,Buah,Pembeku,1,10,Terlalu Matang
+Pisang,Buah,Pendingin,2,15,Matang
+Pisang,Buah,Suhu Ruang,2,5,Matang
+Tomat,Sayur,Suhu Ruang,0,0,Busuk
+Jeruk,Buah,Suhu Ruang,3,9,Matang
+Pisang,Buah,Suhu Ruang,3,1,Terlalu Matang
+Mangga,Buah,Suhu Ruang,1,0,Busuk
+Pisang,Buah,Suhu Ruang,0,0,Busuk
+Wortel,Sayur,Suhu Ruang,4,15,Segar
+Apel,Buah,Pembeku,1,28,Matang
+Cabe,Sayur,Pembeku,1,0,Busuk
+Timun,Sayur,Pendingin,4,24,Segar
+Anggur,Buah,Suhu Ruang,0,9,Matang
+Apel,Buah,Pendingin,1,8,Terlalu Matang
+Cabe,Sayur,Pendingin,6,27,Segar
+Kentang,Sayur,Pendingin,0,2,Busuk
+Timun,Sayur,Pembeku,0,2,Busuk
+Timun,Sayur,Suhu Ruang,6,5,Segar
+Tomat,Sayur,Pendingin,1,2,Busuk
+Cabe,Sayur,Pendingin,2,3,Busuk
+Tomat,Sayur,Suhu Ruang,1,1,Busuk
+Kentang,Sayur,Pembeku,0,8,Busuk
+Timun,Sayur,Pendingin,3,9,Segar
+Wortel,Sayur,Pendingin,1,3,Busuk
+Timun,Sayur,Suhu Ruang,5,11,Segar
+Timun,Sayur,Pendingin,1,1,Busuk
+Tomat,Sayur,Suhu Ruang,2,1,Busuk
+Mangga,Buah,Suhu Ruang,2,2,Terlalu Matang
+Pisang,Buah,Suhu Ruang,2,2,Terlalu Matang
+Apel,Buah,Pendingin,0,15,Matang
+Mangga,Buah,Suhu Ruang,3,3,Terlalu Matang
+Pisang,Buah,Pendingin,4,20,Mentah
+Pisang,Buah,Pendingin,1,5,Terlalu Matang
+Apel,Buah,Pembeku,0,2,Busuk
+Cabe,Sayur,Pembeku,0,7,Busuk
+Kentang,Sayur,Pendingin,0,1,Busuk
+Jeruk,Buah,Suhu Ruang,5,10,Matang
+Kentang,Sayur,Pembeku,2,34,Segar
+Kentang,Sayur,Suhu Ruang,1,0,Busuk
+Apel,Buah,Pendingin,5,19,Matang
+Timun,Sayur,Pembeku,0,3,Busuk
+Anggur,Buah,Pendingin,1,6,Terlalu Matang
+Tomat,Sayur,Pendingin,0,17,Segar
+Mangga,Buah,Suhu Ruang,0,0,Busuk
+Tomat,Sayur,Suhu Ruang,4,6,Segar
+Wortel,Sayur,Pembeku,2,7,Busuk
+Pisang,Buah,Pembeku,6,25,Mentah
+Kentang,Sayur,Pendingin,2,5,Busuk
+Anggur,Buah,Suhu Ruang,1,6,Matang
+Pisang,Buah,Pendingin,5,8,Matang
+Jeruk,Buah,Pembeku,4,38,Mentah
+Cabe,Sayur,Suhu Ruang,2,5,Segar
+Mangga,Buah,Suhu Ruang,1,0,Busuk
+Mangga,Buah,Pendingin,1,0,Busuk
+Pisang,Buah,Suhu Ruang,5,6,Mentah
+Mangga,Buah,Pendingin,1,0,Busuk
+Jeruk,Buah,Pembeku,1,2,Busuk
+Cabe,Sayur,Suhu Ruang,0,7,Segar
+Kentang,Sayur,Suhu Ruang,1,2,Busuk
+Timun,Sayur,Pendingin,0,20,Segar
+Wortel,Sayur,Suhu Ruang,2,0,Busuk
+Kentang,Sayur,Pembeku,2,5,Busuk
+Pisang,Buah,Suhu Ruang,0,0,Busuk
+Anggur,Buah,Pembeku,0,15,Terlalu Matang
+Tomat,Sayur,Pendingin,6,8,Segar
+Anggur,Buah,Suhu Ruang,5,7,Matang
+Anggur,Buah,Pendingin,0,4,Terlalu Matang
+Pisang,Buah,Pembeku,1,37,Mentah
+Wortel,Sayur,Pendingin,1,0,Busuk
+Pisang,Buah,Suhu Ruang,4,7,Mentah
+Cabe,Sayur,Suhu Ruang,3,7,Segar
+Mangga,Buah,Pembeku,0,3,Busuk
+Anggur,Buah,Suhu Ruang,1,0,Busuk
+Kentang,Sayur,Suhu Ruang,1,1,Busuk
+Wortel,Sayur,Suhu Ruang,0,12,Segar
+Anggur,Buah,Suhu Ruang,3,8,Matang
+Wortel,Sayur,Suhu Ruang,2,10,Segar
+Mangga,Buah,Pendingin,5,11,Matang
+Jeruk,Buah,Suhu Ruang,0,2,Terlalu Matang
+Mangga,Buah,Pembeku,3,11,Terlalu Matang
+Mangga,Buah,Pembeku,2,37,Mentah
+Anggur,Buah,Pendingin,0,1,Busuk
+Wortel,Sayur,Pendingin,0,2,Busuk
+Timun,Sayur,Pembeku,0,5,Busuk
+Tomat,Sayur,Suhu Ruang,4,11,Segar
+Jeruk,Buah,Pendingin,0,2,Busuk
+Pisang,Buah,Pendingin,4,19,Mentah
+Wortel,Sayur,Pendingin,2,0,Busuk
+Timun,Sayur,Pendingin,2,2,Busuk
+Apel,Buah,Pendingin,5,22,Matang
+Cabe,Sayur,Suhu Ruang,5,7,Segar
+Anggur,Buah,Suhu Ruang,1,0,Busuk
+Jeruk,Buah,Pendingin,4,22,Mentah
+Jeruk,Buah,Pendingin,3,25,Mentah
+Jeruk,Buah,Suhu Ruang,1,0,Busuk
+Apel,Buah,Pendingin,3,12,Matang
+Wortel,Sayur,Pembeku,0,31,Segar
+Pisang,Buah,Pembeku,0,2,Busuk
+Timun,Sayur,Suhu Ruang,0,1,Busuk
+Wortel,Sayur,Suhu Ruang,6,8,Segar
+Pisang,Buah,Pembeku,4,23,Mentah
+Wortel,Sayur,Suhu Ruang,4,10,Segar
+Apel,Buah,Pendingin,1,17,Matang
+Apel,Buah,Suhu Ruang,1,0,Busuk
+Pisang,Buah,Pendingin,6,11,Mentah
+Jeruk,Buah,Pendingin,2,6,Terlalu Matang
+Jeruk,Buah,Suhu Ruang,5,11,Matang
+Wortel,Sayur,Pembeku,1,3,Busuk
+Wortel,Sayur,Suhu Ruang,6,11,Segar
+Tomat,Sayur,Pendingin,4,15,Segar
+Pisang,Buah,Pendingin,1,19,Mentah
+Cabe,Sayur,Suhu Ruang,0,10,Segar
+Timun,Sayur,Suhu Ruang,1,0,Busuk
+Cabe,Sayur,Pendingin,2,0,Busuk
+Mangga,Buah,Suhu Ruang,0,0,Busuk
+Jeruk,Buah,Pendingin,0,8,Terlalu Matang
+Jeruk,Buah,Pembeku,2,17,Terlalu Matang
+Timun,Sayur,Pembeku,6,18,Segar
+Anggur,Buah,Pembeku,4,38,Mentah
+Anggur,Buah,Pendingin,5,17,Matang
+Apel,Buah,Suhu Ruang,2,8,Matang
+Cabe,Sayur,Pembeku,0,3,Busuk
+Anggur,Buah,Suhu Ruang,5,8,Matang
+Jeruk,Buah,Pendingin,1,1,Busuk
+Wortel,Sayur,Suhu Ruang,2,2,Busuk
+Kentang,Sayur,Suhu Ruang,6,8,Segar
+Apel,Buah,Pendingin,0,0,Busuk
+Mangga,Buah,Suhu Ruang,3,11,Mentah
+Anggur,Buah,Pendingin,1,1,Busuk
+Wortel,Sayur,Pendingin,2,1,Busuk
+Wortel,Sayur,Suhu Ruang,0,1,Busuk
+Anggur,Buah,Pendingin,3,4,Terlalu Matang
+Timun,Sayur,Pembeku,5,23,Segar
+Anggur,Buah,Pendingin,1,1,Busuk
+Timun,Sayur,Suhu Ruang,5,7,Segar
+Pisang,Buah,Pendingin,0,15,Matang
+Tomat,Sayur,Pembeku,1,5,Busuk
+Wortel,Sayur,Pembeku,2,3,Busuk
+Timun,Sayur,Pembeku,1,3,Busuk
+Wortel,Sayur,Suhu Ruang,0,1,Busuk
+Pisang,Buah,Pendingin,3,11,Matang
+Cabe,Sayur,Pendingin,1,3,Busuk
+Apel,Buah,Pendingin,4,22,Matang
+Mangga,Buah,Pembeku,3,23,Matang
+Cabe,Sayur,Suhu Ruang,1,11,Segar
+Wortel,Sayur,Pendingin,2,3,Busuk
+Mangga,Buah,Pembeku,3,11,Terlalu Matang
+Kentang,Sayur,Suhu Ruang,0,15,Segar
+Cabe,Sayur,Suhu Ruang,2,1,Busuk
+Timun,Sayur,Pembeku,6,41,Segar
+Jeruk,Buah,Pembeku,1,4,Busuk
+Apel,Buah,Pembeku,2,18,Terlalu Matang
+Tomat,Sayur,Pembeku,2,16,Segar
+Mangga,Buah,Pendingin,5,14,Matang
+Anggur,Buah,Suhu Ruang,1,6,Matang
+Mangga,Buah,Suhu Ruang,1,8,Mentah
+Timun,Sayur,Pembeku,1,5,Busuk
+Pisang,Buah,Suhu Ruang,1,0,Busuk
+Timun,Sayur,Pendingin,2,2,Busuk
+Pisang,Buah,Pendingin,0,12,Matang
+Mangga,Buah,Suhu Ruang,4,5,Matang
+Pisang,Buah,Pendingin,1,13,Matang
+Kentang,Sayur,Pembeku,0,1,Busuk
+Apel,Buah,Pendingin,1,0,Busuk
+Jeruk,Buah,Pembeku,1,41,Matang
+Apel,Buah,Pembeku,3,17,Terlalu Matang
+Pisang,Buah,Pembeku,5,24,Matang
+Kentang,Sayur,Suhu Ruang,2,1,Busuk
+Anggur,Buah,Pendingin,0,26,Mentah
+Cabe,Sayur,Suhu Ruang,6,13,Segar
+Tomat,Sayur,Pembeku,1,3,Busuk
+Kentang,Sayur,Suhu Ruang,1,2,Busuk
+Timun,Sayur,Suhu Ruang,1,1,Busuk
+Jeruk,Buah,Suhu Ruang,5,15,Mentah
+Mangga,Buah,Pendingin,0,0,Busuk
+Jeruk,Buah,Pendingin,1,2,Busuk
+Anggur,Buah,Suhu Ruang,3,3,Terlalu Matang
+Pisang,Buah,Pembeku,0,31,Matang
+Tomat,Sayur,Pembeku,0,35,Segar
+Mangga,Buah,Pendingin,1,1,Busuk
+Jeruk,Buah,Pendingin,3,23,Mentah
+Wortel,Sayur,Suhu Ruang,0,9,Segar
+Kentang,Sayur,Pembeku,0,3,Busuk
+Tomat,Sayur,Suhu Ruang,2,9,Segar
+Tomat,Sayur,Pendingin,2,1,Busuk
+Apel,Buah,Pendingin,1,2,Busuk
+Kentang,Sayur,Suhu Ruang,4,11,Segar
+Jeruk,Buah,Pendingin,4,21,Mentah
+Timun,Sayur,Pembeku,1,0,Busuk
+Cabe,Sayur,Pembeku,1,7,Busuk
+Timun,Sayur,Suhu Ruang,2,0,Busuk
+Timun,Sayur,Pembeku,2,0,Busuk
+Tomat,Sayur,Pembeku,0,0,Busuk
+Anggur,Buah,Suhu Ruang,1,0,Busuk
+Pisang,Buah,Pembeku,0,1,Busuk
+Wortel,Sayur,Pembeku,6,37,Segar
+Pisang,Buah,Suhu Ruang,3,9,Mentah
+Anggur,Buah,Pendingin,3,22,Mentah
+Pisang,Buah,Pendingin,3,4,Terlalu Matang
+Anggur,Buah,Pendingin,1,1,Busuk
+Kentang,Sayur,Pendingin,4,18,Segar
+Mangga,Buah,Pembeku,0,12,Terlalu Matang
+Cabe,Sayur,Pembeku,5,35,Segar
+Pisang,Buah,Pembeku,4,19,Matang
+Wortel,Sayur,Pendingin,2,15,Segar
+Pisang,Buah,Pendingin,0,9,Matang
+Tomat,Sayur,Pendingin,1,18,Segar
+Pisang,Buah,Pendingin,3,14,Matang
+Jeruk,Buah,Pembeku,1,4,Busuk
+Pisang,Buah,Pendingin,1,5,Terlalu Matang
+Mangga,Buah,Suhu Ruang,1,2,Terlalu Matang
+Timun,Sayur,Pembeku,1,0,Busuk
+Pisang,Buah,Pendingin,5,16,Mentah
+Timun,Sayur,Pendingin,6,14,Segar
+Mangga,Buah,Pendingin,1,0,Busuk
+Wortel,Sayur,Suhu Ruang,3,19,Segar
+Anggur,Buah,Suhu Ruang,1,2,Terlalu Matang
+Cabe,Sayur,Pembeku,3,32,Segar
+Pisang,Buah,Pendingin,2,6,Terlalu Matang
+Jeruk,Buah,Pendingin,1,1,Busuk
+Pisang,Buah,Pembeku,2,10,Terlalu Matang
+Cabe,Sayur,Pembeku,0,6,Busuk
+Mangga,Buah,Pendingin,3,6,Terlalu Matang
+Tomat,Sayur,Pendingin,5,21,Segar
+Mangga,Buah,Pembeku,0,0,Busuk
+Pisang,Buah,Suhu Ruang,0,1,Terlalu Matang
+Pisang,Buah,Suhu Ruang,0,0,Busuk
+Cabe,Sayur,Suhu Ruang,4,10,Segar
+Pisang,Buah,Suhu Ruang,0,0,Busuk
+Mangga,Buah,Pendingin,5,17,Matang
+Mangga,Buah,Pendingin,1,0,Busuk
+Timun,Sayur,Suhu Ruang,2,7,Segar
+Jeruk,Buah,Pembeku,5,29,Matang
+Timun,Sayur,Pendingin,2,1,Busuk
+Anggur,Buah,Pendingin,0,19,Mentah
+Tomat,Sayur,Pendingin,3,8,Segar
+Wortel,Sayur,Pendingin,1,4,Busuk
+Jeruk,Buah,Suhu Ruang,2,6,Matang
+Anggur,Buah,Pendingin,0,11,Matang
+Mangga,Buah,Pembeku,3,13,Terlalu Matang
+Mangga,Buah,Pendingin,3,6,Terlalu Matang
+Tomat,Sayur,Pembeku,1,4,Busuk
+Cabe,Sayur,Pembeku,6,30,Segar
+Mangga,Buah,Suhu Ruang,1,8,Mentah
+Apel,Buah,Pendingin,0,2,Busuk
+Kentang,Sayur,Suhu Ruang,0,0,Busuk
+Pisang,Buah,Pembeku,0,2,Busuk
+Cabe,Sayur,Pendingin,3,22,Segar
+Mangga,Buah,Pembeku,0,0,Busuk
+Anggur,Buah,Suhu Ruang,4,7,Matang
+Wortel,Sayur,Pendingin,6,38,Segar
+Anggur,Buah,Pendingin,0,0,Busuk
+Kentang,Sayur,Pendingin,0,1,Busuk
+Mangga,Buah,Pendingin,1,14,Matang
+Kentang,Sayur,Pendingin,2,2,Busuk
+Wortel,Sayur,Pembeku,2,7,Busuk
+Apel,Buah,Pendingin,2,5,Terlalu Matang
+Kentang,Sayur,Pendingin,5,37,Segar
+Pisang,Buah,Suhu Ruang,1,0,Busuk
+Pisang,Buah,Suhu Ruang,1,0,Busuk
+Anggur,Buah,Pendingin,5,23,Mentah
+Pisang,Buah,Pendingin,0,0,Busuk
+Tomat,Sayur,Pendingin,1,11,Segar
+Jeruk,Buah,Suhu Ruang,1,4,Terlalu Matang
+Cabe,Sayur,Suhu Ruang,0,14,Segar
+Wortel,Sayur,Pendingin,0,20,Segar
+Tomat,Sayur,Pembeku,1,26,Segar
+Tomat,Sayur,Suhu Ruang,2,10,Segar
+Wortel,Sayur,Suhu Ruang,1,0,Busuk
+Mangga,Buah,Pembeku,5,22,Matang
+Pisang,Buah,Suhu Ruang,0,6,Mentah
+Wortel,Sayur,Pendingin,2,17,Segar
+Kentang,Sayur,Pendingin,1,2,Busuk
+Kentang,Sayur,Suhu Ruang,2,0,Busuk
+Jeruk,Buah,Pendingin,3,22,Matang
+Cabe,Sayur,Pembeku,6,37,Segar
+Pisang,Buah,Suhu Ruang,3,6,Mentah
+Kentang,Sayur,Pembeku,0,10,Busuk
+Mangga,Buah,Suhu Ruang,4,7,Mentah
+Pisang,Buah,Suhu Ruang,2,2,Terlalu Matang
+Jeruk,Buah,Suhu Ruang,1,1,Busuk
+Anggur,Buah,Pembeku,1,1,Busuk
+Anggur,Buah,Suhu Ruang,5,5,Matang
+Pisang,Buah,Suhu Ruang,1,8,Mentah
+Anggur,Buah,Pendingin,5,16,Matang
+Anggur,Buah,Pembeku,5,39,Mentah
+Pisang,Buah,Pembeku,1,33,Mentah
+Tomat,Sayur,Suhu Ruang,0,0,Busuk
+Jeruk,Buah,Pembeku,5,39,Matang
+Tomat,Sayur,Pembeku,2,5,Busuk
+Cabe,Sayur,Pendingin,3,17,Segar
+Anggur,Buah,Pembeku,1,12,Terlalu Matang
+Kentang,Sayur,Pendingin,3,24,Segar
+Mangga,Buah,Suhu Ruang,1,5,Matang
+Timun,Sayur,Pembeku,6,21,Segar
+Anggur,Buah,Pendingin,3,4,Terlalu Matang
+Kentang,Sayur,Pendingin,3,32,Segar
+Mangga,Buah,Pembeku,0,13,Terlalu Matang
+Kentang,Sayur,Pendingin,2,2,Busuk
+Tomat,Sayur,Suhu Ruang,0,0,Busuk
+Anggur,Buah,Pendingin,3,13,Matang
+Mangga,Buah,Pendingin,0,4,Terlalu Matang
+Apel,Buah,Pembeku,3,16,Terlalu Matang
+Kentang,Sayur,Suhu Ruang,4,18,Segar
+Tomat,Sayur,Pembeku,2,35,Segar
+Kentang,Sayur,Suhu Ruang,0,1,Busuk
+Anggur,Buah,Pendingin,1,0,Busuk
+Pisang,Buah,Pendingin,0,17,Mentah
+Timun,Sayur,Pembeku,0,4,Busuk
+Pisang,Buah,Pembeku,6,29,Mentah
+Kentang,Sayur,Suhu Ruang,0,1,Busuk
+Wortel,Sayur,Suhu Ruang,1,17,Segar
+Anggur,Buah,Pendingin,4,19,Mentah
+Cabe,Sayur,Suhu Ruang,0,6,Segar
+Kentang,Sayur,Pembeku,2,1,Busuk
+Cabe,Sayur,Suhu Ruang,2,9,Segar
+Kentang,Sayur,Pendingin,2,4,Busuk
+Timun,Sayur,Pendingin,3,21,Segar
+Tomat,Sayur,Suhu Ruang,3,11,Segar
+Mangga,Buah,Pembeku,0,14,Terlalu Matang
+Mangga,Buah,Pendingin,4,16,Matang
+Tomat,Sayur,Suhu Ruang,1,1,Busuk
+Jeruk,Buah,Suhu Ruang,2,4,Terlalu Matang
+Tomat,Sayur,Suhu Ruang,2,1,Busuk
+Cabe,Sayur,Pembeku,4,37,Segar
+Timun,Sayur,Pendingin,2,3,Busuk
+Timun,Sayur,Pendingin,5,10,Segar
+Jeruk,Buah,Pendingin,1,0,Busuk
+Jeruk,Buah,Pendingin,3,8,Terlalu Matang
+Pisang,Buah,Pembeku,0,1,Busuk
+Wortel,Sayur,Pembeku,1,9,Busuk
+Mangga,Buah,Suhu Ruang,2,5,Matang
+Kentang,Sayur,Pendingin,1,1,Busuk
+Mangga,Buah,Suhu Ruang,4,6,Matang
+Kentang,Sayur,Suhu Ruang,1,0,Busuk
+Apel,Buah,Pendingin,2,15,Matang
+Anggur,Buah,Pendingin,1,18,Mentah
+Mangga,Buah,Pendingin,2,19,Mentah
+Cabe,Sayur,Suhu Ruang,2,2,Busuk
+Tomat,Sayur,Suhu Ruang,0,1,Busuk
+Mangga,Buah,Suhu Ruang,0,8,Mentah
+Cabe,Sayur,Pembeku,2,1,Busuk
+Kentang,Sayur,Pembeku,4,37,Segar
+Tomat,Sayur,Pendingin,0,15,Segar
+Timun,Sayur,Pendingin,3,19,Segar
+Jeruk,Buah,Pembeku,1,0,Busuk
+Tomat,Sayur,Suhu Ruang,5,4,Segar
+Apel,Buah,Suhu Ruang,2,9,Mentah
+Wortel,Sayur,Pendingin,2,2,Busuk
+Pisang,Buah,Pembeku,3,9,Terlalu Matang
+Mangga,Buah,Pendingin,0,1,Busuk
+Pisang,Buah,Pembeku,1,3,Busuk
+Pisang,Buah,Pembeku,4,26,Matang
+Timun,Sayur,Pendingin,0,1,Busuk
+Apel,Buah,Pembeku,1,2,Busuk
+Tomat,Sayur,Pendingin,1,1,Busuk
+Tomat,Sayur,Suhu Ruang,1,11,Segar
+Mangga,Buah,Suhu Ruang,1,0,Busuk
+Apel,Buah,Pembeku,0,17,Terlalu Matang
+Jeruk,Buah,Pendingin,0,1,Busuk
+Jeruk,Buah,Suhu Ruang,6,14,Mentah
+Wortel,Sayur,Suhu Ruang,2,17,Segar
+Apel,Buah,Suhu Ruang,1,0,Busuk
+Apel,Buah,Suhu Ruang,3,7,Matang
+Jeruk,Buah,Pendingin,2,5,Terlalu Matang
+Kentang,Sayur,Pembeku,0,7,Busuk
+Apel,Buah,Suhu Ruang,5,11,Mentah
+Timun,Sayur,Pendingin,2,18,Segar
+Pisang,Buah,Pendingin,3,6,Terlalu Matang
+Wortel,Sayur,Suhu Ruang,4,17,Segar
+Jeruk,Buah,Pembeku,1,5,Busuk
+Mangga,Buah,Pendingin,2,10,Matang
+Jeruk,Buah,Pembeku,3,11,Terlalu Matang
+Cabe,Sayur,Pendingin,0,3,Busuk
+Tomat,Sayur,Pendingin,0,2,Busuk
+Jeruk,Buah,Pendingin,0,1,Busuk
+Kentang,Sayur,Suhu Ruang,1,10,Segar
+Cabe,Sayur,Suhu Ruang,5,10,Segar
+Kentang,Sayur,Suhu Ruang,5,14,Segar
+Cabe,Sayur,Pendingin,1,0,Busuk
+Cabe,Sayur,Pendingin,4,20,Segar
+Pisang,Buah,Suhu Ruang,1,7,Matang
+Apel,Buah,Pembeku,1,27,Matang
+Tomat,Sayur,Pembeku,2,29,Segar
+Cabe,Sayur,Pembeku,2,3,Busuk
+Jeruk,Buah,Suhu Ruang,2,3,Terlalu Matang
+Cabe,Sayur,Pembeku,1,3,Busuk
+Wortel,Sayur,Pendingin,1,1,Busuk
+Anggur,Buah,Pendingin,1,8,Terlalu Matang
+Cabe,Sayur,Pendingin,6,11,Segar
+Pisang,Buah,Pembeku,0,12,Terlalu Matang
+Kentang,Sayur,Pendingin,4,24,Segar
+Kentang,Sayur,Suhu Ruang,5,20,Segar
+Wortel,Sayur,Pendingin,0,2,Busuk
+Timun,Sayur,Pendingin,2,2,Busuk
+Jeruk,Buah,Suhu Ruang,2,11,Matang
+Pisang,Buah,Pembeku,2,7,Terlalu Matang
+Tomat,Sayur,Suhu Ruang,0,1,Busuk
+Mangga,Buah,Pendingin,3,4,Terlalu Matang
+Apel,Buah,Suhu Ruang,3,3,Terlalu Matang
+Tomat,Sayur,Pembeku,1,4,Busuk
+Apel,Buah,Suhu Ruang,5,15,Mentah
+Pisang,Buah,Pendingin,1,5,Terlalu Matang
+Apel,Buah,Pembeku,1,35,Mentah
+Pisang,Buah,Pendingin,2,8,Matang
+Wortel,Sayur,Suhu Ruang,1,1,Busuk
+Mangga,Buah,Pendingin,2,4,Terlalu Matang
+Kentang,Sayur,Pembeku,6,37,Segar
+Wortel,Sayur,Pendingin,2,3,Busuk
+Anggur,Buah,Suhu Ruang,0,3,Terlalu Matang
+Apel,Buah,Pendingin,2,14,Matang
+Timun,Sayur,Suhu Ruang,0,0,Busuk
+Timun,Sayur,Pendingin,1,10,Segar
+Anggur,Buah,Pendingin,0,27,Mentah
+Anggur,Buah,Pendingin,2,7,Terlalu Matang
+Mangga,Buah,Pendingin,6,16,Mentah
+Apel,Buah,Pembeku,3,27,Matang
+Timun,Sayur,Suhu Ruang,0,4,Segar
+Apel,Buah,Suhu Ruang,4,10,Matang
+Anggur,Buah,Suhu Ruang,6,7,Mentah
+Tomat,Sayur,Suhu Ruang,6,10,Segar
+Cabe,Sayur,Pendingin,2,2,Busuk
+Mangga,Buah,Pembeku,1,0,Busuk
+Mangga,Buah,Pendingin,1,18,Mentah
+Tomat,Sayur,Suhu Ruang,1,0,Busuk
+Wortel,Sayur,Pendingin,1,4,Busuk
+Pisang,Buah,Pendingin,5,13,Matang
+Apel,Buah,Pembeku,1,4,Busuk
+Pisang,Buah,Suhu Ruang,6,6,Mentah
+Timun,Sayur,Pendingin,1,0,Busuk
+Kentang,Sayur,Pembeku,2,4,Busuk
+Pisang,Buah,Suhu Ruang,3,2,Terlalu Matang
+Apel,Buah,Suhu Ruang,0,0,Busuk
+Pisang,Buah,Suhu Ruang,0,5,Matang
+Pisang,Buah,Suhu Ruang,1,2,Terlalu Matang
+Anggur,Buah,Pembeku,3,35,Mentah
+Jeruk,Buah,Pendingin,2,6,Terlalu Matang
+Jeruk,Buah,Suhu Ruang,2,17,Mentah
+Kentang,Sayur,Pendingin,0,5,Busuk
+Timun,Sayur,Pendingin,3,23,Segar
+Pisang,Buah,Pembeku,0,23,Matang
+Mangga,Buah,Pendingin,2,13,Mentah
+Pisang,Buah,Suhu Ruang,4,7,Matang
+Timun,Sayur,Suhu Ruang,0,9,Segar
+Cabe,Sayur,Pendingin,1,1,Busuk
+Kentang,Sayur,Suhu Ruang,2,1,Busuk
+Timun,Sayur,Pendingin,2,9,Segar
+Cabe,Sayur,Pembeku,0,6,Busuk
+Mangga,Buah,Suhu Ruang,1,0,Busuk
+Timun,Sayur,Suhu Ruang,6,4,Segar
+Apel,Buah,Pembeku,0,17,Terlalu Matang
+Timun,Sayur,Pembeku,5,32,Segar
+Mangga,Buah,Suhu Ruang,1,7,Matang
+Apel,Buah,Pembeku,1,41,Mentah
+Wortel,Sayur,Pendingin,2,25,Segar
+Pisang,Buah,Suhu Ruang,5,5,Mentah
+Tomat,Sayur,Pembeku,2,2,Busuk
+Timun,Sayur,Suhu Ruang,0,1,Busuk
+Timun,Sayur,Pendingin,0,1,Busuk
+Apel,Buah,Suhu Ruang,1,10,Mentah
+Tomat,Sayur,Pembeku,4,27,Segar
+Kentang,Sayur,Pendingin,1,33,Segar
+Jeruk,Buah,Suhu Ruang,3,7,Matang
+Kentang,Sayur,Suhu Ruang,1,1,Busuk
+Cabe,Sayur,Pendingin,2,0,Busuk
+Kentang,Sayur,Pendingin,1,4,Busuk
+Anggur,Buah,Pendingin,1,14,Matang
+Wortel,Sayur,Pembeku,0,4,Busuk
+Wortel,Sayur,Suhu Ruang,2,0,Busuk
+Pisang,Buah,Pendingin,3,10,Matang
+Timun,Sayur,Suhu Ruang,0,0,Busuk
+Mangga,Buah,Suhu Ruang,1,10,Mentah
+Timun,Sayur,Suhu Ruang,0,9,Segar
+Kentang,Sayur,Suhu Ruang,3,11,Segar
+Wortel,Sayur,Pendingin,6,32,Segar
+Tomat,Sayur,Suhu Ruang,1,10,Segar
+Anggur,Buah,Pembeku,0,28,Mentah
+Tomat,Sayur,Suhu Ruang,2,1,Busuk
+Anggur,Buah,Pembeku,3,25,Matang
+Wortel,Sayur,Pembeku,5,31,Segar
+Anggur,Buah,Suhu Ruang,2,3,Terlalu Matang
+Pisang,Buah,Suhu Ruang,4,6,Matang
+Anggur,Buah,Pendingin,1,6,Terlalu Matang
+Wortel,Sayur,Pendingin,2,2,Busuk
+Tomat,Sayur,Pendingin,0,2,Busuk
+Anggur,Buah,Pendingin,5,15,Mentah
+Pisang,Buah,Pembeku,3,16,Matang
+Mangga,Buah,Pembeku,3,8,Terlalu Matang
+Kentang,Sayur,Suhu Ruang,2,8,Segar
+Cabe,Sayur,Pendingin,3,13,Segar
+Timun,Sayur,Pendingin,1,2,Busuk
+Tomat,Sayur,Suhu Ruang,3,4,Segar
+Cabe,Sayur,Suhu Ruang,6,7,Segar
+Timun,Sayur,Suhu Ruang,0,0,Busuk
+Mangga,Buah,Suhu Ruang,1,10,Mentah
+Apel,Buah,Pendingin,3,8,Terlalu Matang
+Apel,Buah,Pendingin,4,16,Matang
+Pisang,Buah,Pembeku,0,31,Mentah
+Apel,Buah,Suhu Ruang,1,15,Mentah
+Pisang,Buah,Pembeku,2,19,Matang
+Mangga,Buah,Pembeku,0,13,Terlalu Matang
+Wortel,Sayur,Suhu Ruang,0,0,Busuk
+Jeruk,Buah,Pendingin,6,31,Mentah
+Mangga,Buah,Suhu Ruang,2,5,Matang
+Jeruk,Buah,Pendingin,1,6,Terlalu Matang
+Wortel,Sayur,Pendingin,2,1,Busuk
+Wortel,Sayur,Suhu Ruang,0,2,Busuk
+Apel,Buah,Pembeku,0,9,Terlalu Matang
+Mangga,Buah,Suhu Ruang,6,9,Mentah
+Apel,Buah,Pendingin,1,0,Busuk
+Timun,Sayur,Pembeku,2,2,Busuk
+Mangga,Buah,Pembeku,3,7,Terlalu Matang
+Timun,Sayur,Suhu Ruang,3,7,Segar
+Mangga,Buah,Suhu Ruang,3,10,Mentah
+Jeruk,Buah,Pembeku,1,12,Terlalu Matang
+Wortel,Sayur,Pendingin,5,29,Segar
+Mangga,Buah,Suhu Ruang,3,5,Matang
+Pisang,Buah,Pembeku,0,0,Busuk
+Pisang,Buah,Pembeku,5,31,Matang
+Timun,Sayur,Pendingin,6,15,Segar
+Kentang,Sayur,Pendingin,1,3,Busuk
+Anggur,Buah,Pendingin,2,17,Matang
+Cabe,Sayur,Pembeku,1,6,Busuk
+Tomat,Sayur,Pembeku,2,41,Segar
+Wortel,Sayur,Suhu Ruang,2,0,Busuk
+Apel,Buah,Pembeku,3,14,Terlalu Matang
+Tomat,Sayur,Pembeku,6,32,Segar
+Mangga,Buah,Suhu Ruang,5,6,Mentah
+Pisang,Buah,Pembeku,2,20,Matang
+Cabe,Sayur,Pembeku,1,5,Busuk
+Tomat,Sayur,Pembeku,3,19,Segar
+Jeruk,Buah,Pendingin,0,0,Busuk
+Tomat,Sayur,Pembeku,3,17,Segar
+Wortel,Sayur,Pendingin,2,0,Busuk
+Mangga,Buah,Suhu Ruang,5,4,Matang
+Kentang,Sayur,Pembeku,0,9,Busuk
+Timun,Sayur,Suhu Ruang,1,0,Busuk
+Mangga,Buah,Pendingin,0,0,Busuk
+Mangga,Buah,Pendingin,3,6,Terlalu Matang
+Wortel,Sayur,Pendingin,5,38,Segar
+Wortel,Sayur,Pendingin,4,35,Segar
+Pisang,Buah,Suhu Ruang,3,5,Mentah
+Mangga,Buah,Suhu Ruang,0,0,Busuk
+Anggur,Buah,Pendingin,6,26,Mentah
+Cabe,Sayur,Suhu Ruang,1,13,Segar
+Pisang,Buah,Pendingin,0,1,Busuk
+Kentang,Sayur,Pendingin,1,2,Busuk
+Apel,Buah,Pendingin,2,5,Terlalu Matang
+Anggur,Buah,Pembeku,0,3,Busuk
+Mangga,Buah,Pendingin,6,15,Mentah
+Kentang,Sayur,Pendingin,1,38,Segar
+Apel,Buah,Suhu Ruang,1,0,Busuk
+Mangga,Buah,Pembeku,2,26,Mentah
+Pisang,Buah,Pendingin,5,9,Matang
+Mangga,Buah,Suhu Ruang,1,3,Terlalu Matang
+Apel,Buah,Pembeku,3,17,Terlalu Matang
+Pisang,Buah,Pembeku,1,2,Busuk
+Wortel,Sayur,Pendingin,0,16,Segar
+Timun,Sayur,Pembeku,5,24,Segar
+Anggur,Buah,Pendingin,5,20,Mentah
+Timun,Sayur,Pendingin,0,2,Busuk
+Tomat,Sayur,Pembeku,6,33,Segar
+Cabe,Sayur,Suhu Ruang,5,11,Segar
+Anggur,Buah,Pembeku,0,2,Busuk
+Apel,Buah,Suhu Ruang,0,4,Terlalu Matang
+Timun,Sayur,Pembeku,0,6,Busuk
+Apel,Buah,Pendingin,4,22,Matang
+Cabe,Sayur,Pendingin,2,1,Busuk
+Wortel,Sayur,Pembeku,1,40,Segar
+Anggur,Buah,Suhu Ruang,1,2,Terlalu Matang
+Mangga,Buah,Suhu Ruang,1,0,Busuk
+Timun,Sayur,Pendingin,0,3,Busuk
+Tomat,Sayur,Pembeku,1,6,Busuk
+Cabe,Sayur,Suhu Ruang,0,1,Busuk
+Wortel,Sayur,Pembeku,5,34,Segar
+Apel,Buah,Pembeku,5,31,Matang
+Timun,Sayur,Pendingin,0,1,Busuk
+Apel,Buah,Pendingin,5,27,Mentah
+Kentang,Sayur,Suhu Ruang,1,0,Busuk
+Cabe,Sayur,Pembeku,2,35,Segar
+Cabe,Sayur,Pembeku,1,1,Busuk
+Wortel,Sayur,Suhu Ruang,0,0,Busuk
+Timun,Sayur,Pembeku,1,39,Segar
+Cabe,Sayur,Suhu Ruang,6,12,Segar
+Pisang,Buah,Pembeku,2,18,Matang
+Timun,Sayur,Pendingin,2,1,Busuk
+Mangga,Buah,Pembeku,1,34,Matang
+Anggur,Buah,Suhu Ruang,0,2,Terlalu Matang
+Pisang,Buah,Pendingin,5,21,Mentah
+Pisang,Buah,Pembeku,0,7,Terlalu Matang
+Anggur,Buah,Pembeku,0,1,Busuk
+Kentang,Sayur,Suhu Ruang,1,20,Segar
+Cabe,Sayur,Pembeku,3,35,Segar
+Apel,Buah,Pembeku,0,1,Busuk
+Anggur,Buah,Suhu Ruang,2,9,Matang
+Kentang,Sayur,Suhu Ruang,3,9,Segar
+Cabe,Sayur,Pendingin,2,18,Segar
+Pisang,Buah,Pendingin,0,0,Busuk
+Jeruk,Buah,Pembeku,0,16,Terlalu Matang
+Pisang,Buah,Pendingin,0,4,Terlalu Matang
+Pisang,Buah,Pendingin,4,14,Matang
+Timun,Sayur,Pendingin,2,16,Segar
+Kentang,Sayur,Suhu Ruang,0,0,Busuk
+Anggur,Buah,Pembeku,0,2,Busuk
+Timun,Sayur,Pembeku,2,40,Segar
+Tomat,Sayur,Pendingin,0,1,Busuk
+Timun,Sayur,Pembeku,1,6,Busuk
+Pisang,Buah,Suhu Ruang,1,5,Matang
+Mangga,Buah,Suhu Ruang,0,0,Busuk
+Jeruk,Buah,Pendingin,1,1,Busuk
+Apel,Buah,Suhu Ruang,5,10,Matang
+Pisang,Buah,Pembeku,0,0,Busuk
+Timun,Sayur,Pembeku,0,4,Busuk
+Kentang,Sayur,Suhu Ruang,1,19,Segar
+Anggur,Buah,Suhu Ruang,0,8,Matang
+Cabe,Sayur,Pendingin,3,29,Segar
+Mangga,Buah,Pembeku,1,33,Mentah
+Jeruk,Buah,Pendingin,0,6,Terlalu Matang
+Jeruk,Buah,Suhu Ruang,3,5,Terlalu Matang
+Apel,Buah,Suhu Ruang,1,6,Matang
+Pisang,Buah,Pembeku,3,40,Mentah
+Pisang,Buah,Suhu Ruang,1,7,Matang
+Anggur,Buah,Suhu Ruang,1,3,Terlalu Matang
+Timun,Sayur,Pembeku,3,32,Segar
+Tomat,Sayur,Pendingin,1,2,Busuk
+Cabe,Sayur,Pendingin,1,2,Busuk
+Kentang,Sayur,Suhu Ruang,0,2,Busuk
+Apel,Buah,Pendingin,1,5,Terlalu Matang
+Cabe,Sayur,Pembeku,2,4,Busuk
+Apel,Buah,Pendingin,0,8,Terlalu Matang
+Wortel,Sayur,Suhu Ruang,1,0,Busuk
+Anggur,Buah,Pembeku,0,2,Busuk
+Apel,Buah,Suhu Ruang,4,12,Mentah
+Mangga,Buah,Pembeku,0,13,Terlalu Matang
+Wortel,Sayur,Pendingin,0,1,Busuk
+Mangga,Buah,Pendingin,2,15,Mentah
+Pisang,Buah,Pembeku,1,23,Matang
+Kentang,Sayur,Pendingin,1,1,Busuk
+Apel,Buah,Suhu Ruang,3,2,Terlalu Matang
+Cabe,Sayur,Pendingin,1,2,Busuk
+Wortel,Sayur,Suhu Ruang,4,13,Segar
+Wortel,Sayur,Suhu Ruang,4,11,Segar
+Timun,Sayur,Suhu Ruang,2,9,Segar
+Apel,Buah,Pendingin,0,2,Busuk
+Timun,Sayur,Pendingin,2,10,Segar
+Kentang,Sayur,Pembeku,1,8,Busuk
+Jeruk,Buah,Suhu Ruang,2,14,Mentah
+Kentang,Sayur,Pendingin,2,3,Busuk
+Timun,Sayur,Suhu Ruang,2,1,Busuk
+Anggur,Buah,Pendingin,2,16,Mentah
+Pisang,Buah,Suhu Ruang,3,7,Matang
+Timun,Sayur,Pendingin,3,14,Segar
+Timun,Sayur,Pembeku,1,20,Segar
+Kentang,Sayur,Pendingin,1,40,Segar
+Mangga,Buah,Pembeku,4,38,Mentah
+Pisang,Buah,Pendingin,4,14,Matang
+Anggur,Buah,Pembeku,1,35,Matang
+Cabe,Sayur,Pendingin,0,2,Busuk
+Anggur,Buah,Pembeku,0,0,Busuk
+Cabe,Sayur,Pendingin,2,0,Busuk
+Anggur,Buah,Pendingin,6,16,Mentah
+Jeruk,Buah,Pendingin,0,8,Terlalu Matang
+Apel,Buah,Pendingin,3,6,Terlalu Matang
+Jeruk,Buah,Pembeku,0,0,Busuk
+Timun,Sayur,Pembeku,0,2,Busuk
+Anggur,Buah,Pembeku,1,33,Mentah
+Cabe,Sayur,Pendingin,0,2,Busuk
+Jeruk,Buah,Pendingin,0,8,Terlalu Matang
+Anggur,Buah,Pembeku,3,14,Terlalu Matang
+Mangga,Buah,Pembeku,6,35,Mentah
+Mangga,Buah,Suhu Ruang,2,2,Terlalu Matang
+Kentang,Sayur,Pembeku,1,7,Busuk
+Apel,Buah,Suhu Ruang,0,0,Busuk
+Wortel,Sayur,Pembeku,1,28,Segar
+Cabe,Sayur,Pendingin,1,1,Busuk
+Mangga,Buah,Suhu Ruang,2,8,Matang
+Kentang,Sayur,Suhu Ruang,4,13,Segar
+Pisang,Buah,Suhu Ruang,2,4,Matang
+Mangga,Buah,Pembeku,1,32,Mentah
+Timun,Sayur,Suhu Ruang,2,0,Busuk
+Anggur,Buah,Pendingin,3,17,Matang
+Anggur,Buah,Suhu Ruang,1,0,Busuk
+Anggur,Buah,Pendingin,4,13,Matang
+Apel,Buah,Pendingin,4,12,Matang
+Mangga,Buah,Pembeku,1,2,Busuk
+Anggur,Buah,Suhu Ruang,1,3,Terlalu Matang
+Anggur,Buah,Pembeku,6,40,Mentah
+Apel,Buah,Suhu Ruang,0,0,Busuk
+Cabe,Sayur,Pendingin,5,25,Segar
+Jeruk,Buah,Suhu Ruang,1,1,Busuk
+Wortel,Sayur,Pendingin,0,1,Busuk
+Jeruk,Buah,Suhu Ruang,1,0,Busuk
+Cabe,Sayur,Suhu Ruang,0,0,Busuk
+Cabe,Sayur,Pendingin,1,1,Busuk
+Pisang,Buah,Suhu Ruang,2,3,Terlalu Matang
+Jeruk,Buah,Pendingin,0,0,Busuk
+Tomat,Sayur,Pendingin,1,0,Busuk
+Anggur,Buah,Pembeku,3,12,Terlalu Matang
+Tomat,Sayur,Pembeku,2,3,Busuk
+Kentang,Sayur,Pembeku,1,3,Busuk
+Apel,Buah,Suhu Ruang,2,4,Terlalu Matang
+Apel,Buah,Suhu Ruang,1,6,Matang
+Wortel,Sayur,Pembeku,2,8,Busuk
+Anggur,Buah,Suhu Ruang,2,2,Terlalu Matang
+Apel,Buah,Pendingin,0,14,Matang
+Pisang,Buah,Suhu Ruang,0,2,Terlalu Matang
+Kentang,Sayur,Pendingin,5,41,Segar
+Tomat,Sayur,Pendingin,0,2,Busuk
+Jeruk,Buah,Pembeku,1,1,Busuk
+Timun,Sayur,Pendingin,6,23,Segar
+Mangga,Buah,Pendingin,3,4,Terlalu Matang
+Cabe,Sayur,Pembeku,5,39,Segar
+Jeruk,Buah,Pembeku,0,1,Busuk
+Tomat,Sayur,Pembeku,3,35,Segar
+Cabe,Sayur,Pembeku,1,7,Busuk
+Timun,Sayur,Pendingin,6,12,Segar
+Tomat,Sayur,Pendingin,0,21,Segar
+Mangga,Buah,Pembeku,2,21,Matang
+Kentang,Sayur,Pendingin,2,1,Busuk
+Timun,Sayur,Pembeku,0,21,Segar
+Jeruk,Buah,Suhu Ruang,2,2,Terlalu Matang
+Tomat,Sayur,Pembeku,1,37,Segar
+Anggur,Buah,Pendingin,1,1,Busuk
+Apel,Buah,Pembeku,2,12,Terlalu Matang
+Jeruk,Buah,Suhu Ruang,1,0,Busuk
+Jeruk,Buah,Pendingin,1,1,Busuk
+Jeruk,Buah,Suhu Ruang,5,12,Matang
+Jeruk,Buah,Suhu Ruang,6,13,Mentah
+Timun,Sayur,Pembeku,6,22,Segar
+Pisang,Buah,Pendingin,2,18,Mentah
+Wortel,Sayur,Pendingin,2,1,Busuk
+Cabe,Sayur,Pembeku,1,5,Busuk
+Anggur,Buah,Suhu Ruang,3,7,Mentah
+Tomat,Sayur,Pendingin,6,14,Segar
+Jeruk,Buah,Pendingin,1,8,Terlalu Matang
+Cabe,Sayur,Suhu Ruang,0,6,Segar
+Jeruk,Buah,Suhu Ruang,1,12,Matang
+Timun,Sayur,Pembeku,4,33,Segar
+Wortel,Sayur,Pendingin,1,19,Segar
+Tomat,Sayur,Pembeku,1,30,Segar
+Anggur,Buah,Pembeku,0,32,Mentah
+Kentang,Sayur,Pembeku,1,9,Busuk
+Wortel,Sayur,Pembeku,0,4,Busuk
+Jeruk,Buah,Pendingin,1,6,Terlalu Matang
+Jeruk,Buah,Pembeku,1,40,Mentah
+Mangga,Buah,Pembeku,1,3,Busuk
+Mangga,Buah,Pembeku,0,10,Terlalu Matang
+Wortel,Sayur,Suhu Ruang,6,17,Segar
+Mangga,Buah,Pendingin,6,18,Mentah
+Mangga,Buah,Pendingin,1,3,Terlalu Matang
+Jeruk,Buah,Pembeku,1,18,Terlalu Matang
+Cabe,Sayur,Pembeku,3,29,Segar
+Kentang,Sayur,Pendingin,6,25,Segar
+Tomat,Sayur,Pendingin,6,21,Segar
+Apel,Buah,Pendingin,2,9,Terlalu Matang
+Cabe,Sayur,Pendingin,6,22,Segar
+Pisang,Buah,Pendingin,4,8,Matang
+Mangga,Buah,Pembeku,1,9,Terlalu Matang
+Cabe,Sayur,Suhu Ruang,1,13,Segar
+Wortel,Sayur,Suhu Ruang,4,7,Segar
+Anggur,Buah,Suhu Ruang,1,9,Matang
+Timun,Sayur,Suhu Ruang,0,0,Busuk
+Anggur,Buah,Pendingin,1,17,Matang
+Anggur,Buah,Pembeku,1,15,Terlalu Matang
+Kentang,Sayur,Pembeku,0,1,Busuk
+Timun,Sayur,Pembeku,6,22,Segar
+Mangga,Buah,Pendingin,0,1,Busuk
+Cabe,Sayur,Pendingin,2,3,Busuk
+Tomat,Sayur,Suhu Ruang,1,8,Segar
+Timun,Sayur,Suhu Ruang,1,0,Busuk
+Pisang,Buah,Suhu Ruang,2,5,Matang
+Cabe,Sayur,Suhu Ruang,2,0,Busuk
+Cabe,Sayur,Pendingin,2,1,Busuk
+Mangga,Buah,Pembeku,1,19,Matang
+Jeruk,Buah,Suhu Ruang,5,14,Mentah
+Cabe,Sayur,Pendingin,6,17,Segar
+Timun,Sayur,Suhu Ruang,5,7,Segar
+Jeruk,Buah,Suhu Ruang,0,0,Busuk
+Cabe,Sayur,Suhu Ruang,6,10,Segar
+Pisang,Buah,Pendingin,1,14,Matang
+Apel,Buah,Pembeku,0,10,Terlalu Matang
+Kentang,Sayur,Pembeku,2,6,Busuk
+Jeruk,Buah,Pendingin,5,15,Matang
+Apel,Buah,Pembeku,2,37,Mentah
+Jeruk,Buah,Suhu Ruang,0,3,Terlalu Matang
+Wortel,Sayur,Suhu Ruang,5,11,Segar
+Kentang,Sayur,Pendingin,2,19,Segar
+Timun,Sayur,Suhu Ruang,6,11,Segar
+Pisang,Buah,Pembeku,1,23,Mentah
+Cabe,Sayur,Pembeku,1,5,Busuk
+Timun,Sayur,Suhu Ruang,1,1,Busuk
+Pisang,Buah,Suhu Ruang,1,1,Terlalu Matang
+Cabe,Sayur,Suhu Ruang,2,0,Busuk
+Jeruk,Buah,Suhu Ruang,1,0,Busuk
+Cabe,Sayur,Suhu Ruang,6,14,Segar
+Wortel,Sayur,Pendingin,1,17,Segar
+Jeruk,Buah,Suhu Ruang,2,10,Matang
+Mangga,Buah,Pembeku,1,29,Matang
+Apel,Buah,Suhu Ruang,3,7,Matang
+Anggur,Buah,Pendingin,3,6,Terlalu Matang
+Timun,Sayur,Pendingin,0,13,Segar
+Tomat,Sayur,Suhu Ruang,5,6,Segar
+Mangga,Buah,Suhu Ruang,4,7,Matang
+Cabe,Sayur,Pendingin,0,1,Busuk
+Pisang,Buah,Pembeku,0,2,Busuk
+Mangga,Buah,Suhu Ruang,0,3,Terlalu Matang
+Tomat,Sayur,Suhu Ruang,1,4,Segar
+Tomat,Sayur,Pembeku,0,0,Busuk
+Kentang,Sayur,Pembeku,2,5,Busuk
+Anggur,Buah,Pembeku,2,34,Mentah
+Cabe,Sayur,Pembeku,2,7,Busuk
+Tomat,Sayur,Pembeku,2,0,Busuk
+Kentang,Sayur,Suhu Ruang,2,1,Busuk
+Timun,Sayur,Pembeku,2,5,Busuk
+Mangga,Buah,Pembeku,6,36,Mentah
+Tomat,Sayur,Pembeku,2,0,Busuk
+Timun,Sayur,Pembeku,2,0,Busuk
+Wortel,Sayur,Suhu Ruang,6,9,Segar
+Kentang,Sayur,Suhu Ruang,2,7,Segar
+Mangga,Buah,Pendingin,5,9,Matang
+Anggur,Buah,Pembeku,5,30,Matang
+Tomat,Sayur,Pembeku,0,0,Busuk
+Tomat,Sayur,Suhu Ruang,6,6,Segar
+Anggur,Buah,Pembeku,5,32,Matang
+Tomat,Sayur,Suhu Ruang,4,5,Segar
+Cabe,Sayur,Pembeku,0,37,Segar
+Pisang,Buah,Pembeku,0,29,Matang
+Apel,Buah,Suhu Ruang,3,10,Mentah
+Timun,Sayur,Pendingin,5,18,Segar
+Pisang,Buah,Pendingin,1,12,Mentah
+Anggur,Buah,Suhu Ruang,2,9,Matang
+Cabe,Sayur,Pendingin,2,13,Segar
+Timun,Sayur,Pendingin,2,0,Busuk
+Pisang,Buah,Pembeku,1,9,Terlalu Matang
+Apel,Buah,Suhu Ruang,1,0,Busuk
+Tomat,Sayur,Suhu Ruang,0,1,Busuk
+Anggur,Buah,Pendingin,2,13,Matang
+Anggur,Buah,Pembeku,3,14,Terlalu Matang
+Cabe,Sayur,Pembeku,0,38,Segar
+Timun,Sayur,Suhu Ruang,2,1,Busuk
+Anggur,Buah,Suhu Ruang,1,3,Terlalu Matang
+Timun,Sayur,Suhu Ruang,0,8,Segar
+Jeruk,Buah,Pendingin,0,0,Busuk
+Timun,Sayur,Pendingin,1,0,Busuk
+Pisang,Buah,Pembeku,3,26,Matang
+Tomat,Sayur,Pembeku,1,6,Busuk
+Pisang,Buah,Pendingin,0,5,Terlalu Matang
+Timun,Sayur,Pendingin,1,2,Busuk
+Cabe,Sayur,Pembeku,1,4,Busuk
+Timun,Sayur,Pembeku,5,19,Segar
+Apel,Buah,Pembeku,1,25,Matang
+Pisang,Buah,Pendingin,1,0,Busuk
+Jeruk,Buah,Suhu Ruang,0,4,Terlalu Matang
+Timun,Sayur,Suhu Ruang,2,4,Segar
+Pisang,Buah,Pendingin,0,10,Matang
+Tomat,Sayur,Pembeku,1,0,Busuk
+Jeruk,Buah,Pembeku,3,41,Matang
+Mangga,Buah,Pembeku,4,28,Mentah
+Wortel,Sayur,Pendingin,2,0,Busuk
+Wortel,Sayur,Pembeku,2,3,Busuk
+Cabe,Sayur,Pendingin,1,3,Busuk
+Kentang,Sayur,Suhu Ruang,1,1,Busuk
+Anggur,Buah,Pendingin,1,4,Terlalu Matang
+Cabe,Sayur,Pendingin,5,20,Segar
+Apel,Buah,Suhu Ruang,0,2,Terlalu Matang
+Apel,Buah,Pendingin,2,8,Terlalu Matang
+Kentang,Sayur,Suhu Ruang,1,10,Segar
+Jeruk,Buah,Suhu Ruang,0,12,Matang
+Timun,Sayur,Pendingin,5,24,Segar
+Wortel,Sayur,Pembeku,2,7,Busuk
+Pisang,Buah,Pendingin,1,3,Terlalu Matang
+Timun,Sayur,Suhu Ruang,2,1,Busuk
+Tomat,Sayur,Pendingin,1,2,Busuk
+Cabe,Sayur,Suhu Ruang,2,5,Segar
+Mangga,Buah,Pendingin,5,12,Mentah
+Tomat,Sayur,Pembeku,1,18,Segar
+Wortel,Sayur,Pembeku,2,6,Busuk
+Jeruk,Buah,Pembeku,3,20,Terlalu Matang
+Cabe,Sayur,Suhu Ruang,6,11,Segar
+Anggur,Buah,Suhu Ruang,0,0,Busuk
+Wortel,Sayur,Suhu Ruang,2,11,Segar
+Timun,Sayur,Pembeku,1,3,Busuk
+Jeruk,Buah,Pendingin,0,26,Mentah
+Cabe,Sayur,Suhu Ruang,0,1,Busuk
+Pisang,Buah,Suhu Ruang,1,0,Busuk
+Jeruk,Buah,Suhu Ruang,5,10,Matang
+Anggur,Buah,Suhu Ruang,5,9,Matang
+Tomat,Sayur,Suhu Ruang,1,10,Segar
+Pisang,Buah,Suhu Ruang,5,4,Matang
+Pisang,Buah,Pembeku,1,8,Terlalu Matang
+Mangga,Buah,Suhu Ruang,3,11,Mentah
+Wortel,Sayur,Pendingin,1,3,Busuk
+Tomat,Sayur,Suhu Ruang,1,8,Segar
+Tomat,Sayur,Pembeku,3,27,Segar
+Jeruk,Buah,Pembeku,4,29,Matang
+Tomat,Sayur,Pendingin,3,15,Segar
+Anggur,Buah,Pembeku,1,33,Matang
+Pisang,Buah,Pembeku,3,9,Terlalu Matang
+Cabe,Sayur,Pembeku,5,20,Segar
+Jeruk,Buah,Suhu Ruang,1,9,Matang
+Cabe,Sayur,Pembeku,1,3,Busuk
+Timun,Sayur,Suhu Ruang,2,7,Segar
+Cabe,Sayur,Pendingin,6,20,Segar
+Tomat,Sayur,Pembeku,1,4,Busuk
+Wortel,Sayur,Pendingin,1,2,Busuk
+Anggur,Buah,Suhu Ruang,2,7,Mentah
+Cabe,Sayur,Pendingin,0,3,Busuk
+Wortel,Sayur,Suhu Ruang,4,8,Segar
+Kentang,Sayur,Suhu Ruang,0,1,Busuk
+Apel,Buah,Pembeku,2,34,Matang
+Jeruk,Buah,Suhu Ruang,5,14,Mentah
+Pisang,Buah,Pendingin,0,1,Busuk
+Mangga,Buah,Suhu Ruang,1,6,Matang
+Pisang,Buah,Suhu Ruang,1,0,Busuk
+Jeruk,Buah,Suhu Ruang,2,4,Terlalu Matang
+Anggur,Buah,Pendingin,2,18,Matang
+Timun,Sayur,Pendingin,3,20,Segar
+Apel,Buah,Suhu Ruang,1,0,Busuk
+Pisang,Buah,Pendingin,2,19,Mentah
+Kentang,Sayur,Suhu Ruang,0,0,Busuk
+Cabe,Sayur,Suhu Ruang,1,0,Busuk
+Timun,Sayur,Pendingin,3,17,Segar
+Anggur,Buah,Suhu Ruang,3,2,Terlalu Matang
+Cabe,Sayur,Pendingin,5,22,Segar
+Jeruk,Buah,Pendingin,4,32,Mentah
+Anggur,Buah,Pendingin,0,27,Mentah
+Cabe,Sayur,Pendingin,1,12,Segar
+Pisang,Buah,Pembeku,2,24,Matang
+Kentang,Sayur,Pendingin,0,19,Segar
+Wortel,Sayur,Pendingin,1,3,Busuk
+Apel,Buah,Pembeku,1,13,Terlalu Matang
+Kentang,Sayur,Pendingin,0,2,Busuk
+Timun,Sayur,Pembeku,1,28,Segar
+Jeruk,Buah,Pembeku,1,12,Terlalu Matang
+Tomat,Sayur,Pembeku,0,1,Busuk
+Apel,Buah,Suhu Ruang,0,10,Mentah
+Jeruk,Buah,Suhu Ruang,2,4,Terlalu Matang
+Cabe,Sayur,Suhu Ruang,3,14,Segar
+Cabe,Sayur,Pendingin,1,0,Busuk
+Pisang,Buah,Pembeku,2,21,Matang
+Kentang,Sayur,Pendingin,2,20,Segar
+Pisang,Buah,Pembeku,1,25,Matang
+Anggur,Buah,Pembeku,1,15,Terlalu Matang
+Jeruk,Buah,Suhu Ruang,5,12,Matang
+Anggur,Buah,Suhu Ruang,2,2,Terlalu Matang
+Jeruk,Buah,Suhu Ruang,0,7,Matang
+Cabe,Sayur,Pendingin,2,16,Segar
+Wortel,Sayur,Pembeku,1,7,Busuk
+Mangga,Buah,Pendingin,4,10,Matang
+Mangga,Buah,Suhu Ruang,1,2,Terlalu Matang
+Pisang,Buah,Pembeku,0,19,Matang
+Wortel,Sayur,Pendingin,3,36,Segar
+Cabe,Sayur,Pembeku,1,38,Segar
+Mangga,Buah,Pendingin,3,12,Matang
+Anggur,Buah,Pendingin,0,17,Matang
+Timun,Sayur,Pembeku,1,4,Busuk
+Pisang,Buah,Suhu Ruang,0,4,Matang
+Jeruk,Buah,Pembeku,3,17,Terlalu Matang
+Mangga,Buah,Suhu Ruang,3,3,Terlalu Matang
+Wortel,Sayur,Pendingin,0,2,Busuk
+Wortel,Sayur,Suhu Ruang,3,11,Segar
+Wortel,Sayur,Suhu Ruang,6,10,Segar
+Cabe,Sayur,Pendingin,0,0,Busuk
+Wortel,Sayur,Pendingin,2,20,Segar
+Wortel,Sayur,Suhu Ruang,1,1,Busuk
+Timun,Sayur,Pembeku,2,20,Segar
+Timun,Sayur,Pendingin,0,2,Busuk
+Kentang,Sayur,Pembeku,2,3,Busuk
+Tomat,Sayur,Pendingin,1,23,Segar
+Cabe,Sayur,Pembeku,1,31,Segar
+Kentang,Sayur,Pembeku,2,0,Busuk
+Jeruk,Buah,Suhu Ruang,6,10,Mentah
+Tomat,Sayur,Pembeku,0,20,Segar
+Anggur,Buah,Pembeku,0,40,Mentah
+Anggur,Buah,Suhu Ruang,1,2,Terlalu Matang
+Wortel,Sayur,Pendingin,2,1,Busuk
+Anggur,Buah,Pembeku,5,36,Mentah
+Wortel,Sayur,Pembeku,0,30,Segar
+Timun,Sayur,Suhu Ruang,0,8,Segar
+Jeruk,Buah,Suhu Ruang,4,15,Mentah
+Pisang,Buah,Pendingin,0,0,Busuk
+Apel,Buah,Pembeku,2,10,Terlalu Matang
+Pisang,Buah,Pendingin,1,0,Busuk
+Timun,Sayur,Suhu Ruang,0,1,Busuk
+Apel,Buah,Pembeku,4,36,Matang
+Anggur,Buah,Suhu Ruang,2,8,Mentah
+Jeruk,Buah,Pembeku,3,18,Terlalu Matang
+Wortel,Sayur,Suhu Ruang,0,18,Segar
+Cabe,Sayur,Suhu Ruang,0,0,Busuk
+Anggur,Buah,Suhu Ruang,0,3,Terlalu Matang
+Wortel,Sayur,Suhu Ruang,3,12,Segar
+Wortel,Sayur,Pembeku,0,5,Busuk
+Jeruk,Buah,Pembeku,1,19,Terlalu Matang
+Kentang,Sayur,Pembeku,0,2,Busuk
+Wortel,Sayur,Pendingin,1,19,Segar
+Tomat,Sayur,Pendingin,4,11,Segar
+Anggur,Buah,Suhu Ruang,0,0,Busuk
+Wortel,Sayur,Suhu Ruang,5,16,Segar
+Wortel,Sayur,Suhu Ruang,0,2,Busuk
+Timun,Sayur,Pendingin,0,0,Busuk
+Pisang,Buah,Pendingin,5,8,Matang
+Mangga,Buah,Pembeku,4,33,Matang
+Mangga,Buah,Pendingin,0,12,Matang
+Kentang,Sayur,Pendingin,0,3,Busuk
+Mangga,Buah,Pendingin,0,0,Busuk
+Cabe,Sayur,Pembeku,1,6,Busuk
+Timun,Sayur,Pendingin,4,19,Segar
+Jeruk,Buah,Pembeku,3,14,Terlalu Matang
+Jeruk,Buah,Pembeku,3,33,Matang
+Timun,Sayur,Pembeku,0,4,Busuk
+Pisang,Buah,Pembeku,3,10,Terlalu Matang
+Jeruk,Buah,Suhu Ruang,1,0,Busuk
+Wortel,Sayur,Pendingin,1,2,Busuk
+Kentang,Sayur,Suhu Ruang,5,18,Segar
+Apel,Buah,Pendingin,1,1,Busuk
+Anggur,Buah,Pembeku,5,34,Mentah
+Pisang,Buah,Suhu Ruang,6,8,Mentah
+Mangga,Buah,Pembeku,2,34,Mentah
+Anggur,Buah,Pembeku,1,3,Busuk
+Anggur,Buah,Suhu Ruang,0,2,Terlalu Matang
+Wortel,Sayur,Pendingin,2,1,Busuk
+Kentang,Sayur,Pendingin,0,36,Segar
+Cabe,Sayur,Pendingin,6,27,Segar
+Cabe,Sayur,Pembeku,4,31,Segar
+Anggur,Buah,Pembeku,0,2,Busuk
+Pisang,Buah,Pendingin,1,13,Matang
+Timun,Sayur,Pembeku,1,4,Busuk
+Pisang,Buah,Pembeku,1,25,Matang
+Pisang,Buah,Suhu Ruang,4,7,Matang
+Timun,Sayur,Pendingin,0,0,Busuk
+Apel,Buah,Pembeku,5,35,Matang
+Kentang,Sayur,Pendingin,3,29,Segar
+Cabe,Sayur,Suhu Ruang,2,0,Busuk
+Mangga,Buah,Suhu Ruang,4,9,Mentah
+Jeruk,Buah,Suhu Ruang,2,2,Terlalu Matang
+Wortel,Sayur,Pembeku,1,5,Busuk
+Wortel,Sayur,Pembeku,1,0,Busuk
+Tomat,Sayur,Pendingin,1,8,Segar
+Pisang,Buah,Suhu Ruang,5,5,Matang
+Apel,Buah,Suhu Ruang,2,3,Terlalu Matang
+Mangga,Buah,Pembeku,1,35,Mentah
+Anggur,Buah,Pendingin,4,23,Mentah
+Cabe,Sayur,Pendingin,0,1,Busuk
+Tomat,Sayur,Pendingin,2,2,Busuk
+Wortel,Sayur,Suhu Ruang,6,11,Segar
+Wortel,Sayur,Suhu Ruang,1,2,Busuk
+Timun,Sayur,Pembeku,1,2,Busuk
+Apel,Buah,Suhu Ruang,2,2,Terlalu Matang
+Timun,Sayur,Pendingin,2,1,Busuk
+Anggur,Buah,Pendingin,1,15,Mentah
+Apel,Buah,Pendingin,0,5,Terlalu Matang
+Apel,Buah,Suhu Ruang,0,15,Mentah
+Cabe,Sayur,Pembeku,1,3,Busuk
+Mangga,Buah,Suhu Ruang,2,8,Mentah
+Mangga,Buah,Suhu Ruang,5,11,Mentah
+Wortel,Sayur,Pendingin,2,33,Segar
+Pisang,Buah,Pembeku,3,39,Mentah
+Anggur,Buah,Pendingin,0,16,Matang
+Cabe,Sayur,Suhu Ruang,6,11,Segar
+Mangga,Buah,Pendingin,1,1,Busuk
+Tomat,Sayur,Pembeku,6,32,Segar
+Cabe,Sayur,Pendingin,4,16,Segar
+Anggur,Buah,Pembeku,4,23,Matang
+Anggur,Buah,Suhu Ruang,1,5,Matang
+Pisang,Buah,Pembeku,3,11,Terlalu Matang
+Tomat,Sayur,Pembeku,1,1,Busuk
+Kentang,Sayur,Suhu Ruang,0,1,Busuk
+Timun,Sayur,Pembeku,0,3,Busuk
+Mangga,Buah,Pendingin,1,9,Matang
+Timun,Sayur,Pembeku,1,4,Busuk
+Jeruk,Buah,Pembeku,1,1,Busuk
+Apel,Buah,Pembeku,4,30,Matang
+Cabe,Sayur,Pembeku,2,6,Busuk
+Kentang,Sayur,Suhu Ruang,6,17,Segar
+Pisang,Buah,Pembeku,0,10,Terlalu Matang
+Kentang,Sayur,Pembeku,1,7,Busuk
+Mangga,Buah,Pendingin,0,1,Busuk
+Jeruk,Buah,Suhu Ruang,3,3,Terlalu Matang
+Jeruk,Buah,Pendingin,0,34,Mentah
+Tomat,Sayur,Pendingin,1,15,Segar
+Wortel,Sayur,Suhu Ruang,4,18,Segar
+Pisang,Buah,Pendingin,3,3,Terlalu Matang
+Pisang,Buah,Pembeku,4,23,Matang
+Anggur,Buah,Pembeku,0,9,Terlalu Matang
+Timun,Sayur,Suhu Ruang,4,13,Segar
+Jeruk,Buah,Suhu Ruang,0,4,Terlalu Matang
+Mangga,Buah,Pembeku,0,3,Busuk
+Timun,Sayur,Pendingin,5,14,Segar
+Mangga,Buah,Suhu Ruang,5,6,Matang
+Pisang,Buah,Pembeku,1,0,Busuk
+Cabe,Sayur,Suhu Ruang,6,7,Segar
+Pisang,Buah,Suhu Ruang,1,0,Busuk
+Tomat,Sayur,Pembeku,2,39,Segar
+Cabe,Sayur,Suhu Ruang,3,10,Segar
+Kentang,Sayur,Pendingin,2,2,Busuk
+Mangga,Buah,Pembeku,0,38,Mentah
+Jeruk,Buah,Pendingin,3,32,Mentah
+Anggur,Buah,Suhu Ruang,1,13,Mentah
+Anggur,Buah,Pendingin,0,1,Busuk
+Timun,Sayur,Pembeku,6,18,Segar
+Timun,Sayur,Pembeku,3,37,Segar
+Apel,Buah,Pendingin,3,8,Terlalu Matang
+Kentang,Sayur,Pembeku,2,8,Busuk
+Cabe,Sayur,Pendingin,5,16,Segar
+Tomat,Sayur,Pendingin,6,12,Segar
+Cabe,Sayur,Pembeku,2,2,Busuk
+Tomat,Sayur,Pendingin,2,0,Busuk
+Tomat,Sayur,Pembeku,2,4,Busuk
+Mangga,Buah,Pembeku,6,29,Mentah
+Pisang,Buah,Pendingin,1,5,Terlalu Matang
+Wortel,Sayur,Suhu Ruang,2,0,Busuk
+Mangga,Buah,Pembeku,3,13,Terlalu Matang
+Timun,Sayur,Pendingin,0,20,Segar
+Apel,Buah,Pendingin,2,5,Terlalu Matang
+Anggur,Buah,Pendingin,0,11,Matang
+Pisang,Buah,Pendingin,0,13,Mentah
+Wortel,Sayur,Pembeku,2,1,Busuk
+Jeruk,Buah,Suhu Ruang,1,4,Terlalu Matang
+Mangga,Buah,Suhu Ruang,0,12,Mentah
+Timun,Sayur,Pendingin,0,0,Busuk
+Mangga,Buah,Pendingin,3,14,Mentah
+Mangga,Buah,Pembeku,3,12,Terlalu Matang
+Kentang,Sayur,Pendingin,4,16,Segar
+Kentang,Sayur,Pendingin,5,31,Segar
+Apel,Buah,Suhu Ruang,1,8,Matang
+Wortel,Sayur,Pendingin,3,24,Segar
+Pisang,Buah,Suhu Ruang,2,2,Terlalu Matang
+Tomat,Sayur,Suhu Ruang,6,9,Segar
+Apel,Buah,Pendingin,4,20,Matang
+Kentang,Sayur,Pembeku,0,4,Busuk
+Apel,Buah,Pembeku,1,13,Terlalu Matang
+Apel,Buah,Suhu Ruang,1,9,Matang
+Jeruk,Buah,Pembeku,2,27,Matang
+Apel,Buah,Pembeku,0,2,Busuk
+Jeruk,Buah,Pembeku,2,17,Terlalu Matang
+Jeruk,Buah,Suhu Ruang,0,12,Matang
+Anggur,Buah,Pendingin,4,17,Matang
+Mangga,Buah,Suhu Ruang,0,7,Matang
+Mangga,Buah,Pembeku,5,27,Mentah
+Timun,Sayur,Suhu Ruang,1,1,Busuk
+Wortel,Sayur,Pendingin,2,31,Segar
+Tomat,Sayur,Pembeku,1,0,Busuk
+Kentang,Sayur,Suhu Ruang,1,14,Segar
+Mangga,Buah,Pendingin,2,22,Mentah
+Mangga,Buah,Pendingin,5,14,Matang
+Tomat,Sayur,Pembeku,0,5,Busuk
+Anggur,Buah,Suhu Ruang,1,7,Matang
+Mangga,Buah,Suhu Ruang,2,3,Terlalu Matang
+Kentang,Sayur,Suhu Ruang,0,8,Segar
+Timun,Sayur,Suhu Ruang,0,12,Segar
+Anggur,Buah,Pendingin,3,24,Mentah
+Cabe,Sayur,Pendingin,2,2,Busuk
+Apel,Buah,Pendingin,5,17,Matang
+Timun,Sayur,Suhu Ruang,0,13,Segar
+Kentang,Sayur,Pendingin,2,5,Busuk
+Cabe,Sayur,Suhu Ruang,1,1,Busuk
+Wortel,Sayur,Pembeku,3,38,Segar
+Cabe,Sayur,Pendingin,4,12,Segar
+Mangga,Buah,Pembeku,0,0,Busuk
+Jeruk,Buah,Pendingin,6,22,Mentah
+Wortel,Sayur,Pendingin,0,1,Busuk
+Mangga,Buah,Pendingin,3,5,Terlalu Matang
+Apel,Buah,Suhu Ruang,3,11,Matang
+Jeruk,Buah,Pembeku,0,36,Matang
+Pisang,Buah,Suhu Ruang,3,11,Mentah
+Mangga,Buah,Pendingin,3,7,Terlalu Matang
+Timun,Sayur,Pembeku,2,29,Segar
+Anggur,Buah,Suhu Ruang,2,2,Terlalu Matang
+Timun,Sayur,Pembeku,6,23,Segar
+Apel,Buah,Pendingin,3,6,Terlalu Matang
+Wortel,Sayur,Pendingin,2,37,Segar
+Jeruk,Buah,Pendingin,2,30,Mentah
+Jeruk,Buah,Suhu Ruang,1,10,Matang
+Anggur,Buah,Suhu Ruang,6,8,Mentah
+Cabe,Sayur,Pendingin,6,15,Segar
+Jeruk,Buah,Pendingin,2,7,Terlalu Matang
+Anggur,Buah,Pendingin,2,5,Terlalu Matang
+Anggur,Buah,Suhu Ruang,0,0,Busuk
+Mangga,Buah,Suhu Ruang,0,2,Terlalu Matang
+Anggur,Buah,Pembeku,3,27,Matang
+Wortel,Sayur,Pembeku,4,37,Segar
+Jeruk,Buah,Suhu Ruang,0,0,Busuk
+Kentang,Sayur,Suhu Ruang,1,0,Busuk
+Jeruk,Buah,Pembeku,3,20,Terlalu Matang
+Mangga,Buah,Pendingin,1,0,Busuk
+Wortel,Sayur,Pembeku,0,7,Busuk
+Pisang,Buah,Pendingin,4,8,Matang
+Anggur,Buah,Suhu Ruang,2,7,Matang
+Jeruk,Buah,Pendingin,5,31,Mentah
+Mangga,Buah,Pembeku,2,38,Mentah
+Tomat,Sayur,Suhu Ruang,5,5,Segar
+Apel,Buah,Suhu Ruang,4,13,Mentah
+Pisang,Buah,Pembeku,1,0,Busuk
+Tomat,Sayur,Suhu Ruang,3,10,Segar
+Anggur,Buah,Pembeku,1,38,Mentah
+Tomat,Sayur,Suhu Ruang,0,10,Segar
+Anggur,Buah,Pendingin,0,6,Terlalu Matang
+Anggur,Buah,Pembeku,3,9,Terlalu Matang
+Jeruk,Buah,Pembeku,0,17,Terlalu Matang
+Cabe,Sayur,Pembeku,0,6,Busuk
+Pisang,Buah,Suhu Ruang,4,8,Mentah
+Wortel,Sayur,Pendingin,1,1,Busuk
+Timun,Sayur,Pendingin,6,21,Segar
+Timun,Sayur,Pendingin,2,3,Busuk
+Mangga,Buah,Pembeku,0,18,Matang
+Mangga,Buah,Pembeku,4,26,Matang
+Timun,Sayur,Pembeku,0,5,Busuk
+Pisang,Buah,Pembeku,1,2,Busuk
+Wortel,Sayur,Pembeku,0,2,Busuk
+Anggur,Buah,Pembeku,4,24,Matang
+Wortel,Sayur,Pendingin,4,29,Segar
+Anggur,Buah,Pembeku,3,21,Matang
+Jeruk,Buah,Suhu Ruang,2,8,Matang
+Jeruk,Buah,Pendingin,4,35,Mentah
+Timun,Sayur,Pendingin,1,2,Busuk
+Kentang,Sayur,Suhu Ruang,2,9,Segar
+Pisang,Buah,Pendingin,0,4,Terlalu Matang
+Pisang,Buah,Pendingin,5,11,Matang
+Cabe,Sayur,Pendingin,2,2,Busuk
+Wortel,Sayur,Pendingin,0,0,Busuk
+Jeruk,Buah,Suhu Ruang,0,9,Mentah
+Wortel,Sayur,Suhu Ruang,0,12,Segar
+Pisang,Buah,Pendingin,4,14,Matang
+Cabe,Sayur,Pendingin,2,0,Busuk
+Apel,Buah,Pembeku,0,3,Busuk
+Mangga,Buah,Pembeku,4,20,Matang
+Wortel,Sayur,Suhu Ruang,4,6,Segar
+Jeruk,Buah,Suhu Ruang,0,0,Busuk
+Wortel,Sayur,Suhu Ruang,5,17,Segar
+Mangga,Buah,Pembeku,4,26,Matang
+Kentang,Sayur,Suhu Ruang,2,0,Busuk
+Timun,Sayur,Pembeku,0,3,Busuk
+Anggur,Buah,Pendingin,1,1,Busuk
+Pisang,Buah,Suhu Ruang,5,5,Matang
+Cabe,Sayur,Pembeku,5,37,Segar
+Tomat,Sayur,Pendingin,6,8,Segar
+Wortel,Sayur,Suhu Ruang,1,0,Busuk
+Cabe,Sayur,Suhu Ruang,3,7,Segar
+Timun,Sayur,Suhu Ruang,2,7,Segar
+Jeruk,Buah,Pembeku,1,30,Matang
+Jeruk,Buah,Suhu Ruang,4,10,Matang
+Mangga,Buah,Pembeku,1,2,Busuk
+Tomat,Sayur,Pendingin,0,1,Busuk
+Kentang,Sayur,Pembeku,1,8,Busuk
+Jeruk,Buah,Pembeku,1,34,Matang
+Anggur,Buah,Pembeku,1,40,Mentah
+Jeruk,Buah,Pembeku,2,40,Mentah
+Mangga,Buah,Suhu Ruang,3,2,Terlalu Matang
+Pisang,Buah,Pendingin,2,21,Mentah
+Wortel,Sayur,Pendingin,2,0,Busuk
+Tomat,Sayur,Suhu Ruang,1,0,Busuk
+Pisang,Buah,Pendingin,1,6,Terlalu Matang
+Mangga,Buah,Suhu Ruang,0,2,Terlalu Matang
+Pisang,Buah,Pendingin,6,16,Mentah
+Wortel,Sayur,Suhu Ruang,1,0,Busuk
+Cabe,Sayur,Suhu Ruang,1,1,Busuk
+Mangga,Buah,Pendingin,1,6,Terlalu Matang
+Pisang,Buah,Suhu Ruang,3,7,Matang
+Jeruk,Buah,Pembeku,3,26,Matang
+Jeruk,Buah,Pendingin,3,6,Terlalu Matang
+Cabe,Sayur,Pendingin,2,2,Busuk
+Apel,Buah,Suhu Ruang,1,0,Busuk
+Apel,Buah,Pembeku,3,11,Terlalu Matang
+Mangga,Buah,Pembeku,1,3,Busuk
+Tomat,Sayur,Pembeku,6,36,Segar
+Timun,Sayur,Pendingin,1,14,Segar
+Cabe,Sayur,Suhu Ruang,5,14,Segar
+Jeruk,Buah,Pembeku,5,31,Matang
+Jeruk,Buah,Suhu Ruang,5,7,Matang
+Cabe,Sayur,Pembeku,2,1,Busuk
+Pisang,Buah,Suhu Ruang,3,5,Matang
+Apel,Buah,Pendingin,2,12,Matang
+Anggur,Buah,Pendingin,1,4,Terlalu Matang
+Cabe,Sayur,Pendingin,1,1,Busuk
+Kentang,Sayur,Pendingin,1,14,Segar
+Wortel,Sayur,Pembeku,1,36,Segar
+Anggur,Buah,Pembeku,6,29,Mentah
+Apel,Buah,Pembeku,3,12,Terlalu Matang
+Jeruk,Buah,Suhu Ruang,4,9,Matang
+Mangga,Buah,Pendingin,1,17,Matang
+Timun,Sayur,Pendingin,1,18,Segar
+Kentang,Sayur,Pembeku,0,2,Busuk
+Mangga,Buah,Suhu Ruang,2,10,Mentah
+Apel,Buah,Pendingin,2,17,Matang
+Kentang,Sayur,Pendingin,5,27,Segar
+Jeruk,Buah,Pembeku,4,26,Matang
+Tomat,Sayur,Pembeku,2,0,Busuk
+Timun,Sayur,Pendingin,1,2,Busuk
+Apel,Buah,Pendingin,2,7,Terlalu Matang
+Jeruk,Buah,Pendingin,1,1,Busuk
+Anggur,Buah,Pembeku,0,33,Matang
+Wortel,Sayur,Pendingin,2,4,Busuk
+Pisang,Buah,Suhu Ruang,0,2,Terlalu Matang
+Cabe,Sayur,Pendingin,2,0,Busuk
+Tomat,Sayur,Pendingin,0,18,Segar
+Pisang,Buah,Suhu Ruang,2,10,Mentah
+Mangga,Buah,Suhu Ruang,1,2,Terlalu Matang
+Apel,Buah,Pendingin,1,2,Busuk
+Jeruk,Buah,Suhu Ruang,2,11,Mentah
+Apel,Buah,Pendingin,0,31,Mentah
+Tomat,Sayur,Suhu Ruang,0,0,Busuk
+Tomat,Sayur,Suhu Ruang,1,5,Segar
+Mangga,Buah,Pendingin,1,10,Matang
+Cabe,Sayur,Pembeku,1,5,Busuk
+Timun,Sayur,Suhu Ruang,0,8,Segar
+Wortel,Sayur,Suhu Ruang,1,1,Busuk
+Cabe,Sayur,Pembeku,2,34,Segar
+Timun,Sayur,Pendingin,2,0,Busuk
+Jeruk,Buah,Pembeku,0,2,Busuk
+Wortel,Sayur,Pembeku,5,29,Segar
+Mangga,Buah,Pembeku,0,7,Terlalu Matang
+Timun,Sayur,Pembeku,6,39,Segar
+Cabe,Sayur,Pembeku,0,5,Busuk
+Kentang,Sayur,Pembeku,0,10,Busuk
+Timun,Sayur,Pembeku,3,20,Segar
+Tomat,Sayur,Pendingin,2,9,Segar
+Apel,Buah,Pembeku,1,3,Busuk
+Mangga,Buah,Pendingin,2,3,Terlalu Matang
+Kentang,Sayur,Suhu Ruang,2,2,Busuk
+Timun,Sayur,Pendingin,5,24,Segar
+Jeruk,Buah,Pembeku,0,4,Busuk
+Wortel,Sayur,Pendingin,2,38,Segar
+Wortel,Sayur,Suhu Ruang,1,1,Busuk
+Cabe,Sayur,Pembeku,2,7,Busuk
+Wortel,Sayur,Pembeku,0,6,Busuk
+Tomat,Sayur,Suhu Ruang,3,9,Segar
+Anggur,Buah,Suhu Ruang,3,3,Terlalu Matang
+Jeruk,Buah,Pendingin,2,26,Mentah
+Kentang,Sayur,Suhu Ruang,0,1,Busuk
+Jeruk,Buah,Pendingin,3,6,Terlalu Matang
+Mangga,Buah,Pendingin,3,13,Mentah
+Anggur,Buah,Suhu Ruang,5,7,Mentah
+Anggur,Buah,Suhu Ruang,2,11,Mentah
+Cabe,Sayur,Suhu Ruang,0,1,Busuk
+Timun,Sayur,Pendingin,3,20,Segar
+Apel,Buah,Suhu Ruang,2,4,Terlalu Matang
+Mangga,Buah,Pembeku,0,10,Terlalu Matang
+Cabe,Sayur,Pembeku,3,23,Segar
+Timun,Sayur,Suhu Ruang,1,9,Segar
+Pisang,Buah,Pembeku,1,29,Mentah
+Wortel,Sayur,Pendingin,1,2,Busuk
+Wortel,Sayur,Pembeku,0,3,Busuk
+Jeruk,Buah,Pendingin,4,22,Matang
+Cabe,Sayur,Pendingin,2,3,Busuk
+Wortel,Sayur,Pendingin,0,0,Busuk
+Anggur,Buah,Pembeku,2,33,Matang
+Jeruk,Buah,Pendingin,6,27,Mentah
+Timun,Sayur,Pendingin,0,26,Segar
+Mangga,Buah,Pembeku,4,21,Matang
+Wortel,Sayur,Suhu Ruang,0,0,Busuk
+Jeruk,Buah,Suhu Ruang,1,8,Matang
+Jeruk,Buah,Pembeku,0,3,Busuk
+Cabe,Sayur,Pendingin,1,13,Segar
+Mangga,Buah,Suhu Ruang,3,8,Matang
+Anggur,Buah,Suhu Ruang,2,9,Mentah
+Wortel,Sayur,Pendingin,6,19,Segar
+Timun,Sayur,Pendingin,1,12,Segar
+Cabe,Sayur,Pendingin,2,23,Segar
+Mangga,Buah,Pembeku,0,11,Terlalu Matang
+Mangga,Buah,Suhu Ruang,3,7,Matang
+Wortel,Sayur,Suhu Ruang,3,14,Segar
+Pisang,Buah,Pendingin,1,18,Mentah
+Kentang,Sayur,Suhu Ruang,2,12,Segar
+Timun,Sayur,Pembeku,2,2,Busuk
+Wortel,Sayur,Pembeku,0,9,Busuk
+Pisang,Buah,Suhu Ruang,6,7,Mentah
+Pisang,Buah,Pembeku,1,35,Mentah
+Mangga,Buah,Pembeku,0,13,Terlalu Matang
+Jeruk,Buah,Pembeku,2,35,Matang
+Anggur,Buah,Pembeku,3,11,Terlalu Matang
+Anggur,Buah,Pembeku,2,32,Mentah
+Tomat,Sayur,Suhu Ruang,4,7,Segar
+Jeruk,Buah,Pembeku,3,29,Matang
+Pisang,Buah,Pembeku,2,7,Terlalu Matang
+Timun,Sayur,Pembeku,2,30,Segar
+Cabe,Sayur,Pendingin,5,14,Segar
+Mangga,Buah,Suhu Ruang,4,8,Mentah
+Wortel,Sayur,Suhu Ruang,4,18,Segar
+Apel,Buah,Pendingin,1,15,Matang
+Kentang,Sayur,Suhu Ruang,0,2,Busuk
+Tomat,Sayur,Pembeku,2,4,Busuk
+Apel,Buah,Pendingin,2,20,Mentah
+Cabe,Sayur,Suhu Ruang,2,0,Busuk
+Mangga,Buah,Suhu Ruang,1,2,Terlalu Matang
+Tomat,Sayur,Pendingin,0,1,Busuk
+Wortel,Sayur,Suhu Ruang,1,8,Segar
+Tomat,Sayur,Pembeku,2,39,Segar
+Apel,Buah,Suhu Ruang,4,12,Mentah
+Kentang,Sayur,Pendingin,2,36,Segar
+Mangga,Buah,Pendingin,1,19,Mentah
+Wortel,Sayur,Suhu Ruang,2,2,Busuk
+Pisang,Buah,Pembeku,2,34,Mentah
+Timun,Sayur,Suhu Ruang,3,9,Segar
+Anggur,Buah,Pendingin,1,10,Matang
+Kentang,Sayur,Pendingin,1,2,Busuk
+Pisang,Buah,Pendingin,1,20,Mentah
+Apel,Buah,Suhu Ruang,0,0,Busuk
+Mangga,Buah,Pembeku,1,28,Matang
+Mangga,Buah,Pembeku,2,41,Mentah
+Pisang,Buah,Suhu Ruang,3,3,Terlalu Matang
+Kentang,Sayur,Pendingin,1,33,Segar
+Timun,Sayur,Pendingin,2,21,Segar
+Pisang,Buah,Pembeku,1,10,Terlalu Matang
+Tomat,Sayur,Suhu Ruang,1,0,Busuk
+Cabe,Sayur,Suhu Ruang,4,10,Segar
+Kentang,Sayur,Pendingin,1,27,Segar
+Apel,Buah,Pendingin,0,1,Busuk
+Anggur,Buah,Pendingin,1,1,Busuk
+Jeruk,Buah,Pendingin,0,1,Busuk
+Jeruk,Buah,Suhu Ruang,0,11,Matang
+Kentang,Sayur,Pembeku,0,1,Busuk
+Apel,Buah,Suhu Ruang,2,6,Matang
+Anggur,Buah,Pembeku,0,11,Terlalu Matang
+Mangga,Buah,Pendingin,0,13,Matang
+Timun,Sayur,Suhu Ruang,3,9,Segar
+Pisang,Buah,Pendingin,4,13,Matang
+Anggur,Buah,Pendingin,2,7,Terlalu Matang
+Pisang,Buah,Suhu Ruang,1,2,Terlalu Matang
+Timun,Sayur,Suhu Ruang,0,7,Segar
+Mangga,Buah,Pembeku,3,24,Matang
+Pisang,Buah,Pendingin,0,1,Busuk
+Jeruk,Buah,Suhu Ruang,0,6,Matang
+Mangga,Buah,Pendingin,0,4,Terlalu Matang
+Apel,Buah,Pembeku,4,24,Matang
+Timun,Sayur,Pembeku,3,18,Segar
+Wortel,Sayur,Pembeku,1,8,Busuk
+Timun,Sayur,Pendingin,1,14,Segar
+Cabe,Sayur,Pendingin,1,2,Busuk
+Cabe,Sayur,Pendingin,0,27,Segar
+Wortel,Sayur,Suhu Ruang,5,16,Segar
+Mangga,Buah,Pembeku,0,8,Terlalu Matang
+Tomat,Sayur,Suhu Ruang,5,12,Segar
+Kentang,Sayur,Suhu Ruang,0,2,Busuk
+Anggur,Buah,Pendingin,6,26,Mentah
+Pisang,Buah,Pembeku,1,2,Busuk
+Kentang,Sayur,Suhu Ruang,2,2,Busuk
+Mangga,Buah,Suhu Ruang,3,7,Mentah
+Kentang,Sayur,Pembeku,2,9,Busuk
+Pisang,Buah,Pembeku,0,30,Matang
+Anggur,Buah,Suhu Ruang,0,2,Terlalu Matang
+Cabe,Sayur,Pendingin,5,18,Segar
+Timun,Sayur,Pembeku,1,4,Busuk
+Mangga,Buah,Pendingin,5,19,Mentah
+Kentang,Sayur,Suhu Ruang,2,2,Busuk
+Apel,Buah,Pendingin,1,1,Busuk
+Wortel,Sayur,Suhu Ruang,6,12,Segar
+Tomat,Sayur,Suhu Ruang,2,0,Busuk
+Wortel,Sayur,Pendingin,0,1,Busuk
+Cabe,Sayur,Pembeku,2,5,Busuk
+Anggur,Buah,Pembeku,1,13,Terlalu Matang
+Pisang,Buah,Pendingin,2,5,Terlalu Matang
+Tomat,Sayur,Pendingin,0,0,Busuk
+Cabe,Sayur,Pendingin,5,23,Segar
+Mangga,Buah,Suhu Ruang,1,10,Mentah
+Jeruk,Buah,Pendingin,1,23,Matang
+Pisang,Buah,Pendingin,0,4,Terlalu Matang
+Pisang,Buah,Pembeku,3,27,Matang
+Mangga,Buah,Pendingin,2,5,Terlalu Matang
+Anggur,Buah,Pendingin,3,5,Terlalu Matang
+Jeruk,Buah,Pendingin,3,8,Terlalu Matang
+Jeruk,Buah,Suhu Ruang,3,2,Terlalu Matang
+Mangga,Buah,Pembeku,1,2,Busuk
+Kentang,Sayur,Pendingin,3,30,Segar
+Anggur,Buah,Pembeku,1,1,Busuk
+Tomat,Sayur,Pembeku,5,37,Segar
+Jeruk,Buah,Suhu Ruang,5,7,Matang
+Pisang,Buah,Suhu Ruang,1,4,Matang
+Kentang,Sayur,Pembeku,0,2,Busuk
+Apel,Buah,Suhu Ruang,3,7,Matang
+Wortel,Sayur,Pendingin,0,19,Segar
+Kentang,Sayur,Suhu Ruang,2,0,Busuk
+Tomat,Sayur,Pendingin,4,8,Segar
+Anggur,Buah,Pendingin,5,19,Mentah
+Pisang,Buah,Pendingin,0,15,Mentah
+Pisang,Buah,Pembeku,0,2,Busuk
+Timun,Sayur,Pendingin,1,1,Busuk
+Tomat,Sayur,Suhu Ruang,2,0,Busuk
+Apel,Buah,Suhu Ruang,3,3,Terlalu Matang
+Mangga,Buah,Pendingin,4,10,Matang
+Anggur,Buah,Pendingin,1,6,Terlalu Matang
+Cabe,Sayur,Pendingin,2,2,Busuk
+Apel,Buah,Pendingin,0,6,Terlalu Matang
+Timun,Sayur,Pembeku,2,1,Busuk
+Mangga,Buah,Pendingin,0,18,Mentah
+Anggur,Buah,Pembeku,1,2,Busuk
+Cabe,Sayur,Suhu Ruang,5,9,Segar
+Mangga,Buah,Pembeku,4,29,Matang
+Kentang,Sayur,Pembeku,1,6,Busuk
+Tomat,Sayur,Suhu Ruang,4,9,Segar
+Cabe,Sayur,Pendingin,6,18,Segar
+Jeruk,Buah,Suhu Ruang,0,0,Busuk
+Anggur,Buah,Pendingin,3,18,Matang
+Tomat,Sayur,Pendingin,2,13,Segar
+Apel,Buah,Pembeku,4,35,Matang
+Mangga,Buah,Suhu Ruang,2,3,Terlalu Matang
+Mangga,Buah,Suhu Ruang,3,7,Matang
+Kentang,Sayur,Suhu Ruang,6,20,Segar
+Pisang,Buah,Suhu Ruang,3,2,Terlalu Matang
+Pisang,Buah,Suhu Ruang,6,5,Mentah
+Mangga,Buah,Suhu Ruang,4,7,Mentah
+Jeruk,Buah,Suhu Ruang,0,12,Matang
+Apel,Buah,Pendingin,0,1,Busuk
+Wortel,Sayur,Pendingin,2,5,Busuk
+Mangga,Buah,Pendingin,1,10,Matang
+Anggur,Buah,Pendingin,1,5,Terlalu Matang
+Kentang,Sayur,Pembeku,5,35,Segar
+Tomat,Sayur,Pendingin,3,23,Segar
+Kentang,Sayur,Pembeku,2,7,Busuk
+Jeruk,Buah,Suhu Ruang,0,2,Terlalu Matang
+Jeruk,Buah,Suhu Ruang,2,4,Terlalu Matang
+Anggur,Buah,Pembeku,2,14,Terlalu Matang
+Anggur,Buah,Pendingin,4,27,Mentah
+Anggur,Buah,Pembeku,1,4,Busuk
+Pisang,Buah,Pembeku,3,20,Matang
+Timun,Sayur,Suhu Ruang,1,10,Segar
+Cabe,Sayur,Suhu Ruang,5,6,Segar
+Wortel,Sayur,Pendingin,0,0,Busuk
+Tomat,Sayur,Pembeku,1,3,Busuk
+Apel,Buah,Pembeku,1,3,Busuk
+Timun,Sayur,Suhu Ruang,2,0,Busuk
+Cabe,Sayur,Suhu Ruang,4,5,Segar
+Apel,Buah,Pembeku,3,9,Terlalu Matang
+Jeruk,Buah,Suhu Ruang,1,2,Terlalu Matang
+Apel,Buah,Pendingin,1,18,Mentah
+Kentang,Sayur,Pendingin,3,38,Segar
+Jeruk,Buah,Pendingin,5,17,Matang
+Apel,Buah,Pembeku,1,16,Terlalu Matang
+Timun,Sayur,Pendingin,2,0,Busuk
+Wortel,Sayur,Pembeku,1,8,Busuk
+Tomat,Sayur,Suhu Ruang,4,11,Segar
+Wortel,Sayur,Pendingin,1,4,Busuk
+Mangga,Buah,Pendingin,0,0,Busuk
+Timun,Sayur,Pembeku,0,1,Busuk
+Wortel,Sayur,Pendingin,1,5,Busuk
+Anggur,Buah,Pendingin,0,7,Terlalu Matang
+Wortel,Sayur,Pendingin,2,24,Segar
+Timun,Sayur,Pembeku,2,1,Busuk
+Anggur,Buah,Pembeku,5,28,Matang
+Cabe,Sayur,Pendingin,6,26,Segar
+Kentang,Sayur,Suhu Ruang,1,2,Busuk
+Jeruk,Buah,Suhu Ruang,2,3,Terlalu Matang
+Mangga,Buah,Suhu Ruang,3,2,Terlalu Matang
+Pisang,Buah,Suhu Ruang,1,7,Mentah
+Kentang,Sayur,Pendingin,1,3,Busuk
+Apel,Buah,Suhu Ruang,2,4,Terlalu Matang
+Tomat,Sayur,Pendingin,1,22,Segar
+Pisang,Buah,Pendingin,5,19,Mentah
+Apel,Buah,Pembeku,1,0,Busuk
+Tomat,Sayur,Pembeku,5,38,Segar
+Pisang,Buah,Suhu Ruang,1,6,Matang
+Kentang,Sayur,Pembeku,2,3,Busuk
+Cabe,Sayur,Suhu Ruang,1,0,Busuk
+Anggur,Buah,Pendingin,0,1,Busuk
+Apel,Buah,Pendingin,4,14,Matang
+Timun,Sayur,Pembeku,0,30,Segar
+Kentang,Sayur,Suhu Ruang,6,14,Segar
+Jeruk,Buah,Suhu Ruang,5,13,Mentah
+Jeruk,Buah,Suhu Ruang,2,16,Mentah
+Tomat,Sayur,Pendingin,1,22,Segar
+Kentang,Sayur,Suhu Ruang,1,7,Segar
+Wortel,Sayur,Pendingin,4,15,Segar
+Jeruk,Buah,Suhu Ruang,4,12,Matang
+Anggur,Buah,Suhu Ruang,1,2,Terlalu Matang
+Cabe,Sayur,Pendingin,5,17,Segar
+Tomat,Sayur,Suhu Ruang,2,0,Busuk
+Jeruk,Buah,Pembeku,1,41,Matang
+Cabe,Sayur,Pendingin,4,23,Segar
+Kentang,Sayur,Pembeku,2,10,Busuk
+Kentang,Sayur,Suhu Ruang,4,15,Segar
+Jeruk,Buah,Suhu Ruang,1,3,Terlalu Matang
+Wortel,Sayur,Suhu Ruang,6,11,Segar
+Jeruk,Buah,Suhu Ruang,2,12,Matang
+Mangga,Buah,Pendingin,4,16,Mentah
+Jeruk,Buah,Pendingin,0,21,Mentah
+Kentang,Sayur,Pendingin,3,33,Segar
+Anggur,Buah,Suhu Ruang,4,8,Mentah
+Jeruk,Buah,Suhu Ruang,0,0,Busuk
+Mangga,Buah,Pendingin,1,1,Busuk
+Mangga,Buah,Pendingin,1,12,Matang
+Mangga,Buah,Pendingin,5,15,Matang
+Apel,Buah,Pendingin,3,21,Matang
+Tomat,Sayur,Pembeku,1,4,Busuk
+Kentang,Sayur,Pembeku,0,33,Segar
+Jeruk,Buah,Pembeku,0,27,Matang
+Cabe,Sayur,Suhu Ruang,0,0,Busuk
+Pisang,Buah,Suhu Ruang,0,8,Mentah
+Apel,Buah,Pendingin,1,18,Matang
+Pisang,Buah,Suhu Ruang,0,0,Busuk
+Pisang,Buah,Pendingin,5,20,Mentah
+Mangga,Buah,Suhu Ruang,2,11,Mentah
+Pisang,Buah,Suhu Ruang,0,9,Mentah
+Anggur,Buah,Suhu Ruang,0,0,Busuk
+Apel,Buah,Pendingin,1,9,Terlalu Matang
+Jeruk,Buah,Suhu Ruang,0,8,Matang
+Wortel,Sayur,Pendingin,3,29,Segar
+Pisang,Buah,Pembeku,1,0,Busuk
+Mangga,Buah,Suhu Ruang,3,2,Terlalu Matang
+Mangga,Buah,Pendingin,0,23,Mentah
+Kentang,Sayur,Pendingin,1,5,Busuk
+Mangga,Buah,Pendingin,2,4,Terlalu Matang
+Kentang,Sayur,Pembeku,5,34,Segar
+Wortel,Sayur,Suhu Ruang,0,2,Busuk
+Wortel,Sayur,Pendingin,1,26,Segar
+Cabe,Sayur,Pendingin,1,2,Busuk
+Kentang,Sayur,Suhu Ruang,0,1,Busuk
+Tomat,Sayur,Pembeku,2,30,Segar
+Cabe,Sayur,Pembeku,2,2,Busuk
+Tomat,Sayur,Pendingin,4,15,Segar
+Mangga,Buah,Pembeku,1,0,Busuk
+Cabe,Sayur,Suhu Ruang,2,7,Segar
+Apel,Buah,Pendingin,6,25,Mentah
+Wortel,Sayur,Suhu Ruang,1,10,Segar
+Mangga,Buah,Pendingin,3,4,Terlalu Matang
+Anggur,Buah,Pendingin,2,4,Terlalu Matang
+Tomat,Sayur,Pembeku,4,22,Segar
+Timun,Sayur,Pembeku,2,0,Busuk
+Apel,Buah,Pendingin,0,2,Busuk
+Jeruk,Buah,Suhu Ruang,3,4,Terlalu Matang
+Pisang,Buah,Suhu Ruang,2,7,Matang
+Pisang,Buah,Suhu Ruang,5,6,Matang
+Kentang,Sayur,Pendingin,0,0,Busuk
+Pisang,Buah,Pembeku,1,2,Busuk
+Cabe,Sayur,Pembeku,0,4,Busuk
+Kentang,Sayur,Pendingin,2,1,Busuk
+Mangga,Buah,Pembeku,1,8,Terlalu Matang
+Pisang,Buah,Pendingin,5,10,Matang
+Apel,Buah,Suhu Ruang,3,3,Terlalu Matang
+Pisang,Buah,Pendingin,0,4,Terlalu Matang
+Tomat,Sayur,Suhu Ruang,1,5,Segar
+Anggur,Buah,Pembeku,3,31,Mentah
+Tomat,Sayur,Suhu Ruang,1,0,Busuk
+Apel,Buah,Suhu Ruang,3,3,Terlalu Matang
+Anggur,Buah,Pembeku,2,35,Mentah
+Mangga,Buah,Pembeku,2,33,Mentah
+Timun,Sayur,Pendingin,0,0,Busuk
+Pisang,Buah,Pendingin,3,9,Matang
+Mangga,Buah,Pendingin,3,21,Mentah
+Apel,Buah,Suhu Ruang,2,3,Terlalu Matang
+Wortel,Sayur,Suhu Ruang,2,0,Busuk
+Pisang,Buah,Suhu Ruang,0,3,Terlalu Matang
+Mangga,Buah,Pembeku,1,34,Mentah
+Apel,Buah,Pembeku,1,33,Mentah
+Timun,Sayur,Pendingin,1,17,Segar
+Mangga,Buah,Pendingin,1,4,Terlalu Matang
+Wortel,Sayur,Suhu Ruang,0,2,Busuk
+Pisang,Buah,Pembeku,0,1,Busuk
+Kentang,Sayur,Suhu Ruang,2,0,Busuk
+Kentang,Sayur,Suhu Ruang,4,17,Segar
+Timun,Sayur,Pendingin,1,2,Busuk
+Apel,Buah,Pembeku,1,4,Busuk
+Mangga,Buah,Pembeku,2,10,Terlalu Matang
+Jeruk,Buah,Pembeku,4,39,Mentah
+Mangga,Buah,Suhu Ruang,5,6,Matang
+Apel,Buah,Pendingin,0,1,Busuk
+Timun,Sayur,Pendingin,4,25,Segar
+Kentang,Sayur,Suhu Ruang,0,7,Segar
+Apel,Buah,Pembeku,1,1,Busuk
+Cabe,Sayur,Pendingin,2,1,Busuk
+Wortel,Sayur,Pembeku,2,7,Busuk
+Wortel,Sayur,Pembeku,4,29,Segar
+Cabe,Sayur,Pembeku,0,0,Busuk
+Cabe,Sayur,Suhu Ruang,4,6,Segar
+Mangga,Buah,Pendingin,4,9,Matang
+Kentang,Sayur,Suhu Ruang,5,20,Segar
+Anggur,Buah,Pembeku,4,29,Matang
+Mangga,Buah,Pendingin,2,5,Terlalu Matang
+Timun,Sayur,Pembeku,2,35,Segar
+Jeruk,Buah,Pendingin,0,1,Busuk
+Jeruk,Buah,Pendingin,2,15,Matang
+Apel,Buah,Pendingin,0,7,Terlalu Matang
+Mangga,Buah,Pendingin,5,9,Matang
+Apel,Buah,Suhu Ruang,2,10,Matang
+Wortel,Sayur,Pendingin,3,21,Segar
+Tomat,Sayur,Pembeku,1,18,Segar
+Apel,Buah,Pembeku,6,37,Mentah
+Mangga,Buah,Pendingin,5,13,Mentah
+Anggur,Buah,Pembeku,5,30,Matang
+Tomat,Sayur,Pendingin,0,0,Busuk
+Mangga,Buah,Pendingin,0,17,Mentah
+Kentang,Sayur,Suhu Ruang,3,18,Segar
+Kentang,Sayur,Suhu Ruang,0,13,Segar
+Tomat,Sayur,Suhu Ruang,5,4,Segar
+Pisang,Buah,Suhu Ruang,1,4,Matang
+Anggur,Buah,Pendingin,0,18,Matang
+Wortel,Sayur,Pembeku,1,4,Busuk
+Kentang,Sayur,Suhu Ruang,6,14,Segar
+Pisang,Buah,Pendingin,2,4,Terlalu Matang
+Mangga,Buah,Pembeku,5,34,Matang
+Anggur,Buah,Pembeku,2,39,Mentah
+Anggur,Buah,Pembeku,2,31,Mentah
+Jeruk,Buah,Suhu Ruang,4,9,Mentah
+Apel,Buah,Suhu Ruang,0,0,Busuk
+Tomat,Sayur,Pendingin,3,16,Segar
+Cabe,Sayur,Suhu Ruang,5,5,Segar
+Wortel,Sayur,Pembeku,1,4,Busuk
+Cabe,Sayur,Pembeku,4,20,Segar
+Kentang,Sayur,Suhu Ruang,2,0,Busuk
+Jeruk,Buah,Pendingin,5,35,Mentah
+Mangga,Buah,Pendingin,1,11,Matang
+Kentang,Sayur,Pembeku,1,10,Busuk
+Anggur,Buah,Pendingin,1,16,Mentah
+Cabe,Sayur,Suhu Ruang,1,5,Segar
+Wortel,Sayur,Pembeku,2,2,Busuk
+Cabe,Sayur,Pembeku,2,2,Busuk
+Kentang,Sayur,Pendingin,0,2,Busuk
+Timun,Sayur,Pendingin,2,2,Busuk
+Jeruk,Buah,Pendingin,3,19,Mentah
+Jeruk,Buah,Pembeku,2,14,Terlalu Matang
+Mangga,Buah,Pembeku,0,14,Terlalu Matang
+Apel,Buah,Pendingin,4,19,Matang
+Pisang,Buah,Pembeku,2,8,Terlalu Matang
+Cabe,Sayur,Pembeku,6,31,Segar
+Timun,Sayur,Suhu Ruang,2,1,Busuk
+Mangga,Buah,Pembeku,6,30,Mentah
+Anggur,Buah,Suhu Ruang,4,7,Mentah
+Timun,Sayur,Pembeku,0,1,Busuk
+Timun,Sayur,Pembeku,0,2,Busuk
+Tomat,Sayur,Pembeku,6,18,Segar
+Mangga,Buah,Pembeku,1,13,Terlalu Matang
+Anggur,Buah,Pembeku,2,10,Terlalu Matang
+Pisang,Buah,Pendingin,0,8,Matang
+Wortel,Sayur,Pembeku,0,2,Busuk
+Apel,Buah,Suhu Ruang,3,4,Terlalu Matang
+Cabe,Sayur,Pembeku,5,32,Segar
+Tomat,Sayur,Pembeku,1,1,Busuk
+Pisang,Buah,Pembeku,2,8,Terlalu Matang
+Wortel,Sayur,Suhu Ruang,3,10,Segar
+Wortel,Sayur,Pendingin,2,4,Busuk
+Apel,Buah,Pembeku,3,18,Terlalu Matang
+Tomat,Sayur,Pembeku,2,2,Busuk
+Jeruk,Buah,Pendingin,5,14,Matang
+Anggur,Buah,Pembeku,0,10,Terlalu Matang
+Apel,Buah,Pendingin,0,19,Matang
+Kentang,Sayur,Pembeku,1,4,Busuk
+Mangga,Buah,Pendingin,2,21,Mentah
+Apel,Buah,Pendingin,1,0,Busuk
+Anggur,Buah,Suhu Ruang,0,3,Terlalu Matang
+Pisang,Buah,Suhu Ruang,0,10,Mentah
+Cabe,Sayur,Suhu Ruang,2,13,Segar
+Anggur,Buah,Pendingin,4,15,Matang
+Tomat,Sayur,Suhu Ruang,4,7,Segar
+Mangga,Buah,Pendingin,6,22,Mentah
+Apel,Buah,Pendingin,0,1,Busuk
+Tomat,Sayur,Suhu Ruang,1,1,Busuk
+Kentang,Sayur,Pendingin,1,1,Busuk
+Timun,Sayur,Pembeku,3,37,Segar
+Anggur,Buah,Suhu Ruang,3,10,Mentah
+Mangga,Buah,Pembeku,2,11,Terlalu Matang
+Cabe,Sayur,Pendingin,0,2,Busuk
+Tomat,Sayur,Pendingin,0,0,Busuk
+Anggur,Buah,Pembeku,5,27,Matang
+Timun,Sayur,Pendingin,2,0,Busuk
+Cabe,Sayur,Suhu Ruang,1,13,Segar
+Jeruk,Buah,Pendingin,3,24,Matang
+Apel,Buah,Pendingin,0,23,Matang
+Kentang,Sayur,Pendingin,6,38,Segar
+Wortel,Sayur,Suhu Ruang,2,1,Busuk
+Pisang,Buah,Suhu Ruang,5,10,Mentah
+Mangga,Buah,Suhu Ruang,3,6,Matang
+Anggur,Buah,Pendingin,0,25,Mentah
+Pisang,Buah,Pendingin,0,5,Terlalu Matang
+Wortel,Sayur,Suhu Ruang,6,10,Segar
+Apel,Buah,Pendingin,5,12,Matang
+Tomat,Sayur,Pendingin,0,0,Busuk
+Anggur,Buah,Suhu Ruang,3,11,Mentah
+Tomat,Sayur,Pembeku,1,1,Busuk
+Timun,Sayur,Pembeku,0,5,Busuk
+Apel,Buah,Suhu Ruang,0,2,Terlalu Matang
+Wortel,Sayur,Suhu Ruang,1,2,Busuk
+Pisang,Buah,Suhu Ruang,5,8,Mentah
+Jeruk,Buah,Pembeku,1,18,Terlalu Matang
+Anggur,Buah,Pendingin,0,0,Busuk
+Apel,Buah,Pembeku,4,32,Matang
+Apel,Buah,Pembeku,1,2,Busuk
+Kentang,Sayur,Pembeku,2,2,Busuk
+Tomat,Sayur,Pendingin,6,17,Segar
+Mangga,Buah,Pendingin,5,11,Matang
+Mangga,Buah,Pendingin,3,7,Terlalu Matang
+Pisang,Buah,Pendingin,3,4,Terlalu Matang
+Wortel,Sayur,Suhu Ruang,0,2,Busuk
+Pisang,Buah,Suhu Ruang,2,5,Mentah
+Anggur,Buah,Pembeku,3,41,Mentah
+Wortel,Sayur,Pendingin,1,1,Busuk
+Anggur,Buah,Suhu Ruang,0,5,Matang
+Timun,Sayur,Pendingin,0,2,Busuk
+Tomat,Sayur,Pembeku,1,21,Segar
+Tomat,Sayur,Pendingin,2,0,Busuk
+Apel,Buah,Pendingin,5,17,Matang
+Cabe,Sayur,Pendingin,1,28,Segar
+Kentang,Sayur,Suhu Ruang,2,7,Segar
+Timun,Sayur,Pembeku,1,38,Segar
+Timun,Sayur,Pembeku,2,2,Busuk
+Tomat,Sayur,Suhu Ruang,0,1,Busuk
+Pisang,Buah,Suhu Ruang,2,3,Terlalu Matang
+Kentang,Sayur,Suhu Ruang,4,17,Segar
+Tomat,Sayur,Suhu Ruang,1,8,Segar
+Wortel,Sayur,Suhu Ruang,5,7,Segar
+Kentang,Sayur,Suhu Ruang,0,8,Segar
+Tomat,Sayur,Pembeku,2,0,Busuk
+Tomat,Sayur,Pembeku,1,16,Segar
+Mangga,Buah,Pembeku,0,2,Busuk
+Mangga,Buah,Suhu Ruang,1,6,Mentah
+Mangga,Buah,Suhu Ruang,5,10,Mentah
+Kentang,Sayur,Suhu Ruang,6,15,Segar
+Kentang,Sayur,Pembeku,1,30,Segar
+Timun,Sayur,Pendingin,4,13,Segar
+Jeruk,Buah,Pendingin,6,30,Mentah
+Apel,Buah,Pembeku,1,30,Matang
+Anggur,Buah,Pembeku,3,14,Terlalu Matang
+Pisang,Buah,Pendingin,4,17,Mentah
+Tomat,Sayur,Pembeku,5,37,Segar
+Cabe,Sayur,Pendingin,3,28,Segar
+Timun,Sayur,Pendingin,1,9,Segar
+Jeruk,Buah,Suhu Ruang,0,2,Terlalu Matang
+Tomat,Sayur,Pendingin,2,20,Segar
+Jeruk,Buah,Pendingin,1,7,Terlalu Matang
+Apel,Buah,Pembeku,0,18,Terlalu Matang
+Mangga,Buah,Suhu Ruang,1,2,Terlalu Matang
+Pisang,Buah,Suhu Ruang,4,7,Matang
+Anggur,Buah,Pembeku,2,26,Matang
+Jeruk,Buah,Pendingin,1,2,Busuk
+Mangga,Buah,Pembeku,1,1,Busuk
+Tomat,Sayur,Pembeku,1,3,Busuk
+Anggur,Buah,Suhu Ruang,1,7,Matang
+Apel,Buah,Pembeku,0,3,Busuk
+Wortel,Sayur,Suhu Ruang,6,7,Segar
+Apel,Buah,Pendingin,1,17,Matang
+Cabe,Sayur,Pendingin,1,27,Segar
+Pisang,Buah,Pembeku,2,32,Mentah
+Mangga,Buah,Suhu Ruang,2,1,Terlalu Matang
+Apel,Buah,Pendingin,1,8,Terlalu Matang
+Timun,Sayur,Pembeku,2,4,Busuk
+Cabe,Sayur,Suhu Ruang,0,14,Segar
+Timun,Sayur,Suhu Ruang,5,12,Segar
+Wortel,Sayur,Suhu Ruang,1,2,Busuk
+Kentang,Sayur,Pendingin,2,0,Busuk
+Wortel,Sayur,Pendingin,0,2,Busuk
+Jeruk,Buah,Suhu Ruang,3,3,Terlalu Matang
+Tomat,Sayur,Pendingin,1,3,Busuk
+Cabe,Sayur,Pembeku,5,26,Segar
+Timun,Sayur,Pendingin,0,11,Segar
+Tomat,Sayur,Suhu Ruang,1,0,Busuk
+Jeruk,Buah,Pendingin,2,21,Mentah
+Cabe,Sayur,Pembeku,1,2,Busuk
+Wortel,Sayur,Pendingin,5,20,Segar
+Mangga,Buah,Pembeku,0,10,Terlalu Matang
+Cabe,Sayur,Pembeku,0,7,Busuk
+Wortel,Sayur,Pembeku,2,1,Busuk
+Tomat,Sayur,Pendingin,3,13,Segar
+Apel,Buah,Suhu Ruang,0,4,Terlalu Matang
+Anggur,Buah,Pendingin,0,16,Mentah
+Tomat,Sayur,Pendingin,1,2,Busuk
+Pisang,Buah,Suhu Ruang,3,9,Mentah
+Cabe,Sayur,Suhu Ruang,0,2,Busuk
+Cabe,Sayur,Pendingin,0,12,Segar
+Mangga,Buah,Pendingin,0,11,Matang
+Cabe,Sayur,Pembeku,0,7,Busuk
+Tomat,Sayur,Pendingin,2,0,Busuk
+Apel,Buah,Pendingin,3,16,Matang
+Kentang,Sayur,Pembeku,0,3,Busuk
+Wortel,Sayur,Pembeku,0,1,Busuk
+Mangga,Buah,Pendingin,1,0,Busuk
+Cabe,Sayur,Pendingin,6,13,Segar
+Timun,Sayur,Pendingin,4,26,Segar
+Pisang,Buah,Suhu Ruang,3,9,Mentah
+Tomat,Sayur,Pembeku,3,36,Segar
+Wortel,Sayur,Pendingin,0,33,Segar
+Anggur,Buah,Suhu Ruang,0,0,Busuk
+Pisang,Buah,Pendingin,3,13,Matang
+Timun,Sayur,Pendingin,0,24,Segar
+Tomat,Sayur,Pendingin,1,0,Busuk
+Jeruk,Buah,Pendingin,0,33,Mentah
+Wortel,Sayur,Pendingin,0,3,Busuk
+Mangga,Buah,Suhu Ruang,0,2,Terlalu Matang
+Cabe,Sayur,Pembeku,5,40,Segar
+Jeruk,Buah,Suhu Ruang,3,4,Terlalu Matang
+Wortel,Sayur,Suhu Ruang,2,1,Busuk
+Jeruk,Buah,Pendingin,6,32,Mentah
+Kentang,Sayur,Suhu Ruang,0,10,Segar
+Anggur,Buah,Pembeku,0,28,Matang
+Cabe,Sayur,Pendingin,2,28,Segar
+Cabe,Sayur,Suhu Ruang,5,14,Segar
+Pisang,Buah,Suhu Ruang,6,9,Mentah
+Kentang,Sayur,Pendingin,5,33,Segar
+Pisang,Buah,Pendingin,6,20,Mentah
+Cabe,Sayur,Pembeku,0,5,Busuk
+Wortel,Sayur,Suhu Ruang,1,2,Busuk
+Timun,Sayur,Pendingin,0,2,Busuk
+Jeruk,Buah,Pembeku,2,28,Matang
+Kentang,Sayur,Pembeku,4,37,Segar
+Apel,Buah,Pembeku,3,31,Matang
+Jeruk,Buah,Pembeku,0,35,Matang
+Apel,Buah,Suhu Ruang,4,10,Mentah
+Kentang,Sayur,Suhu Ruang,3,11,Segar
+Pisang,Buah,Pendingin,1,15,Matang
+Anggur,Buah,Pembeku,3,28,Matang
+Wortel,Sayur,Suhu Ruang,4,16,Segar
+Tomat,Sayur,Suhu Ruang,5,11,Segar
+Cabe,Sayur,Pembeku,3,24,Segar
+Jeruk,Buah,Pendingin,0,30,Mentah
+Kentang,Sayur,Pembeku,0,9,Busuk
+Kentang,Sayur,Pendingin,2,31,Segar
+Tomat,Sayur,Pembeku,0,6,Busuk
+Tomat,Sayur,Pendingin,0,1,Busuk
+Tomat,Sayur,Pendingin,1,0,Busuk
+Apel,Buah,Suhu Ruang,2,4,Terlalu Matang
+Mangga,Buah,Suhu Ruang,3,6,Matang
+Anggur,Buah,Pembeku,1,9,Terlalu Matang
+Timun,Sayur,Pembeku,3,40,Segar
+Apel,Buah,Pembeku,5,41,Matang
+Mangga,Buah,Pembeku,6,34,Mentah
+Timun,Sayur,Pendingin,2,0,Busuk
+Tomat,Sayur,Pembeku,2,27,Segar
+Timun,Sayur,Pendingin,5,14,Segar
+Apel,Buah,Pembeku,2,11,Terlalu Matang
+Pisang,Buah,Pendingin,2,11,Matang
+Apel,Buah,Suhu Ruang,1,2,Terlalu Matang
+Wortel,Sayur,Pendingin,1,25,Segar
+Wortel,Sayur,Pendingin,2,25,Segar
+Wortel,Sayur,Pendingin,6,17,Segar
+Apel,Buah,Pendingin,4,16,Matang
+Jeruk,Buah,Pendingin,3,9,Terlalu Matang
+Jeruk,Buah,Suhu Ruang,1,7,Matang
+Kentang,Sayur,Pendingin,3,29,Segar
+Anggur,Buah,Pembeku,1,11,Terlalu Matang
+Mangga,Buah,Suhu Ruang,5,5,Matang
+Pisang,Buah,Suhu Ruang,1,0,Busuk
+Kentang,Sayur,Pembeku,2,8,Busuk
+Jeruk,Buah,Suhu Ruang,2,8,Matang
+Anggur,Buah,Pendingin,0,17,Mentah
+Kentang,Sayur,Pendingin,1,1,Busuk
+Jeruk,Buah,Pendingin,0,0,Busuk
+Wortel,Sayur,Pembeku,0,37,Segar
+Mangga,Buah,Pendingin,0,11,Matang
+Tomat,Sayur,Pembeku,0,2,Busuk
+Mangga,Buah,Suhu Ruang,2,6,Matang
+Timun,Sayur,Pendingin,2,19,Segar
+Pisang,Buah,Suhu Ruang,2,2,Terlalu Matang
+Apel,Buah,Pendingin,1,1,Busuk
+Tomat,Sayur,Pembeku,6,35,Segar
+Pisang,Buah,Suhu Ruang,1,2,Terlalu Matang
+Pisang,Buah,Pembeku,2,7,Terlalu Matang
+Kentang,Sayur,Pendingin,3,41,Segar
+Wortel,Sayur,Suhu Ruang,0,0,Busuk
+Anggur,Buah,Pembeku,1,12,Terlalu Matang
+Jeruk,Buah,Pendingin,2,32,Mentah
+Cabe,Sayur,Pembeku,1,8,Busuk
+Wortel,Sayur,Pendingin,0,3,Busuk
+Pisang,Buah,Pembeku,0,2,Busuk
+Anggur,Buah,Pendingin,1,0,Busuk
+Tomat,Sayur,Pembeku,0,4,Busuk
+Cabe,Sayur,Pembeku,1,2,Busuk
+Pisang,Buah,Suhu Ruang,0,8,Mentah
+Mangga,Buah,Suhu Ruang,3,6,Mentah
+Anggur,Buah,Pendingin,2,19,Mentah
+Timun,Sayur,Pendingin,1,3,Busuk
+Cabe,Sayur,Pendingin,2,3,Busuk
+Wortel,Sayur,Pembeku,2,2,Busuk
+Mangga,Buah,Pendingin,1,4,Terlalu Matang
+Anggur,Buah,Pendingin,0,1,Busuk
+Jeruk,Buah,Pendingin,3,13,Matang
+Cabe,Sayur,Pendingin,5,25,Segar
+Cabe,Sayur,Pendingin,5,12,Segar
+Anggur,Buah,Suhu Ruang,2,11,Mentah
+Jeruk,Buah,Pendingin,3,13,Matang
+Apel,Buah,Suhu Ruang,0,13,Mentah
+Tomat,Sayur,Pendingin,0,1,Busuk
+Anggur,Buah,Pendingin,4,16,Mentah
+Anggur,Buah,Pembeku,3,10,Terlalu Matang
+Kentang,Sayur,Suhu Ruang,2,1,Busuk
+Kentang,Sayur,Suhu Ruang,3,7,Segar
+Cabe,Sayur,Pendingin,0,0,Busuk
+Wortel,Sayur,Pendingin,1,22,Segar
+Apel,Buah,Pendingin,3,5,Terlalu Matang
+Tomat,Sayur,Suhu Ruang,0,0,Busuk
+Pisang,Buah,Suhu Ruang,3,7,Matang
+Wortel,Sayur,Pendingin,6,28,Segar
+Pisang,Buah,Pembeku,3,30,Matang
+Pisang,Buah,Pembeku,0,11,Terlalu Matang
+Pisang,Buah,Pembeku,2,11,Terlalu Matang
+Kentang,Sayur,Pendingin,6,38,Segar
+Mangga,Buah,Suhu Ruang,3,3,Terlalu Matang
+Pisang,Buah,Pembeku,0,20,Matang
+Pisang,Buah,Pendingin,3,5,Terlalu Matang
+Apel,Buah,Suhu Ruang,1,2,Terlalu Matang
+Apel,Buah,Pendingin,2,8,Terlalu Matang
+Pisang,Buah,Pendingin,2,5,Terlalu Matang
+Cabe,Sayur,Pembeku,0,3,Busuk
+Kentang,Sayur,Suhu Ruang,0,2,Busuk
+Apel,Buah,Pembeku,1,13,Terlalu Matang
+Mangga,Buah,Pendingin,1,4,Terlalu Matang
+Mangga,Buah,Pendingin,0,0,Busuk
+Apel,Buah,Pembeku,1,0,Busuk
+Wortel,Sayur,Pendingin,2,4,Busuk
+Kentang,Sayur,Suhu Ruang,3,15,Segar
+Mangga,Buah,Pembeku,5,36,Mentah
+Pisang,Buah,Pendingin,2,21,Mentah
+Pisang,Buah,Suhu Ruang,1,9,Mentah
+Cabe,Sayur,Pembeku,0,5,Busuk
+Pisang,Buah,Pembeku,5,19,Matang
+Apel,Buah,Pembeku,2,40,Matang
+Apel,Buah,Suhu Ruang,0,10,Matang
+Anggur,Buah,Pembeku,0,2,Busuk
+Tomat,Sayur,Suhu Ruang,0,0,Busuk
+Tomat,Sayur,Suhu Ruang,1,10,Segar
+Apel,Buah,Suhu Ruang,3,11,Mentah
+Timun,Sayur,Suhu Ruang,3,11,Segar
+Cabe,Sayur,Pendingin,0,0,Busuk
+Cabe,Sayur,Pembeku,1,0,Busuk
+Timun,Sayur,Pembeku,1,2,Busuk
+Pisang,Buah,Pembeku,1,1,Busuk
+Anggur,Buah,Pembeku,5,29,Matang
+Timun,Sayur,Pendingin,1,1,Busuk
+Mangga,Buah,Suhu Ruang,1,8,Matang
+Cabe,Sayur,Pendingin,2,0,Busuk
+Pisang,Buah,Pembeku,1,2,Busuk
+Kentang,Sayur,Pembeku,0,36,Segar
+Jeruk,Buah,Suhu Ruang,1,0,Busuk
+Cabe,Sayur,Suhu Ruang,0,7,Segar
+Jeruk,Buah,Pembeku,2,40,Matang
+Wortel,Sayur,Suhu Ruang,1,10,Segar
+Apel,Buah,Suhu Ruang,1,0,Busuk
+Timun,Sayur,Pembeku,2,6,Busuk
+Wortel,Sayur,Suhu Ruang,3,9,Segar
+Jeruk,Buah,Pembeku,3,39,Mentah
+Tomat,Sayur,Pendingin,0,1,Busuk
+Pisang,Buah,Suhu Ruang,1,7,Matang
+Anggur,Buah,Suhu Ruang,0,8,Matang
+Pisang,Buah,Pembeku,2,38,Mentah
+Pisang,Buah,Pembeku,1,1,Busuk
+Apel,Buah,Pembeku,4,37,Mentah
+Wortel,Sayur,Pembeku,2,0,Busuk
+Tomat,Sayur,Pembeku,2,3,Busuk
+Anggur,Buah,Pembeku,1,13,Terlalu Matang
+Wortel,Sayur,Pendingin,2,30,Segar
+Pisang,Buah,Suhu Ruang,4,4,Matang
+Wortel,Sayur,Pembeku,1,7,Busuk
+Jeruk,Buah,Pendingin,1,26,Mentah
+Anggur,Buah,Pembeku,4,23,Matang
+Cabe,Sayur,Suhu Ruang,6,13,Segar
+Anggur,Buah,Pembeku,0,11,Terlalu Matang
+Kentang,Sayur,Pendingin,1,0,Busuk
+Timun,Sayur,Pendingin,2,0,Busuk
+Timun,Sayur,Pendingin,3,17,Segar
+Cabe,Sayur,Pendingin,3,29,Segar
+Timun,Sayur,Pendingin,1,14,Segar
+Anggur,Buah,Pendingin,2,25,Mentah
+Mangga,Buah,Pembeku,2,8,Terlalu Matang
+Apel,Buah,Pembeku,3,31,Matang
+Timun,Sayur,Pendingin,0,0,Busuk
+Apel,Buah,Pendingin,2,16,Matang
+Cabe,Sayur,Pendingin,0,2,Busuk
+Jeruk,Buah,Pendingin,2,15,Matang
+Jeruk,Buah,Pembeku,3,19,Terlalu Matang
+Anggur,Buah,Suhu Ruang,3,6,Matang
+Pisang,Buah,Pendingin,2,14,Matang
+Mangga,Buah,Suhu Ruang,3,3,Terlalu Matang
+Pisang,Buah,Pembeku,3,11,Terlalu Matang
+Kentang,Sayur,Pendingin,3,17,Segar
+Apel,Buah,Pembeku,1,2,Busuk
+Tomat,Sayur,Suhu Ruang,5,10,Segar
+Kentang,Sayur,Pembeku,1,5,Busuk
+Apel,Buah,Suhu Ruang,5,7,Matang
+Anggur,Buah,Pembeku,2,15,Terlalu Matang
+Timun,Sayur,Pembeku,0,6,Busuk
+Kentang,Sayur,Pendingin,4,24,Segar
+Wortel,Sayur,Pendingin,3,21,Segar
+Apel,Buah,Suhu Ruang,1,12,Mentah
+Mangga,Buah,Suhu Ruang,3,2,Terlalu Matang
+Pisang,Buah,Suhu Ruang,0,2,Terlalu Matang
+Anggur,Buah,Pendingin,5,12,Matang
+Apel,Buah,Pendingin,0,1,Busuk
+Pisang,Buah,Pembeku,1,12,Terlalu Matang
+Kentang,Sayur,Pembeku,4,39,Segar
+Jeruk,Buah,Pembeku,1,3,Busuk
+Kentang,Sayur,Pembeku,2,7,Busuk
+Mangga,Buah,Suhu Ruang,2,6,Matang
+Timun,Sayur,Pembeku,0,6,Busuk
+Timun,Sayur,Pendingin,1,3,Busuk
+Wortel,Sayur,Pembeku,1,3,Busuk
+Jeruk,Buah,Suhu Ruang,2,10,Matang
+Jeruk,Buah,Pendingin,0,1,Busuk
+Kentang,Sayur,Suhu Ruang,5,20,Segar
+Tomat,Sayur,Pendingin,2,3,Busuk
+Mangga,Buah,Pendingin,0,0,Busuk
+Pisang,Buah,Suhu Ruang,1,2,Terlalu Matang
+Cabe,Sayur,Pembeku,5,41,Segar
+Jeruk,Buah,Suhu Ruang,2,3,Terlalu Matang
+Kentang,Sayur,Suhu Ruang,0,15,Segar
+Cabe,Sayur,Pendingin,0,13,Segar
+Apel,Buah,Pendingin,4,18,Mentah
+Apel,Buah,Pembeku,5,32,Matang
+Cabe,Sayur,Pembeku,0,37,Segar
+Mangga,Buah,Pendingin,4,12,Matang
+Tomat,Sayur,Pembeku,5,36,Segar
+Pisang,Buah,Pembeku,0,41,Mentah
+Pisang,Buah,Pendingin,0,17,Mentah
+Tomat,Sayur,Pembeku,1,5,Busuk
+Mangga,Buah,Pendingin,3,14,Matang
+Kentang,Sayur,Pembeku,6,39,Segar
+Jeruk,Buah,Suhu Ruang,0,0,Busuk
+Mangga,Buah,Suhu Ruang,3,2,Terlalu Matang
+Jeruk,Buah,Suhu Ruang,1,4,Terlalu Matang
+Wortel,Sayur,Suhu Ruang,3,10,Segar
+Apel,Buah,Pendingin,1,0,Busuk
+Wortel,Sayur,Suhu Ruang,1,0,Busuk
+Mangga,Buah,Suhu Ruang,1,7,Matang
+Mangga,Buah,Pendingin,0,16,Matang
+Anggur,Buah,Suhu Ruang,0,7,Matang
+Timun,Sayur,Suhu Ruang,6,9,Segar
+Wortel,Sayur,Suhu Ruang,1,1,Busuk
+Pisang,Buah,Suhu Ruang,6,8,Mentah
+Cabe,Sayur,Pendingin,6,11,Segar
+Wortel,Sayur,Suhu Ruang,6,18,Segar
+Anggur,Buah,Pembeku,0,3,Busuk
+Anggur,Buah,Suhu Ruang,2,7,Matang
+Pisang,Buah,Suhu Ruang,5,4,Matang
+Apel,Buah,Pendingin,3,13,Matang
+Jeruk,Buah,Suhu Ruang,0,6,Matang
+Cabe,Sayur,Pembeku,0,6,Busuk
+Timun,Sayur,Suhu Ruang,1,0,Busuk
+Pisang,Buah,Suhu Ruang,6,10,Mentah
+Apel,Buah,Pendingin,4,20,Matang
+Jeruk,Buah,Pembeku,0,30,Matang
+Mangga,Buah,Pembeku,0,31,Matang
+Pisang,Buah,Pembeku,1,10,Terlalu Matang
+Pisang,Buah,Suhu Ruang,2,8,Mentah
+Anggur,Buah,Pendingin,3,18,Mentah
+Tomat,Sayur,Suhu Ruang,2,0,Busuk
+Mangga,Buah,Pembeku,1,8,Terlalu Matang
+Jeruk,Buah,Suhu Ruang,1,15,Mentah
+Jeruk,Buah,Pembeku,1,16,Terlalu Matang
+Jeruk,Buah,Suhu Ruang,3,2,Terlalu Matang
+Cabe,Sayur,Pendingin,5,26,Segar
+Apel,Buah,Suhu Ruang,3,4,Terlalu Matang
+Kentang,Sayur,Pendingin,2,40,Segar
+Jeruk,Buah,Suhu Ruang,5,17,Mentah
+Mangga,Buah,Pembeku,5,28,Matang
+Apel,Buah,Suhu Ruang,2,16,Mentah
+Pisang,Buah,Pembeku,5,17,Matang
+Anggur,Buah,Suhu Ruang,3,2,Terlalu Matang
+Cabe,Sayur,Suhu Ruang,1,10,Segar
+Jeruk,Buah,Suhu Ruang,5,11,Matang
+Jeruk,Buah,Pembeku,0,31,Matang
+Mangga,Buah,Suhu Ruang,2,4,Matang
+Jeruk,Buah,Pembeku,1,2,Busuk
+Tomat,Sayur,Pembeku,0,2,Busuk
+Cabe,Sayur,Pendingin,0,14,Segar
+Kentang,Sayur,Pembeku,2,7,Busuk
+Anggur,Buah,Pembeku,0,10,Terlalu Matang
+Kentang,Sayur,Pendingin,1,3,Busuk
+Kentang,Sayur,Suhu Ruang,0,1,Busuk
+Jeruk,Buah,Suhu Ruang,0,3,Terlalu Matang
+Cabe,Sayur,Pembeku,0,1,Busuk
+Jeruk,Buah,Pembeku,2,17,Terlalu Matang
+Jeruk,Buah,Pendingin,0,1,Busuk
+Anggur,Buah,Suhu Ruang,2,3,Terlalu Matang
+Tomat,Sayur,Suhu Ruang,2,8,Segar
+Apel,Buah,Pembeku,0,1,Busuk
+Anggur,Buah,Pembeku,2,11,Terlalu Matang
+Pisang,Buah,Suhu Ruang,1,4,Matang
+Timun,Sayur,Suhu Ruang,0,1,Busuk
+Timun,Sayur,Pembeku,3,19,Segar
+Wortel,Sayur,Pendingin,1,0,Busuk
+Wortel,Sayur,Suhu Ruang,6,10,Segar
+Jeruk,Buah,Pendingin,2,9,Terlalu Matang
+Jeruk,Buah,Pembeku,0,1,Busuk
+Mangga,Buah,Pembeku,1,26,Matang
+Mangga,Buah,Suhu Ruang,1,6,Matang
+Anggur,Buah,Pendingin,2,17,Matang
+Kentang,Sayur,Suhu Ruang,5,20,Segar
+Pisang,Buah,Suhu Ruang,3,1,Terlalu Matang
+Apel,Buah,Suhu Ruang,6,13,Mentah
+Tomat,Sayur,Pembeku,5,21,Segar
+Jeruk,Buah,Pembeku,1,0,Busuk
+Wortel,Sayur,Pembeku,2,9,Busuk
+Apel,Buah,Suhu Ruang,0,7,Matang
+Wortel,Sayur,Pendingin,5,34,Segar
+Mangga,Buah,Suhu Ruang,3,9,Matang
+Kentang,Sayur,Suhu Ruang,6,15,Segar
+Cabe,Sayur,Pembeku,2,27,Segar
+Kentang,Sayur,Pembeku,1,6,Busuk
+Kentang,Sayur,Suhu Ruang,2,1,Busuk
+Tomat,Sayur,Suhu Ruang,3,10,Segar
+Wortel,Sayur,Pendingin,4,36,Segar
+Wortel,Sayur,Suhu Ruang,0,2,Busuk
+Mangga,Buah,Suhu Ruang,5,7,Matang
+Pisang,Buah,Pembeku,0,12,Terlalu Matang
+Apel,Buah,Pembeku,6,40,Mentah
+Mangga,Buah,Suhu Ruang,6,10,Mentah
+Pisang,Buah,Suhu Ruang,1,0,Busuk
+Timun,Sayur,Pendingin,3,16,Segar
+Pisang,Buah,Pembeku,1,10,Terlalu Matang
+Mangga,Buah,Pendingin,1,19,Mentah
+Apel,Buah,Pembeku,2,40,Matang
+Anggur,Buah,Pendingin,0,5,Terlalu Matang
+Jeruk,Buah,Pendingin,0,24,Mentah
+Pisang,Buah,Pembeku,1,1,Busuk
+Apel,Buah,Pendingin,0,0,Busuk
+Cabe,Sayur,Suhu Ruang,0,7,Segar
+Apel,Buah,Pembeku,0,25,Matang
+Cabe,Sayur,Suhu Ruang,0,11,Segar
+Mangga,Buah,Pembeku,3,38,Mentah
+Pisang,Buah,Pembeku,3,17,Matang
+Jeruk,Buah,Suhu Ruang,1,6,Matang
+Tomat,Sayur,Pembeku,0,5,Busuk
+Timun,Sayur,Pembeku,2,2,Busuk
+Tomat,Sayur,Pendingin,2,0,Busuk
+Anggur,Buah,Pembeku,3,22,Matang
+Jeruk,Buah,Suhu Ruang,1,3,Terlalu Matang
+Anggur,Buah,Pendingin,0,4,Terlalu Matang
+Kentang,Sayur,Suhu Ruang,2,17,Segar
+Pisang,Buah,Pendingin,2,4,Terlalu Matang
+Timun,Sayur,Pendingin,4,10,Segar
+Apel,Buah,Pendingin,4,18,Mentah
+Anggur,Buah,Pendingin,6,16,Mentah
+Pisang,Buah,Pendingin,2,18,Mentah
+Mangga,Buah,Pendingin,4,10,Matang
+Tomat,Sayur,Suhu Ruang,6,5,Segar
+Pisang,Buah,Pendingin,1,1,Busuk
+Pisang,Buah,Pembeku,1,12,Terlalu Matang
+Apel,Buah,Pendingin,0,13,Matang
+Timun,Sayur,Pendingin,1,2,Busuk
+Mangga,Buah,Pendingin,5,15,Matang
+Apel,Buah,Pendingin,1,1,Busuk
+Mangga,Buah,Suhu Ruang,2,2,Terlalu Matang
+Pisang,Buah,Pembeku,1,0,Busuk
+Tomat,Sayur,Suhu Ruang,6,4,Segar
+Apel,Buah,Pendingin,1,9,Terlalu Matang
+Jeruk,Buah,Suhu Ruang,4,7,Matang
+Pisang,Buah,Suhu Ruang,3,8,Mentah
+Wortel,Sayur,Pendingin,0,20,Segar
+Cabe,Sayur,Pendingin,1,28,Segar
+Wortel,Sayur,Suhu Ruang,2,6,Segar
+Anggur,Buah,Pembeku,0,13,Terlalu Matang
+Tomat,Sayur,Pendingin,0,23,Segar
+Anggur,Buah,Pembeku,4,30,Mentah
+Apel,Buah,Pembeku,3,16,Terlalu Matang
+Jeruk,Buah,Pembeku,1,0,Busuk
+Anggur,Buah,Pendingin,1,0,Busuk
+Apel,Buah,Pendingin,1,2,Busuk
+Mangga,Buah,Pendingin,3,13,Mentah
+Wortel,Sayur,Suhu Ruang,0,1,Busuk
+Mangga,Buah,Pendingin,2,20,Mentah
+Tomat,Sayur,Pembeku,0,0,Busuk
+Tomat,Sayur,Pendingin,3,11,Segar
+Anggur,Buah,Pendingin,3,18,Matang
+Kentang,Sayur,Pembeku,0,1,Busuk
+Timun,Sayur,Pendingin,3,23,Segar
+Pisang,Buah,Pendingin,2,4,Terlalu Matang
+Jeruk,Buah,Pendingin,1,1,Busuk
+Mangga,Buah,Pendingin,2,6,Terlalu Matang
+Pisang,Buah,Pembeku,3,30,Mentah
+Cabe,Sayur,Pembeku,1,0,Busuk
+Pisang,Buah,Pembeku,0,30,Matang
+Cabe,Sayur,Pembeku,1,5,Busuk
+Cabe,Sayur,Pendingin,2,19,Segar
+Wortel,Sayur,Pendingin,0,5,Busuk
+Wortel,Sayur,Pembeku,2,1,Busuk
+Timun,Sayur,Pembeku,1,0,Busuk
+Timun,Sayur,Suhu Ruang,4,8,Segar
+Apel,Buah,Pendingin,3,6,Terlalu Matang
+Jeruk,Buah,Pendingin,2,24,Matang
+Kentang,Sayur,Pendingin,1,16,Segar
+Wortel,Sayur,Suhu Ruang,6,16,Segar
+Cabe,Sayur,Pendingin,2,1,Busuk
+Tomat,Sayur,Pembeku,6,18,Segar
+Timun,Sayur,Suhu Ruang,0,6,Segar
+Tomat,Sayur,Pendingin,2,10,Segar
+Pisang,Buah,Suhu Ruang,3,8,Mentah
+Apel,Buah,Suhu Ruang,0,13,Mentah
+Wortel,Sayur,Suhu Ruang,6,14,Segar
+Apel,Buah,Suhu Ruang,2,4,Terlalu Matang
+Timun,Sayur,Pendingin,5,23,Segar
+Jeruk,Buah,Pembeku,1,1,Busuk
+Anggur,Buah,Pendingin,3,14,Matang
+Apel,Buah,Pendingin,3,6,Terlalu Matang
+Timun,Sayur,Pembeku,5,29,Segar
+Tomat,Sayur,Pendingin,1,0,Busuk
+Timun,Sayur,Suhu Ruang,1,9,Segar
+Pisang,Buah,Suhu Ruang,5,10,Mentah
+Apel,Buah,Suhu Ruang,2,14,Mentah
+Anggur,Buah,Pendingin,4,14,Matang
+Apel,Buah,Pendingin,3,18,Matang
+Tomat,Sayur,Pembeku,4,39,Segar
+Wortel,Sayur,Pendingin,5,16,Segar
+Jeruk,Buah,Pendingin,0,8,Terlalu Matang
+Apel,Buah,Pembeku,5,28,Matang
+Tomat,Sayur,Suhu Ruang,3,5,Segar
+Pisang,Buah,Suhu Ruang,4,6,Matang
+Wortel,Sayur,Suhu Ruang,6,16,Segar
+Apel,Buah,Pendingin,2,20,Matang
+Cabe,Sayur,Suhu Ruang,0,7,Segar
+Jeruk,Buah,Pendingin,1,1,Busuk
+Wortel,Sayur,Suhu Ruang,4,13,Segar
+Jeruk,Buah,Pendingin,1,7,Terlalu Matang
+Wortel,Sayur,Pendingin,2,29,Segar
+Pisang,Buah,Suhu Ruang,0,0,Busuk
+Timun,Sayur,Suhu Ruang,0,0,Busuk
+Jeruk,Buah,Pembeku,1,19,Terlalu Matang
+Kentang,Sayur,Pendingin,1,0,Busuk
+Jeruk,Buah,Pembeku,3,32,Matang
+Tomat,Sayur,Suhu Ruang,2,0,Busuk
+Wortel,Sayur,Pembeku,1,5,Busuk
+Cabe,Sayur,Pendingin,1,0,Busuk
+Mangga,Buah,Pembeku,2,11,Terlalu Matang
+Cabe,Sayur,Pendingin,4,13,Segar
+Pisang,Buah,Pendingin,3,5,Terlalu Matang
+Anggur,Buah,Pendingin,0,14,Matang
+Jeruk,Buah,Pendingin,0,2,Busuk
+Tomat,Sayur,Pendingin,4,21,Segar
+Jeruk,Buah,Pendingin,2,15,Matang
+Wortel,Sayur,Pembeku,2,4,Busuk
+Wortel,Sayur,Pembeku,1,6,Busuk
+Anggur,Buah,Suhu Ruang,4,9,Matang
+Apel,Buah,Suhu Ruang,2,3,Terlalu Matang
+Apel,Buah,Suhu Ruang,3,10,Mentah
+Timun,Sayur,Pembeku,5,21,Segar
+Wortel,Sayur,Suhu Ruang,6,15,Segar
+Anggur,Buah,Pendingin,0,22,Mentah
+Mangga,Buah,Pembeku,0,26,Mentah
+Jeruk,Buah,Pendingin,0,19,Matang
+Anggur,Buah,Suhu Ruang,4,8,Matang
+Cabe,Sayur,Pendingin,6,13,Segar
+Cabe,Sayur,Pembeku,2,7,Busuk
+Tomat,Sayur,Pembeku,0,6,Busuk
+Tomat,Sayur,Suhu Ruang,1,12,Segar
+Apel,Buah,Pembeku,0,2,Busuk
+Pisang,Buah,Pendingin,2,6,Terlalu Matang
+Tomat,Sayur,Pembeku,2,24,Segar
+Timun,Sayur,Suhu Ruang,0,1,Busuk
+Jeruk,Buah,Pendingin,1,18,Matang
+Pisang,Buah,Pendingin,1,10,Matang
+Jeruk,Buah,Suhu Ruang,1,9,Mentah
+Wortel,Sayur,Suhu Ruang,0,1,Busuk
+Pisang,Buah,Suhu Ruang,2,4,Matang
+Mangga,Buah,Pembeku,1,3,Busuk
+Tomat,Sayur,Pembeku,5,31,Segar
+Wortel,Sayur,Pembeku,1,6,Busuk
+Tomat,Sayur,Pendingin,2,1,Busuk
+Anggur,Buah,Pembeku,1,1,Busuk
+Pisang,Buah,Suhu Ruang,3,6,Mentah
+Pisang,Buah,Suhu Ruang,6,6,Mentah
+Pisang,Buah,Pembeku,1,6,Terlalu Matang
+Tomat,Sayur,Pembeku,2,4,Busuk
+Tomat,Sayur,Pendingin,1,1,Busuk
+Jeruk,Buah,Pembeku,5,38,Mentah
+Wortel,Sayur,Pembeku,1,7,Busuk
+Cabe,Sayur,Suhu Ruang,1,9,Segar
+Jeruk,Buah,Pembeku,0,0,Busuk
+Anggur,Buah,Pembeku,0,9,Terlalu Matang
+Cabe,Sayur,Suhu Ruang,0,1,Busuk
+Mangga,Buah,Suhu Ruang,5,10,Mentah
+Timun,Sayur,Suhu Ruang,3,8,Segar
+Mangga,Buah,Pembeku,3,26,Matang
+Anggur,Buah,Suhu Ruang,2,2,Terlalu Matang
+Apel,Buah,Suhu Ruang,0,0,Busuk
+Mangga,Buah,Pendingin,2,4,Terlalu Matang
+Anggur,Buah,Pendingin,4,22,Mentah
+Wortel,Sayur,Suhu Ruang,4,17,Segar
+Kentang,Sayur,Pendingin,5,41,Segar
+Pisang,Buah,Pendingin,3,16,Mentah
+Tomat,Sayur,Pendingin,4,12,Segar
+Anggur,Buah,Pembeku,2,8,Terlalu Matang
+Cabe,Sayur,Pendingin,3,25,Segar
+Mangga,Buah,Pembeku,5,28,Mentah
+Timun,Sayur,Pendingin,5,11,Segar
+Timun,Sayur,Suhu Ruang,2,5,Segar
+Timun,Sayur,Pembeku,3,41,Segar
+Jeruk,Buah,Suhu Ruang,6,11,Mentah
+Wortel,Sayur,Pendingin,2,5,Busuk
+Anggur,Buah,Pembeku,0,1,Busuk
+Timun,Sayur,Pembeku,6,26,Segar
+Jeruk,Buah,Pembeku,1,14,Terlalu Matang
+Apel,Buah,Pendingin,1,13,Matang
+Apel,Buah,Pendingin,3,22,Matang
+Wortel,Sayur,Pembeku,1,27,Segar
+Anggur,Buah,Pendingin,0,5,Terlalu Matang
+Anggur,Buah,Suhu Ruang,0,9,Mentah
+Apel,Buah,Pembeku,1,1,Busuk
+Jeruk,Buah,Pendingin,1,23,Mentah
+Apel,Buah,Pendingin,3,30,Mentah
+Wortel,Sayur,Pendingin,4,17,Segar
+Apel,Buah,Pembeku,1,4,Busuk
+Kentang,Sayur,Pendingin,0,0,Busuk
+Pisang,Buah,Pendingin,2,17,Mentah
+Kentang,Sayur,Pendingin,2,5,Busuk
+Timun,Sayur,Suhu Ruang,5,6,Segar
+Anggur,Buah,Pendingin,6,22,Mentah
+Mangga,Buah,Suhu Ruang,2,2,Terlalu Matang
+Mangga,Buah,Pendingin,0,5,Terlalu Matang
+Mangga,Buah,Suhu Ruang,4,5,Matang
+Tomat,Sayur,Suhu Ruang,1,1,Busuk
+Wortel,Sayur,Pendingin,1,4,Busuk
+Apel,Buah,Suhu Ruang,1,7,Matang
+Apel,Buah,Pendingin,0,0,Busuk
+Cabe,Sayur,Pembeku,0,4,Busuk
+Wortel,Sayur,Suhu Ruang,0,15,Segar
+Tomat,Sayur,Pendingin,5,10,Segar
+Mangga,Buah,Pendingin,3,24,Mentah
+Apel,Buah,Pendingin,4,19,Matang
+Mangga,Buah,Suhu Ruang,5,7,Matang
+Timun,Sayur,Pendingin,0,2,Busuk
+Mangga,Buah,Pembeku,2,30,Matang
+Tomat,Sayur,Pendingin,4,13,Segar
+Mangga,Buah,Pendingin,0,7,Terlalu Matang
+Kentang,Sayur,Pembeku,2,5,Busuk
+Anggur,Buah,Pembeku,1,0,Busuk
+Timun,Sayur,Suhu Ruang,6,11,Segar
+Tomat,Sayur,Pendingin,1,21,Segar
+Apel,Buah,Pembeku,2,13,Terlalu Matang
+Tomat,Sayur,Suhu Ruang,0,10,Segar
+Pisang,Buah,Pendingin,4,11,Matang
+Pisang,Buah,Pembeku,4,26,Matang
+Cabe,Sayur,Pendingin,1,0,Busuk
+Jeruk,Buah,Pembeku,5,38,Matang
+Apel,Buah,Pembeku,0,38,Matang
+Tomat,Sayur,Pendingin,1,1,Busuk
+Tomat,Sayur,Pembeku,2,42,Segar
+Jeruk,Buah,Pendingin,4,35,Mentah
+Pisang,Buah,Pendingin,4,12,Matang
+Mangga,Buah,Pembeku,5,34,Mentah
+Jeruk,Buah,Pendingin,0,7,Terlalu Matang
+Jeruk,Buah,Pendingin,0,5,Terlalu Matang
+Apel,Buah,Pendingin,1,1,Busuk
+Tomat,Sayur,Pembeku,2,4,Busuk
+Anggur,Buah,Pendingin,0,1,Busuk
+Kentang,Sayur,Suhu Ruang,5,18,Segar
+Mangga,Buah,Pendingin,6,18,Mentah
+Jeruk,Buah,Pembeku,1,3,Busuk
+Anggur,Buah,Suhu Ruang,4,7,Matang
+Anggur,Buah,Suhu Ruang,2,7,Matang
+Cabe,Sayur,Suhu Ruang,2,1,Busuk
+Anggur,Buah,Pembeku,1,0,Busuk
+Wortel,Sayur,Suhu Ruang,6,13,Segar
+Apel,Buah,Pembeku,5,29,Matang
+Jeruk,Buah,Pembeku,3,17,Terlalu Matang
+Wortel,Sayur,Pendingin,0,3,Busuk
+Wortel,Sayur,Pembeku,0,5,Busuk
+Anggur,Buah,Pendingin,0,18,Matang
+Mangga,Buah,Suhu Ruang,1,10,Mentah
+Wortel,Sayur,Pembeku,0,10,Busuk
+Kentang,Sayur,Pembeku,2,10,Busuk
+Mangga,Buah,Pembeku,2,7,Terlalu Matang
+Cabe,Sayur,Pendingin,2,18,Segar
+Kentang,Sayur,Suhu Ruang,0,9,Segar
+Tomat,Sayur,Pendingin,2,2,Busuk
+Apel,Buah,Pembeku,2,19,Terlalu Matang
+Pisang,Buah,Pendingin,0,9,Matang
+Cabe,Sayur,Pembeku,0,5,Busuk
+Anggur,Buah,Suhu Ruang,0,6,Matang
+Kentang,Sayur,Pendingin,2,27,Segar
+Cabe,Sayur,Pembeku,4,39,Segar
+Jeruk,Buah,Pendingin,6,23,Mentah
+Anggur,Buah,Pendingin,2,7,Terlalu Matang
+Pisang,Buah,Suhu Ruang,0,5,Matang
+Cabe,Sayur,Suhu Ruang,1,8,Segar
+Kentang,Sayur,Pendingin,0,22,Segar
+Apel,Buah,Pembeku,0,2,Busuk
+Cabe,Sayur,Suhu Ruang,0,0,Busuk
+Anggur,Buah,Pembeku,0,10,Terlalu Matang
+Mangga,Buah,Pembeku,3,8,Terlalu Matang
+Apel,Buah,Suhu Ruang,1,16,Mentah
+Anggur,Buah,Suhu Ruang,4,9,Matang
+Tomat,Sayur,Pendingin,2,0,Busuk
+Jeruk,Buah,Pembeku,1,0,Busuk
+Timun,Sayur,Suhu Ruang,6,9,Segar
+Anggur,Buah,Pembeku,1,10,Terlalu Matang
+Wortel,Sayur,Suhu Ruang,2,2,Busuk
+Pisang,Buah,Pembeku,3,10,Terlalu Matang
+Apel,Buah,Suhu Ruang,1,8,Mentah
+Jeruk,Buah,Suhu Ruang,1,9,Matang
+Tomat,Sayur,Pembeku,4,24,Segar
+Cabe,Sayur,Suhu Ruang,6,14,Segar
+Apel,Buah,Pembeku,3,11,Terlalu Matang
+Tomat,Sayur,Pendingin,2,0,Busuk
+Pisang,Buah,Pembeku,0,38,Mentah
+Cabe,Sayur,Suhu Ruang,0,0,Busuk
+Timun,Sayur,Suhu Ruang,6,5,Segar
+Kentang,Sayur,Suhu Ruang,0,0,Busuk
+Mangga,Buah,Pembeku,3,9,Terlalu Matang
+Timun,Sayur,Suhu Ruang,1,7,Segar
+Cabe,Sayur,Suhu Ruang,0,0,Busuk
+Kentang,Sayur,Suhu Ruang,0,15,Segar
+Timun,Sayur,Suhu Ruang,2,6,Segar
+Cabe,Sayur,Pendingin,1,2,Busuk
+Mangga,Buah,Pendingin,1,1,Busuk
+Tomat,Sayur,Pembeku,1,22,Segar
+Kentang,Sayur,Pendingin,0,36,Segar
+Cabe,Sayur,Pendingin,0,3,Busuk
+Pisang,Buah,Pendingin,2,15,Matang
+Timun,Sayur,Pembeku,1,4,Busuk
+Pisang,Buah,Pendingin,2,5,Terlalu Matang
+Kentang,Sayur,Suhu Ruang,4,12,Segar
+Apel,Buah,Suhu Ruang,5,9,Matang
+Pisang,Buah,Pendingin,2,12,Matang
+Cabe,Sayur,Pembeku,6,29,Segar
+Wortel,Sayur,Pendingin,2,0,Busuk
+Jeruk,Buah,Suhu Ruang,0,15,Mentah
+Cabe,Sayur,Pendingin,3,14,Segar
+Pisang,Buah,Pendingin,4,13,Matang
+Pisang,Buah,Pendingin,1,3,Terlalu Matang
+Apel,Buah,Suhu Ruang,3,4,Terlalu Matang
+Jeruk,Buah,Suhu Ruang,0,12,Matang
+Cabe,Sayur,Suhu Ruang,1,0,Busuk
+Anggur,Buah,Suhu Ruang,0,4,Terlalu Matang
+Jeruk,Buah,Pendingin,1,21,Mentah
+Mangga,Buah,Pembeku,0,37,Mentah
+Anggur,Buah,Suhu Ruang,0,1,Busuk
+Pisang,Buah,Pembeku,1,6,Terlalu Matang
+Tomat,Sayur,Pendingin,1,10,Segar
+Timun,Sayur,Suhu Ruang,2,12,Segar
+Mangga,Buah,Pendingin,2,5,Terlalu Matang
+Anggur,Buah,Pendingin,4,26,Mentah
+Apel,Buah,Pembeku,0,1,Busuk
+Pisang,Buah,Pendingin,1,3,Terlalu Matang
+Anggur,Buah,Pendingin,5,11,Matang
+Wortel,Sayur,Suhu Ruang,5,8,Segar
+Tomat,Sayur,Pendingin,4,22,Segar
+Tomat,Sayur,Pendingin,2,0,Busuk
+Apel,Buah,Suhu Ruang,1,9,Mentah
+Anggur,Buah,Suhu Ruang,3,6,Matang
+Tomat,Sayur,Suhu Ruang,2,7,Segar
+Cabe,Sayur,Pendingin,5,10,Segar
+Anggur,Buah,Pendingin,0,7,Terlalu Matang
+Cabe,Sayur,Suhu Ruang,6,11,Segar
+Anggur,Buah,Pembeku,1,3,Busuk
+Cabe,Sayur,Pendingin,2,17,Segar
+Jeruk,Buah,Pendingin,1,16,Matang
+Kentang,Sayur,Suhu Ruang,3,9,Segar
+Wortel,Sayur,Pembeku,0,6,Busuk
+Jeruk,Buah,Pembeku,2,12,Terlalu Matang
+Cabe,Sayur,Pendingin,0,1,Busuk
+Kentang,Sayur,Suhu Ruang,0,2,Busuk
+Cabe,Sayur,Pembeku,3,26,Segar
+Timun,Sayur,Pembeku,1,3,Busuk
+Anggur,Buah,Pembeku,1,0,Busuk
+Anggur,Buah,Pembeku,1,0,Busuk
+Apel,Buah,Pembeku,3,17,Terlalu Matang
+Cabe,Sayur,Pendingin,2,11,Segar
+Mangga,Buah,Pendingin,2,18,Mentah
+Mangga,Buah,Suhu Ruang,3,3,Terlalu Matang
+Tomat,Sayur,Pembeku,3,29,Segar
+Pisang,Buah,Pendingin,1,3,Terlalu Matang
+Mangga,Buah,Pendingin,1,5,Terlalu Matang
+Jeruk,Buah,Pendingin,5,14,Matang
+Anggur,Buah,Pembeku,2,11,Terlalu Matang
+Anggur,Buah,Pembeku,3,29,Matang
+Kentang,Sayur,Pendingin,2,4,Busuk
+Timun,Sayur,Pendingin,1,1,Busuk
+Pisang,Buah,Pendingin,0,6,Terlalu Matang
+Apel,Buah,Pembeku,2,14,Terlalu Matang
+Cabe,Sayur,Suhu Ruang,0,6,Segar
+Jeruk,Buah,Suhu Ruang,5,6,Matang
+Cabe,Sayur,Pembeku,2,38,Segar
+Jeruk,Buah,Suhu Ruang,5,11,Mentah
+Cabe,Sayur,Suhu Ruang,5,9,Segar
+Jeruk,Buah,Pembeku,0,14,Terlalu Matang
+Mangga,Buah,Suhu Ruang,3,7,Mentah
+Timun,Sayur,Pendingin,1,1,Busuk
+Timun,Sayur,Pembeku,3,33,Segar
+Jeruk,Buah,Pembeku,1,4,Busuk
+Apel,Buah,Pendingin,1,32,Mentah
+Wortel,Sayur,Pendingin,5,29,Segar
+Tomat,Sayur,Pendingin,2,23,Segar
+Pisang,Buah,Pendingin,0,5,Terlalu Matang
+Tomat,Sayur,Suhu Ruang,4,9,Segar
+Mangga,Buah,Pendingin,1,4,Terlalu Matang
+Anggur,Buah,Pembeku,5,25,Matang
+Wortel,Sayur,Pembeku,1,7,Busuk
+Wortel,Sayur,Pendingin,1,4,Busuk
+Jeruk,Buah,Pembeku,2,14,Terlalu Matang
+Jeruk,Buah,Pendingin,2,7,Terlalu Matang
+Pisang,Buah,Pendingin,1,0,Busuk
+Kentang,Sayur,Pembeku,0,4,Busuk
+Timun,Sayur,Pembeku,0,2,Busuk
+Apel,Buah,Pembeku,0,3,Busuk
+Pisang,Buah,Suhu Ruang,2,7,Matang
+Kentang,Sayur,Pendingin,3,39,Segar
+Kentang,Sayur,Suhu Ruang,2,1,Busuk
+Apel,Buah,Suhu Ruang,6,15,Mentah
+Apel,Buah,Pembeku,0,0,Busuk
+Timun,Sayur,Pendingin,3,9,Segar
+Pisang,Buah,Pendingin,6,15,Mentah
+Pisang,Buah,Pembeku,4,22,Matang
+Cabe,Sayur,Pendingin,2,3,Busuk
+Tomat,Sayur,Pendingin,4,16,Segar
+Tomat,Sayur,Pembeku,3,25,Segar
+Anggur,Buah,Suhu Ruang,5,5,Matang
+Wortel,Sayur,Suhu Ruang,2,0,Busuk
+Mangga,Buah,Pendingin,1,6,Terlalu Matang
+Apel,Buah,Pembeku,4,31,Matang
+Tomat,Sayur,Pembeku,1,1,Busuk
+Mangga,Buah,Pembeku,5,29,Matang
+Jeruk,Buah,Pendingin,0,28,Mentah
+Jeruk,Buah,Pendingin,2,15,Matang
+Timun,Sayur,Suhu Ruang,1,8,Segar
+Pisang,Buah,Pendingin,1,1,Busuk
+Tomat,Sayur,Pendingin,5,14,Segar
+Cabe,Sayur,Suhu Ruang,2,1,Busuk
+Kentang,Sayur,Suhu Ruang,5,19,Segar
+Wortel,Sayur,Suhu Ruang,1,18,Segar
+Anggur,Buah,Pembeku,3,10,Terlalu Matang
+Pisang,Buah,Pembeku,1,3,Busuk
+Mangga,Buah,Pembeku,0,3,Busuk
+Cabe,Sayur,Pendingin,1,14,Segar
+Mangga,Buah,Suhu Ruang,3,5,Matang
+Anggur,Buah,Pendingin,3,13,Matang
+Mangga,Buah,Pendingin,2,4,Terlalu Matang
+Jeruk,Buah,Pendingin,1,6,Terlalu Matang
+Timun,Sayur,Pendingin,3,26,Segar
+Cabe,Sayur,Pembeku,2,2,Busuk
+Anggur,Buah,Suhu Ruang,0,5,Matang
+Kentang,Sayur,Pembeku,1,7,Busuk
+Wortel,Sayur,Pembeku,1,8,Busuk
+Kentang,Sayur,Pembeku,1,9,Busuk
+Wortel,Sayur,Suhu Ruang,6,10,Segar
+Timun,Sayur,Pendingin,0,16,Segar
+Wortel,Sayur,Pembeku,5,37,Segar
+Jeruk,Buah,Suhu Ruang,0,3,Terlalu Matang
+Tomat,Sayur,Suhu Ruang,6,5,Segar
+Apel,Buah,Pembeku,1,2,Busuk
+Cabe,Sayur,Pendingin,1,20,Segar
+Cabe,Sayur,Pembeku,1,30,Segar
+Kentang,Sayur,Suhu Ruang,2,19,Segar
+Anggur,Buah,Pembeku,2,34,Matang
+Apel,Buah,Pendingin,4,31,Mentah
+Anggur,Buah,Pembeku,1,25,Matang
+Anggur,Buah,Suhu Ruang,0,11,Mentah
+Apel,Buah,Pendingin,2,6,Terlalu Matang
+Mangga,Buah,Suhu Ruang,1,0,Busuk
+Mangga,Buah,Pembeku,1,9,Terlalu Matang
+Kentang,Sayur,Suhu Ruang,1,0,Busuk
+Timun,Sayur,Pendingin,5,18,Segar
+Mangga,Buah,Pendingin,0,9,Matang
+Kentang,Sayur,Suhu Ruang,1,20,Segar
+Cabe,Sayur,Pendingin,1,1,Busuk
+Tomat,Sayur,Pembeku,6,20,Segar
+Timun,Sayur,Pembeku,1,31,Segar
+Tomat,Sayur,Pembeku,6,28,Segar
+Pisang,Buah,Pembeku,5,16,Matang
+Anggur,Buah,Suhu Ruang,2,10,Mentah
+Kentang,Sayur,Suhu Ruang,3,18,Segar
+Mangga,Buah,Pembeku,6,28,Mentah
+Jeruk,Buah,Pendingin,2,7,Terlalu Matang
+Cabe,Sayur,Suhu Ruang,6,10,Segar
+Cabe,Sayur,Pendingin,0,1,Busuk
+Anggur,Buah,Pembeku,0,1,Busuk
+Timun,Sayur,Pembeku,0,1,Busuk
+Apel,Buah,Pendingin,5,21,Matang
+Kentang,Sayur,Pembeku,1,1,Busuk
+Tomat,Sayur,Pembeku,3,38,Segar
+Wortel,Sayur,Pembeku,1,4,Busuk
+Mangga,Buah,Pembeku,6,36,Mentah
+Wortel,Sayur,Pendingin,2,1,Busuk
+Tomat,Sayur,Suhu Ruang,4,7,Segar
+Pisang,Buah,Suhu Ruang,6,7,Mentah
+Wortel,Sayur,Suhu Ruang,0,11,Segar
+Timun,Sayur,Pembeku,1,5,Busuk
+Anggur,Buah,Pembeku,0,1,Busuk
+Anggur,Buah,Suhu Ruang,2,2,Terlalu Matang
+Anggur,Buah,Pendingin,0,0,Busuk
+Cabe,Sayur,Suhu Ruang,4,5,Segar
+Cabe,Sayur,Suhu Ruang,1,10,Segar
+Wortel,Sayur,Pendingin,6,18,Segar
+Kentang,Sayur,Pembeku,0,8,Busuk
+Timun,Sayur,Suhu Ruang,3,6,Segar
+Mangga,Buah,Pendingin,4,24,Mentah
+Kentang,Sayur,Pendingin,0,4,Busuk
+Anggur,Buah,Pendingin,3,11,Matang
+Wortel,Sayur,Pendingin,1,3,Busuk
+Tomat,Sayur,Pendingin,2,10,Segar
+Anggur,Buah,Pendingin,5,10,Matang
+Timun,Sayur,Suhu Ruang,3,6,Segar
+Kentang,Sayur,Pendingin,1,0,Busuk
+Wortel,Sayur,Pendingin,1,33,Segar
+Anggur,Buah,Suhu Ruang,3,7,Mentah
+Kentang,Sayur,Suhu Ruang,1,13,Segar
+Timun,Sayur,Pendingin,6,9,Segar
+Tomat,Sayur,Pembeku,0,2,Busuk
+Jeruk,Buah,Suhu Ruang,0,10,Matang
+Jeruk,Buah,Suhu Ruang,3,10,Matang
+Cabe,Sayur,Pendingin,4,13,Segar
+Wortel,Sayur,Suhu Ruang,3,6,Segar
+Anggur,Buah,Pembeku,0,20,Matang
+Wortel,Sayur,Suhu Ruang,3,10,Segar
+Timun,Sayur,Suhu Ruang,1,0,Busuk
+Cabe,Sayur,Suhu Ruang,2,14,Segar
+Cabe,Sayur,Pembeku,0,2,Busuk
+Mangga,Buah,Pendingin,2,15,Matang
+Tomat,Sayur,Pendingin,4,13,Segar
+Apel,Buah,Pendingin,3,15,Matang
+Wortel,Sayur,Suhu Ruang,4,7,Segar
+Tomat,Sayur,Suhu Ruang,5,5,Segar
+Tomat,Sayur,Suhu Ruang,1,11,Segar
+Apel,Buah,Pendingin,2,5,Terlalu Matang
+Mangga,Buah,Pembeku,0,18,Matang
+Wortel,Sayur,Pembeku,2,6,Busuk
+Mangga,Buah,Pembeku,4,36,Mentah
+Anggur,Buah,Pembeku,0,3,Busuk
+Apel,Buah,Pembeku,1,16,Terlalu Matang
+Timun,Sayur,Pembeku,0,40,Segar
+Tomat,Sayur,Suhu Ruang,5,4,Segar
+Cabe,Sayur,Suhu Ruang,2,12,Segar
+Apel,Buah,Suhu Ruang,4,12,Mentah
+Anggur,Buah,Pembeku,1,14,Terlalu Matang
+Kentang,Sayur,Suhu Ruang,5,12,Segar
+Jeruk,Buah,Suhu Ruang,4,15,Mentah
+Kentang,Sayur,Pendingin,1,0,Busuk
+Mangga,Buah,Pendingin,3,3,Terlalu Matang
+Apel,Buah,Suhu Ruang,1,2,Terlalu Matang
+Apel,Buah,Pendingin,0,17,Matang
+Kentang,Sayur,Pendingin,1,1,Busuk
+Tomat,Sayur,Suhu Ruang,1,1,Busuk
+Mangga,Buah,Suhu Ruang,1,7,Mentah
+Anggur,Buah,Suhu Ruang,3,2,Terlalu Matang
+Jeruk,Buah,Pendingin,6,34,Mentah
+Anggur,Buah,Suhu Ruang,1,1,Busuk
+Timun,Sayur,Suhu Ruang,0,1,Busuk
+Timun,Sayur,Pendingin,1,0,Busuk
+Pisang,Buah,Pembeku,0,1,Busuk
+Apel,Buah,Suhu Ruang,1,12,Mentah
+Tomat,Sayur,Pembeku,0,35,Segar
+Tomat,Sayur,Pembeku,1,2,Busuk
+Anggur,Buah,Suhu Ruang,1,5,Matang
+Jeruk,Buah,Pembeku,5,31,Matang
+Anggur,Buah,Pendingin,1,11,Matang
+Cabe,Sayur,Suhu Ruang,3,7,Segar
+Jeruk,Buah,Suhu Ruang,0,9,Matang
+Kentang,Sayur,Suhu Ruang,0,2,Busuk
+Apel,Buah,Pembeku,1,3,Busuk
+Mangga,Buah,Suhu Ruang,0,9,Mentah
+Apel,Buah,Suhu Ruang,1,10,Mentah
+Anggur,Buah,Pendingin,5,27,Mentah
+Wortel,Sayur,Pendingin,5,23,Segar
+Anggur,Buah,Pembeku,0,13,Terlalu Matang
+Tomat,Sayur,Pembeku,2,26,Segar
+Anggur,Buah,Pendingin,0,25,Mentah
+Tomat,Sayur,Pembeku,4,33,Segar
+Timun,Sayur,Pembeku,2,3,Busuk
+Mangga,Buah,Pembeku,0,3,Busuk
+Anggur,Buah,Suhu Ruang,1,5,Matang
+Pisang,Buah,Pendingin,1,21,Mentah
+Wortel,Sayur,Pendingin,0,3,Busuk
+Mangga,Buah,Pembeku,3,13,Terlalu Matang
+Wortel,Sayur,Pembeku,1,39,Segar
+Apel,Buah,Pembeku,0,4,Busuk
+Wortel,Sayur,Suhu Ruang,1,7,Segar
+Timun,Sayur,Pembeku,2,4,Busuk
+Timun,Sayur,Pendingin,1,3,Busuk
+Mangga,Buah,Pendingin,1,1,Busuk
+Jeruk,Buah,Suhu Ruang,1,7,Matang
+Timun,Sayur,Pendingin,1,0,Busuk
+Mangga,Buah,Suhu Ruang,1,3,Terlalu Matang
+Jeruk,Buah,Pendingin,1,21,Matang
+Apel,Buah,Suhu Ruang,3,16,Mentah
+Timun,Sayur,Suhu Ruang,2,8,Segar
+Cabe,Sayur,Suhu Ruang,2,0,Busuk
+Kentang,Sayur,Pendingin,2,5,Busuk
+Tomat,Sayur,Pendingin,5,19,Segar
+Kentang,Sayur,Pendingin,3,34,Segar
+Timun,Sayur,Pendingin,2,0,Busuk
+Cabe,Sayur,Pendingin,1,1,Busuk
+Pisang,Buah,Pendingin,0,3,Terlalu Matang
+Timun,Sayur,Pembeku,3,38,Segar
+Kentang,Sayur,Pembeku,0,6,Busuk
+Wortel,Sayur,Suhu Ruang,1,0,Busuk
+Anggur,Buah,Pembeku,0,1,Busuk
+Jeruk,Buah,Pendingin,0,23,Matang
+Kentang,Sayur,Suhu Ruang,1,2,Busuk
+Kentang,Sayur,Pendingin,6,20,Segar
+Pisang,Buah,Pembeku,1,12,Terlalu Matang
+Timun,Sayur,Suhu Ruang,1,1,Busuk
+Tomat,Sayur,Pendingin,0,0,Busuk
+Wortel,Sayur,Suhu Ruang,0,1,Busuk
+Anggur,Buah,Pembeku,5,25,Matang
+Tomat,Sayur,Pembeku,6,19,Segar
+Mangga,Buah,Pendingin,5,14,Matang
+Cabe,Sayur,Pembeku,1,3,Busuk
+Mangga,Buah,Pembeku,4,26,Matang
+Timun,Sayur,Pendingin,1,1,Busuk
+Jeruk,Buah,Pembeku,1,4,Busuk
+Wortel,Sayur,Pembeku,1,5,Busuk
+Apel,Buah,Suhu Ruang,4,14,Mentah
+Mangga,Buah,Pembeku,3,26,Matang
+Mangga,Buah,Pendingin,5,15,Matang
+Kentang,Sayur,Pendingin,6,40,Segar
+Cabe,Sayur,Pembeku,2,20,Segar
+Pisang,Buah,Pendingin,0,4,Terlalu Matang
+Anggur,Buah,Pendingin,6,26,Mentah
+Tomat,Sayur,Pembeku,5,37,Segar
+Cabe,Sayur,Pendingin,1,2,Busuk
+Mangga,Buah,Pembeku,2,13,Terlalu Matang
+Wortel,Sayur,Pendingin,1,0,Busuk
+Cabe,Sayur,Pendingin,3,14,Segar
+Apel,Buah,Pendingin,1,23,Matang
+Kentang,Sayur,Pembeku,2,11,Busuk
+Jeruk,Buah,Suhu Ruang,4,7,Matang
+Pisang,Buah,Pembeku,1,1,Busuk
+Jeruk,Buah,Pendingin,1,27,Mentah
+Anggur,Buah,Pendingin,4,18,Matang
+Jeruk,Buah,Suhu Ruang,2,14,Mentah
+Jeruk,Buah,Pendingin,5,19,Matang
+Apel,Buah,Suhu Ruang,3,7,Matang
+Wortel,Sayur,Pendingin,0,4,Busuk
+Mangga,Buah,Pembeku,0,1,Busuk
+Apel,Buah,Suhu Ruang,6,11,Mentah
+Cabe,Sayur,Pembeku,6,24,Segar
+Apel,Buah,Pembeku,3,13,Terlalu Matang
+Timun,Sayur,Suhu Ruang,2,7,Segar
+Pisang,Buah,Pendingin,0,5,Terlalu Matang
+Wortel,Sayur,Pendingin,5,30,Segar
+Kentang,Sayur,Suhu Ruang,1,0,Busuk
+Wortel,Sayur,Pendingin,1,17,Segar
+Cabe,Sayur,Pendingin,2,1,Busuk
+Timun,Sayur,Pembeku,0,3,Busuk
+Mangga,Buah,Pendingin,4,14,Matang
+Wortel,Sayur,Pembeku,0,6,Busuk
+Anggur,Buah,Pembeku,1,3,Busuk
+Pisang,Buah,Pendingin,1,5,Terlalu Matang
+Pisang,Buah,Pembeku,2,7,Terlalu Matang
+Kentang,Sayur,Suhu Ruang,0,13,Segar
+Tomat,Sayur,Pembeku,0,4,Busuk
+Wortel,Sayur,Pembeku,2,2,Busuk
+Timun,Sayur,Pembeku,5,19,Segar
+Apel,Buah,Pembeku,1,31,Matang
+Jeruk,Buah,Pembeku,1,18,Terlalu Matang
+Jeruk,Buah,Pendingin,0,27,Mentah
+Anggur,Buah,Suhu Ruang,1,7,Matang
+Mangga,Buah,Pendingin,3,16,Matang
+Kentang,Sayur,Pembeku,2,2,Busuk
+Tomat,Sayur,Pembeku,0,0,Busuk
+Pisang,Buah,Pendingin,0,14,Mentah
+Apel,Buah,Pendingin,2,26,Mentah
+Apel,Buah,Suhu Ruang,3,10,Mentah
+Tomat,Sayur,Suhu Ruang,2,1,Busuk
+Kentang,Sayur,Pendingin,0,0,Busuk
+Kentang,Sayur,Pendingin,1,3,Busuk
+Pisang,Buah,Pembeku,2,29,Mentah
+Anggur,Buah,Suhu Ruang,2,10,Mentah
+Apel,Buah,Pendingin,1,5,Terlalu Matang
+Pisang,Buah,Pendingin,0,9,Matang
+Anggur,Buah,Pembeku,1,33,Matang
+Jeruk,Buah,Suhu Ruang,0,4,Terlalu Matang
+Pisang,Buah,Pendingin,5,12,Mentah
+Anggur,Buah,Pembeku,1,13,Terlalu Matang
+Anggur,Buah,Pembeku,0,1,Busuk
+Mangga,Buah,Pendingin,5,10,Matang
+Cabe,Sayur,Pendingin,2,2,Busuk
+Pisang,Buah,Pembeku,1,28,Matang
+Pisang,Buah,Pembeku,1,24,Mentah
+Cabe,Sayur,Pendingin,2,24,Segar
+Apel,Buah,Suhu Ruang,2,8,Matang
+Tomat,Sayur,Pembeku,3,21,Segar
+Timun,Sayur,Pendingin,0,15,Segar
+Kentang,Sayur,Suhu Ruang,6,10,Segar
+Mangga,Buah,Suhu Ruang,4,6,Mentah
+Mangga,Buah,Pendingin,0,6,Terlalu Matang
+Apel,Buah,Pendingin,5,21,Mentah
+Kentang,Sayur,Suhu Ruang,1,2,Busuk
+Mangga,Buah,Suhu Ruang,1,5,Matang
+Apel,Buah,Pendingin,1,9,Terlalu Matang
+Anggur,Buah,Pendingin,0,23,Mentah
+Wortel,Sayur,Pembeku,1,9,Busuk
+Mangga,Buah,Pembeku,5,31,Matang
+Jeruk,Buah,Suhu Ruang,3,8,Matang
+Tomat,Sayur,Pembeku,6,35,Segar
+Kentang,Sayur,Pendingin,0,0,Busuk
+Wortel,Sayur,Pendingin,5,38,Segar
+Anggur,Buah,Pendingin,0,6,Terlalu Matang
+Tomat,Sayur,Pembeku,6,41,Segar
+Kentang,Sayur,Suhu Ruang,1,14,Segar
+Cabe,Sayur,Pendingin,1,0,Busuk
+Wortel,Sayur,Suhu Ruang,2,0,Busuk
+Jeruk,Buah,Pendingin,0,8,Terlalu Matang
+Tomat,Sayur,Pembeku,0,3,Busuk
+Apel,Buah,Suhu Ruang,2,7,Matang
+Kentang,Sayur,Pendingin,1,3,Busuk
+Pisang,Buah,Pendingin,5,9,Matang
+Cabe,Sayur,Pendingin,1,2,Busuk
+Jeruk,Buah,Pembeku,1,3,Busuk
+Anggur,Buah,Pendingin,0,27,Mentah
+Wortel,Sayur,Pembeku,0,7,Busuk
+Jeruk,Buah,Pendingin,4,18,Matang
+Mangga,Buah,Suhu Ruang,4,9,Mentah
+Wortel,Sayur,Pendingin,0,1,Busuk
+Apel,Buah,Pendingin,0,5,Terlalu Matang
+Pisang,Buah,Pembeku,3,18,Matang
+Jeruk,Buah,Pembeku,1,0,Busuk
+Wortel,Sayur,Pendingin,0,3,Busuk
+Cabe,Sayur,Suhu Ruang,5,5,Segar
+Mangga,Buah,Suhu Ruang,2,11,Mentah
+Mangga,Buah,Pembeku,1,27,Matang
+Jeruk,Buah,Suhu Ruang,6,15,Mentah
+Apel,Buah,Suhu Ruang,3,4,Terlalu Matang
+Timun,Sayur,Suhu Ruang,4,13,Segar
+Tomat,Sayur,Pendingin,4,9,Segar
+Apel,Buah,Pembeku,0,37,Matang
+Apel,Buah,Pendingin,5,27,Mentah
+Cabe,Sayur,Pembeku,2,1,Busuk
+Mangga,Buah,Pendingin,1,1,Busuk
+Pisang,Buah,Suhu Ruang,1,1,Terlalu Matang
+Timun,Sayur,Pendingin,6,13,Segar
+Jeruk,Buah,Pendingin,5,23,Matang
+Jeruk,Buah,Pendingin,2,18,Matang
+Timun,Sayur,Pendingin,1,22,Segar
+Apel,Buah,Suhu Ruang,1,1,Busuk
+Cabe,Sayur,Pembeku,2,24,Segar
+Wortel,Sayur,Suhu Ruang,2,12,Segar
+Tomat,Sayur,Suhu Ruang,3,4,Segar
+Apel,Buah,Suhu Ruang,2,3,Terlalu Matang
+Timun,Sayur,Pendingin,5,13,Segar
+Anggur,Buah,Pendingin,3,13,Matang
+Apel,Buah,Pendingin,0,4,Terlalu Matang
+Timun,Sayur,Pendingin,2,3,Busuk
+Jeruk,Buah,Pendingin,0,1,Busuk
+Kentang,Sayur,Pembeku,0,10,Busuk
+Apel,Buah,Suhu Ruang,1,0,Busuk
+Timun,Sayur,Pendingin,1,10,Segar
+Pisang,Buah,Pembeku,0,0,Busuk
+Mangga,Buah,Suhu Ruang,2,2,Terlalu Matang
+Tomat,Sayur,Suhu Ruang,2,7,Segar
+Timun,Sayur,Pendingin,5,21,Segar
+Anggur,Buah,Pembeku,0,35,Matang
+Wortel,Sayur,Pendingin,2,2,Busuk
+Timun,Sayur,Pembeku,1,1,Busuk
+Cabe,Sayur,Pembeku,1,37,Segar
+Timun,Sayur,Pendingin,2,20,Segar
+Cabe,Sayur,Pendingin,1,0,Busuk
+Kentang,Sayur,Suhu Ruang,4,7,Segar
+Tomat,Sayur,Pendingin,6,11,Segar
+Wortel,Sayur,Suhu Ruang,0,7,Segar
+Anggur,Buah,Pembeku,2,32,Mentah
+Mangga,Buah,Pendingin,5,15,Mentah
+Kentang,Sayur,Suhu Ruang,4,15,Segar
+Tomat,Sayur,Suhu Ruang,4,9,Segar
+Anggur,Buah,Suhu Ruang,5,12,Mentah
+Jeruk,Buah,Pembeku,0,17,Terlalu Matang
+Tomat,Sayur,Pendingin,1,2,Busuk
+Timun,Sayur,Pembeku,2,7,Busuk
+Kentang,Sayur,Suhu Ruang,6,19,Segar
+Mangga,Buah,Pembeku,1,0,Busuk
+Timun,Sayur,Pendingin,4,26,Segar
+Apel,Buah,Pembeku,2,16,Terlalu Matang
+Timun,Sayur,Pembeku,6,33,Segar
+Kentang,Sayur,Suhu Ruang,2,1,Busuk
+Apel,Buah,Pembeku,0,42,Mentah
+Pisang,Buah,Suhu Ruang,4,10,Mentah
+Timun,Sayur,Pendingin,2,1,Busuk
+Apel,Buah,Pembeku,1,0,Busuk
+Cabe,Sayur,Pendingin,1,1,Busuk
+Wortel,Sayur,Suhu Ruang,2,15,Segar
+Mangga,Buah,Suhu Ruang,4,5,Matang
+Anggur,Buah,Pembeku,4,34,Mentah
+Tomat,Sayur,Suhu Ruang,0,1,Busuk
+Kentang,Sayur,Suhu Ruang,4,12,Segar
+Cabe,Sayur,Pembeku,1,2,Busuk
+Wortel,Sayur,Pendingin,1,28,Segar
+Cabe,Sayur,Pendingin,5,22,Segar
+Tomat,Sayur,Suhu Ruang,4,6,Segar
+Jeruk,Buah,Pembeku,2,15,Terlalu Matang
+Mangga,Buah,Pembeku,2,12,Terlalu Matang
+Kentang,Sayur,Pendingin,0,5,Busuk
+Jeruk,Buah,Pendingin,4,29,Mentah
+Jeruk,Buah,Pendingin,5,30,Mentah
+Apel,Buah,Suhu Ruang,2,8,Mentah
+Pisang,Buah,Pembeku,0,2,Busuk
+Pisang,Buah,Pembeku,1,0,Busuk
+Cabe,Sayur,Pendingin,3,15,Segar
+Timun,Sayur,Suhu Ruang,2,1,Busuk
+Tomat,Sayur,Pendingin,2,3,Busuk
+Cabe,Sayur,Pendingin,0,26,Segar
+Pisang,Buah,Pembeku,1,27,Matang
+Wortel,Sayur,Pembeku,0,8,Busuk
+Kentang,Sayur,Pendingin,2,0,Busuk
+Apel,Buah,Pendingin,1,2,Busuk
+Pisang,Buah,Pendingin,1,0,Busuk
+Pisang,Buah,Suhu Ruang,1,6,Mentah
+Apel,Buah,Pembeku,3,31,Matang
+Cabe,Sayur,Pendingin,3,27,Segar
+Cabe,Sayur,Pendingin,0,0,Busuk
+Tomat,Sayur,Suhu Ruang,3,7,Segar
+Apel,Buah,Pendingin,2,14,Matang
+Kentang,Sayur,Pendingin,5,18,Segar
+Kentang,Sayur,Pembeku,4,33,Segar
+Pisang,Buah,Pendingin,1,0,Busuk
+Cabe,Sayur,Pembeku,1,1,Busuk
+Cabe,Sayur,Pendingin,3,26,Segar
+Mangga,Buah,Pendingin,5,13,Mentah
+Jeruk,Buah,Suhu Ruang,4,7,Matang
+Pisang,Buah,Suhu Ruang,2,5,Matang
+Timun,Sayur,Suhu Ruang,4,12,Segar
+Cabe,Sayur,Pendingin,1,1,Busuk
+Wortel,Sayur,Pendingin,0,1,Busuk
+Apel,Buah,Suhu Ruang,5,10,Mentah
+Tomat,Sayur,Pembeku,2,1,Busuk
+Pisang,Buah,Pendingin,0,0,Busuk
+Jeruk,Buah,Pendingin,3,8,Terlalu Matang
+Kentang,Sayur,Pendingin,1,31,Segar
+Mangga,Buah,Pembeku,0,2,Busuk
+Jeruk,Buah,Pendingin,4,20,Matang
+Anggur,Buah,Suhu Ruang,3,9,Matang
+Timun,Sayur,Pembeku,2,1,Busuk
+Pisang,Buah,Pendingin,2,18,Mentah
+Pisang,Buah,Pembeku,0,30,Mentah
+Wortel,Sayur,Suhu Ruang,2,1,Busuk
+Jeruk,Buah,Pembeku,3,18,Terlalu Matang
+Anggur,Buah,Pembeku,4,38,Matang
+Cabe,Sayur,Suhu Ruang,4,13,Segar
+Timun,Sayur,Pendingin,5,21,Segar
+Pisang,Buah,Pendingin,1,8,Matang
+Timun,Sayur,Pembeku,2,27,Segar
+Apel,Buah,Suhu Ruang,0,9,Matang
+Kentang,Sayur,Pembeku,1,2,Busuk
+Wortel,Sayur,Pendingin,2,2,Busuk
+Jeruk,Buah,Pendingin,0,7,Terlalu Matang
+Apel,Buah,Pembeku,0,0,Busuk
+Jeruk,Buah,Pembeku,1,11,Terlalu Matang
+Kentang,Sayur,Pembeku,0,6,Busuk
+Apel,Buah,Pendingin,3,20,Mentah
+Tomat,Sayur,Suhu Ruang,0,4,Segar
+Cabe,Sayur,Pendingin,1,0,Busuk
+Wortel,Sayur,Pendingin,4,23,Segar
+Apel,Buah,Pembeku,1,4,Busuk
+Mangga,Buah,Suhu Ruang,4,4,Matang
+Pisang,Buah,Pembeku,5,31,Matang
+Pisang,Buah,Suhu Ruang,1,7,Matang
+Apel,Buah,Pendingin,4,13,Matang
+Jeruk,Buah,Pendingin,3,7,Terlalu Matang
+Anggur,Buah,Pembeku,1,22,Matang
+Mangga,Buah,Pembeku,0,1,Busuk
+Mangga,Buah,Pembeku,2,41,Mentah
+Cabe,Sayur,Suhu Ruang,2,12,Segar
+Pisang,Buah,Pendingin,3,19,Mentah
+Tomat,Sayur,Pendingin,2,2,Busuk
+Anggur,Buah,Suhu Ruang,3,8,Mentah
+Pisang,Buah,Pembeku,1,24,Mentah
+Pisang,Buah,Pendingin,5,12,Matang
+Anggur,Buah,Pembeku,1,36,Matang
+Anggur,Buah,Pembeku,0,0,Busuk
+Mangga,Buah,Pembeku,0,1,Busuk
+Timun,Sayur,Pendingin,1,3,Busuk
+Cabe,Sayur,Pembeku,2,20,Segar
+Wortel,Sayur,Suhu Ruang,6,19,Segar
+Cabe,Sayur,Pendingin,0,21,Segar
+Kentang,Sayur,Suhu Ruang,0,7,Segar
+Kentang,Sayur,Suhu Ruang,0,1,Busuk
+Timun,Sayur,Pembeku,2,41,Segar
+Cabe,Sayur,Pembeku,1,5,Busuk
+Cabe,Sayur,Pendingin,0,3,Busuk
+Apel,Buah,Suhu Ruang,2,4,Terlalu Matang
+Wortel,Sayur,Suhu Ruang,2,11,Segar
+Anggur,Buah,Pendingin,3,7,Terlalu Matang
+Jeruk,Buah,Pendingin,2,7,Terlalu Matang
+Anggur,Buah,Pembeku,2,8,Terlalu Matang
