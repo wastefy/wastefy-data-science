@@ -1,4 +1,3 @@
-# utils/chart_helpers.py
 import matplotlib.pyplot as plt
 
 def annotate_bars(ax, fmt="{:.0f}", is_float=False):
