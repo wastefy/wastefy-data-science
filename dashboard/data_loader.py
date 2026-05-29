@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 @st.cache_data
 def load_data():
-    df = pd.read_csv('../dataset/sayur_buah_bersih.csv')
+    df = pd.read_csv('../dataset/clean/sayur_buah_bersih.csv')
 
     if 'hari_sejak_pembelian' in df.columns:
         df['hari_sejak_pembelian'] = (

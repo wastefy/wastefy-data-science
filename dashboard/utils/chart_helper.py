@@ -1,7 +1,6 @@
 import matplotlib.pyplot as plt
 
 def annotate_bars(ax, fmt="{:.0f}", is_float=False):
-    """Tambahkan label angka di atas setiap bar."""
     for p in ax.patches:
         val = p.get_height()
         label = f"{val:.2f}" if is_float else f"{int(val):,}"
@@ -12,7 +11,6 @@ def annotate_bars(ax, fmt="{:.0f}", is_float=False):
         )
 
 def bar_and_pie(series, title_bar, title_pie, colors, fig_size=(12, 5)):
-    """Buat subplot bar + pie dari satu Series."""
     fig, axes = plt.subplots(1, 2, figsize=fig_size)
 
     series.plot(kind="bar", ax=axes[0], color=colors[:len(series)],

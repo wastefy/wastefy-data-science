@@ -19,7 +19,7 @@ df_clean    = load_data()
 page, kategori, lokasi = render_sidebar(df_clean)
 df_filtered = apply_filters(df_clean, kategori, lokasi)
 
-st.markdown(f'<div class="main-header">{page}</div>', unsafe_allow_html=True)  # ← st.markdown, bukan inject_css
+st.markdown(f'<div class="main-header">{page}</div>', unsafe_allow_html=True)
 
 if page == "Analisis Data (EDA)":
     tab1, tab2, tab3, tab4 = st.tabs([
