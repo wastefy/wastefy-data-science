@@ -1,8 +1,13 @@
+from pathlib import Path
 import pandas as pd
 import streamlit as st
+
 @st.cache_data
 def load_data():
-    df = pd.read_csv('../dataset/clean/sayur_buah_bersih.csv')
+    BASE_DIR = Path(__file__).resolve().parent.parent
+    csv_path = BASE_DIR / "dataset" / "clean" / "sayur_buah_bersih.csv"
+
+    df = pd.read_csv(csv_path)
 
     if 'hari_sejak_pembelian' in df.columns:
         df['hari_sejak_pembelian'] = (
