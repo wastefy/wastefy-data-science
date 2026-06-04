@@ -26,7 +26,7 @@ Wastefy bertujuan untuk mengurangi limbah makanan berupa sayuran dan buah dengan
 
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
-## 🚀 Setup
+## Setup
 
 1. Clone Repositori
 
@@ -35,13 +35,18 @@ git clone https://github.com/wastefy/wastefy-data-science.git
 cd wastefy-data-science
 ```
 
-2. Buat virtual environment
-
+2. Prerequisites. Gunakan Python versi 3.12
 ```bash
-python -m venv venv
+brew install python@3.12
 ```
 
-3. Aktifkan virtual environment
+3. Buat virtual environment
+
+```bash
+python3.12 -m venv venv
+```
+
+4. Aktifkan virtual environment
 
 - Windows
 
@@ -52,10 +57,10 @@ venv\Scripts\activate.ps1
 - Mac/Linux
 
 ```bash
-source venv/bin/activate..ps1
+source venv/bin/activate
 ```
 
-4. Install Dependensi
+5. Install Dependensi
 
 ```bash
 pip install -r requirements.txt
@@ -63,13 +68,13 @@ pip install -r requirements.txt
 
 ## Langkah Jalankan Dashboard
 
-1. Clone this repository
+1. Pindah ke folder dashboard/
 
 ```bash
 cd dashboard
 ```
 
-2. Create virtual environment
+2. Jalankan app.py dengan streamlit
 
 ```bash
 streamlit run app.py
