@@ -1,117 +1,81 @@
 # Wastefy - Data Science ♻️📊
 
-Selamat datang di repositori Data Science untuk proyek **Wastefy**. Repositori ini difokuskan pada pengolahan data, analisis, eksperimen model machine learning, hingga pembuatan dashboard visualisasi untuk mendukung sistem manajemen inventaris makanan berbasis AI.
+Repositori ini berfokus pada pengumpulan, pemrosesan data, analisis data eksploratif (EDA), dan pembuatan dahshboard menggunakan streamlit.
 
-## 👥 Tim Data Science
-- **Alif**
-- **Arya**
+## 📌 Ringkasan
 
----
+Wastefy bertujuan untuk mengurangi limbah makanan berupa sayuran dan buah dengan menganalisis karakteristik makanan, umur simpan, dan kondisi penyimpanan untuk menghasilkan wawasan yang dapat ditindaklanjuti.
 
-## 🌿 Strategi Branching
-Kami menggunakan dua branch utama untuk menjaga stabilitas kode:
-* **`main`**: Digunakan hanya untuk versi final dan rilis produksi.
-* **`dev`**: Branch utama untuk proses pengembangan. Semua fitur baru harus digabungkan ke sini terlebih dahulu.
+## 👥 Tim
 
-### Penamaan Branch Fitur
-Gunakan format `feature/ds-<nama-fitur>`. Contoh yang tersedia:
-- `feature/ds-cleaning`
-- `feature/ds-eda`
-- `feature/ds-dashboard`
-- `feature/ds-ab-testing`
+- <a href="https://github.com/alifanshar">Muhammad Alif Anshar </a>
+- <a href="https://github.com/AryaGoberto">Arya Gunavaro Goberto</a>
 
----
 
-## 🚀 Alur Kerja (Workflow)
-Ikuti langkah-langkah berikut untuk mulai mengerjakan fitur baru:
+## 📊 Data Dictionary
+| Nama Kolom             | Tipe Data            | Deskripsi                                | Contoh Nilai                                                             |
+| ---------------------- | -------------------- | ---------------------------------------- | ------------------------------------------------------------------------ |
+| `nama_item`            | String (kategorikal) | Nama buah atau sayur                     | Mangga, Timun, Apel, Wortel, Cabe, Jeruk, Anggur, Pisang, Kentang, Tomat |
+| `jenis_item`           | String (kategorikal) | Kategori item                            | Buah, Sayur                                                              |
+| `lokasi_penyimpanan`   | String (kategorikal) | Lokasi penyimpanan                       | Pembeku, Suhu Ruang, Pendingin                                           |
+| `hari_sejak_pembelian` | Numerik (integer)    | Jumlah hari sejak pembelian (dibulatkan) | 0, 1, 2, 3, 4, 5, 6, dst.                                                |
+| `sisa_hari`            | Numerik (integer)    | Perkiraan sisa umur simpan dalam hari    | 1, 2, 11, 30, dst.                                                       |
+| `label`                | String (kategorikal) | Kondisi item saat pengamatan             | Matang, Busuk, Mentah, Terlalu Matang, Segar                             |
 
-1.  **Update lokal:**
-    ```bash
-    git checkout dev
-    git pull origin dev
-    ```
-2.  **Buat branch baru:**
-    ```bash
-    git checkout -b feature/ds-nama-fitur
-    ```
-3.  **Lakukan perubahan/coding.**
-4.  **Simpan perubahan:**
-    ```bash
-    git add .
-    git commit -m "feat: deskripsi singkat"
-    ```
-5.  **Push ke remote:**
-    ```bash
-    git push origin feature/ds-nama-fitur
-    ```
-6.  **Buat Pull Request (PR)** ke branch `dev`.
+## ⚙️ Tech Stack
 
----
+Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
-## 📝 Aturan Commit & Pull Request
+## Setup
 
-### Format Commit Message
-Kami menggunakan standar *Conventional Commits*:
-- `feat:` (fitur baru)
-- `fix:` (perbaikan bug)
-- `docs:` (perubahan dokumentasi/README)
-- `refactor:` (perubahan kode yang bukan fitur maupun bug)
-- `style:` (format, semicolon, dll; bukan perubahan logika)
-- `test:` (menambah atau memperbaiki test)
-- `chore:` (update build task, package manager, dll)
+1. Clone Repositori
 
-**Contoh:** `git commit -m "feat: implement logic for data cleaning"`
-
-### Panduan Pull Request (PR)
-Saat membuat PR, pastikan:
-1.  **Judul PR:** `type(scope): deskripsi`. Contoh: `feat(ds): add k-medoids clustering script`
-2.  **Deskripsi PR:**
-    - **Apa** yang dibuat/diubah?
-    - **Kenapa** perubahan ini diperlukan?
-    - **Cara Test:** Langkah untuk menjalankan script/notebook tersebut.
-    - **Screenshot:** (Opsional) Lampirkan visualisasi atau hasil output jika perlu.
-
----
-
-## ✅ Review Rules
-Sebelum sebuah PR dapat di-merge ke `dev`, harus memenuhi syarat:
-- minimal **1 reviewer** memberikan *Approve*.
-- **No Conflict** dengan branch tujuan.
-- **Build Passing** (jika ada automated testing).
-- Tidak merusak fitur/script yang sudah ada.
-
-### 🚫 Larangan Keras
-- ❌ **Push langsung ke `main`**.
-- ❌ Coding langsung di branch `dev` tanpa melalui PR.
-- ❌ Penamaan branch asal-asalan (contoh: `test123`, `fixaja`, `baru`).
-- ❌ Commit message random/tidak bermakna.
-- ❌ Merge PR sendiri tanpa ada review.
-
----
-
-## 🛠 Penanganan Konflik (Merge Conflict)
-Jika terjadi konflik saat akan melakukan PR, lakukan langkah berikut di lokal:
 ```bash
-git checkout dev
-git pull
-git checkout feature/branch-kamu
-git merge dev
-# Selesaikan konflik secara manual di file yang bersangkutan
-git add .
-git commit -m "chore: resolve merge conflict with dev"
-git push
+git clone https://github.com/wastefy/wastefy-data-science.git
+cd wastefy-data-science
 ```
 
----
+2. Prerequisites. Gunakan Python versi 3.12
+```bash
+brew install python@3.12
+```
 
-## 📂 Pengaturan Lingkungan (Gitignore)
-File-file berikut **tidak boleh** di-commit ke repositori karena alasan keamanan dan efisiensi. Pastikan `.gitignore` Anda mencakup:
-- `.env` (Environment variables)
-- `node_modules/`
-- `venv/` atau `.venv/` (Python virtual environment)
-- `__pycache__/`
-- `secret.json` atau file kredensial lainnya (GCP Key, Database password, dll)
+3. Buat virtual environment
 
----
+```bash
+python3.12 -m venv venv
+```
 
-**Wastefy Project 2026** - *Better management for better future.*
+4. Aktifkan virtual environment
+
+- Windows
+
+```bash
+venv\Scripts\activate.ps1
+```
+
+- Mac/Linux
+
+```bash
+source venv/bin/activate
+```
+
+5. Install Dependensi
+
+```bash
+pip install -r requirements.txt
+```
+
+## Langkah Jalankan Dashboard
+
+1. Pindah ke folder dashboard/
+
+```bash
+cd dashboard
+```
+
+2. Jalankan app.py dengan streamlit
+
+```bash
+streamlit run app.py
+```
